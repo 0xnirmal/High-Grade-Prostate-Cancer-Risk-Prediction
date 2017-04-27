@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+54a62def-ce9c-55ac-b119-5aa3468b3e0f	12119	case	f8d8b417-5945-42a5-850a-fbc04b4f0e61	Synchronous malignancy	Notification	2012-11-10T00:00:00	Approved	Pt with synchronous bladder cancer

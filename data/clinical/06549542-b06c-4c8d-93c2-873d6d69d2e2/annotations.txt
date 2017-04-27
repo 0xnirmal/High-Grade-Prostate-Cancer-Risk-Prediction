@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+db6cfd3a-fb7d-5afe-8362-3b3a36dfe45d	28419	case	5089a8d2-a353-4150-8a6b-6478c5bb29bb	Neoadjuvant therapy	Notification	2015-06-22T00:00:00	Approved	TSS confirm this patient had chemotherapy prior to cancer procurement.

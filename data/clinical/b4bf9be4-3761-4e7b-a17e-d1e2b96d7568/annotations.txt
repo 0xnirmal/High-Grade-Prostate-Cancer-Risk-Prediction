@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+51fdc290-5a37-5fe3-882d-4634b542a431	21477	case	00dda860-53c3-4ab2-8294-73e291adf9d2	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2014-07-31T00:00:00	Approved	Patient had previous cancer in thyroid gland and unknown radiation and chemotherapy.

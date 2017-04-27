@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+21720488-e499-5fb4-bc18-e36037fe3c76	26860	case	1bc21d56-299d-40bc-b9c8-c74db990611e	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2015-02-24T00:00:00	Approved	During Enrollment it was found that the patient had a prior skin malignancy where dates and txreatment information are unknown.

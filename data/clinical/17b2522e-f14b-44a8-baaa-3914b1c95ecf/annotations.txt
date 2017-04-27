@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+56e17c7d-82c4-5b95-9632-1656e36e6a01	12061	case	928c48a0-68ee-4e28-ae83-9832e52850ca	Synchronous malignancy	Notification	2012-11-10T00:00:00	Approved	Pt with synchronous Non-Hodgkins lymphoma of a lymph node.  No systemic chemo or radiation.

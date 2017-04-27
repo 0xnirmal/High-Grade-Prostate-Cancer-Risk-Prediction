@@ -1,0 +1,5 @@
+id	filename	md5	size	state
+5da8b3a3-86cc-4d5b-8f0c-0d3cf9eb8d0e	TCGA.PRAD.varscan.5da8b3a3-86cc-4d5b-8f0c-0d3cf9eb8d0e.somatic.maf.gz	6fb0daa615e2d1b42bdb7663988a3277	2919822	live
+b97f5495-ab12-48c7-a436-612569242bd7	TCGA.PRAD.mutect.b97f5495-ab12-48c7-a436-612569242bd7.somatic.maf.gz	25921d7e5b35826391b6bb2aa0959c41	4319467	live
+b27ec36f-3730-447a-aa8f-68974cff85de	TCGA.PRAD.somaticsniper.b27ec36f-3730-447a-aa8f-68974cff85de.somatic.maf.gz	0de1aa8a27d2b365ef7fb5106d17a24b	2390466	live
+a87f6f43-ec67-4f4d-a5e1-997b58eede9a	TCGA.PRAD.muse.a87f6f43-ec67-4f4d-a5e1-997b58eede9a.somatic.maf.gz	206005d178dfc7aa0d204ca966b50197	3050255	live

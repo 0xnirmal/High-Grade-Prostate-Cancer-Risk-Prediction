@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+a763b979-017c-56f2-80b3-ca70b88b23fd	11704	case	929837f9-297a-47c0-ac9a-a142eef620d3	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy SCC of the neck.  No systemic chemotherapy or radiation.

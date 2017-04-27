@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+5f247836-56dd-5c01-a6ed-2cd3c65c96c5	11861	case	4fe004e5-49f9-4336-a690-6ebad512c813	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy basal cell carcinoma L arm.  Unknown treatment history.

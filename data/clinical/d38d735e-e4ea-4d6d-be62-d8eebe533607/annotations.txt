@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+9a1ef01f-58f9-551a-a7b7-a8a361fca95e	23879	case	9b015929-99eb-4e74-8fbf-6b2e6d7f08e4	Neoadjuvant therapy	Notification	2014-12-30T00:00:00	Approved	Case had prior neoadjuvant hormone therapy (leuprolide) prior to TCGA cancer procurement.

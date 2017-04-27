@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+282890a4-c983-54e4-89eb-8810018bdcc2	17248	case	a608bf0e-a932-4541-8439-2ffb9f6294b0	Qualified in error	Notification	2013-09-03T00:00:00	Approved	Subject qualified in error due to absence of malignancy in the tumor
+91a20b84-e97e-5428-9411-a5f72f4fd09c	17241	case	a608bf0e-a932-4541-8439-2ffb9f6294b0	Pathology outside specification	Notification	2013-09-03T00:00:00	Approved	Upon re-review, no tumor was found in the tumor sample.

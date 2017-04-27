@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+e0fd3243-5640-5ca8-8300-fd0151706214	28379	case	b47791ba-85fd-41d0-ac1f-b6fa06f18e96	Neoadjuvant therapy	Notification	2015-05-27T00:00:00	Approved	During Enrollment, TSS confirmed patient received pharmaceutical treatment prior to TCGA tumor procurement. No other information given.

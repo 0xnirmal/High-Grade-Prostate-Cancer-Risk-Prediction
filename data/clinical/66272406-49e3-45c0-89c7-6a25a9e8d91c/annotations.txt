@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+f45a166f-d67b-5de1-8cbd-b5782659457a	11826	case	ecf9f8be-7830-4626-8617-694c68ef4074	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy colon cancer.  No systemic chemotherapy or radiation.

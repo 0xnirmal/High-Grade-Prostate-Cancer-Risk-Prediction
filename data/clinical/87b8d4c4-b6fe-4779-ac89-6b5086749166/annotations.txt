@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+3422d11d-ba34-5daf-a94a-cd95cd552a12	20851	case	06c9eb11-6018-4015-9fbe-b46886b2c3e0	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2014-06-19T00:00:00	Approved	extent and type of chemotherapy unknown

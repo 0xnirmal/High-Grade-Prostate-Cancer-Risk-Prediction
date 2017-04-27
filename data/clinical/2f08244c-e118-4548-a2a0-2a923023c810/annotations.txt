@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+3cdedd8b-9ffe-5628-8e7b-cf25656d72db	17242	case	cec1d2ff-36e6-497e-892c-b329724b4722	Pathology outside specification	Notification	2013-09-03T00:00:00	Approved	Upon re-review, no tumor was found in the tumor sample.
+7e4d7788-c833-57b9-80a3-0c1622a6b826	17249	case	cec1d2ff-36e6-497e-892c-b329724b4722	Qualified in error	Notification	2013-09-03T00:00:00	Approved	Subject qualified in error due to absence of malignancy in the tumor

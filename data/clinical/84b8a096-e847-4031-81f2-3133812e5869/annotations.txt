@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+f04b8e32-b9dc-5d92-b374-74a03bc83397	20850	case	07ccb4e9-a2a9-4bfd-97bd-13873b01977a	Item does not meet study protocol	Notification	2014-06-19T00:00:00	Approved	Upon second review, the frozen top slide used to qualify the case had no tumor.

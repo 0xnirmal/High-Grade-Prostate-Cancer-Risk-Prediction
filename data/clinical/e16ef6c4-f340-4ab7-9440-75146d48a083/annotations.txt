@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+72f2ed4e-67a7-5f46-b5c8-e3b4510c2345	11825	case	ed73f136-42e8-4100-b432-d10370d07e8b	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy esophageal cancer. No systemic chemotherapy or radiation.

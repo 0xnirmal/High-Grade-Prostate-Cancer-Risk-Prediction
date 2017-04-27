@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+72dfac0c-b37c-5223-81da-2a93c13908fb	11860	case	9519be01-d78d-462c-8a95-34149538afeb	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy basal cell carcinoma of the nose. No systemic chemotherapy or radiation.
