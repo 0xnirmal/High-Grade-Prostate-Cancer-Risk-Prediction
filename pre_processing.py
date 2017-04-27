@@ -4,14 +4,26 @@ import os
 import xml.etree.ElementTree as ET
 
 try:
-	snv_path = sys.argv[1]
-	clinical_path = sys.argv[2]
+	data = sys.argv[1]
 except BaseException:
-	print("\nError: This script should be run with the following (valid) flags:\n python pre_processing.py data/snv/ data/clinical/\n")
+	print("\nError: This script should be run with the following (valid) flags:\n python pre_processing.py data\n")
 	sys.exit(-1)
 
-snv_path = os.getcwd() + "/" + snv_path
-clinical_path = os.getcwd() + "/" + clinical_path
+map_path = os.getcwd() + "/" + data + "entity_id_to_uuid.txt" 
+snv_path = os.getcwd() + "/" + data + "/snv"
+clinical_path = os.getcwd() + "/" + data + "/clinical"
+
+# creating a map from the entity id (in our snv data) to our patient uuid (in our clinical id)
+entity_id_to_uuid = {}
+with open(map_path, 'r') as file:
+	for line in file:
+		raw = line.replace("\n", "").lstrip().split("\t")
+		entity_id = raw[0]
+		uuid =  raw[2]
+		entity_id_to_uuid[entity_id] = uuid
+
+print(entity_id_to_uuid)
+sys.exit(-1)
 
 # Determining the UUID and Gleason scores of our clinical data
 for subdir, dirs, files in os.walk(clinical_path):
@@ -24,6 +36,8 @@ for subdir, dirs, files in os.walk(clinical_path):
 			for neighbor in root.iter():
 				if neighbor.tag == "{http://tcga.nci/bcr/xml/shared/2.7}bcr_patient_uuid":
 					uuid = neighbor.text
+					print(uuid)
 				if neighbor.tag == "{http://tcga.nci/bcr/xml/clinical/shared/stage/2.7}gleason_score":
 					gleason = neighbor.text
+					print(gleason)
 					
