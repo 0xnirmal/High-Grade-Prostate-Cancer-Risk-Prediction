@@ -1,1001 +1,1001 @@
- 379affa6-98e2-459e-ac52-5ce57f69e2dd	Aliquot	Primary Tumor	aae0fca8-99e9-4fde-a2e9-b0ea500737f8	0
- 951bf391-e24b-41f8-ba79-ba1ba44d09a8	Aliquot	Blood Derived Normal	a6d467cf-6783-4885-8de5-95d32e922500	0
- 0fe4914b-4eed-4620-bd08-4a854ee94df6	Aliquot	Blood Derived Normal	f6743ff8-542e-4fde-8ff2-4878fcabffda	0
- 8e0af26e-760e-4842-8e0f-c073f3b67fc8	Aliquot	Primary Tumor	00e41e6a-9fe7-44f9-978b-7b05b179506a	0
- 046e13f7-4c6e-4ee1-97c8-8adf4fa21c42	Aliquot	Blood Derived Normal	29bd2c05-254b-4bb2-ae32-5b328f772441	0
- b8c79fa3-a242-4536-90de-33daeb65c445	Aliquot	Primary Tumor	a13a7252-de84-4950-9307-80fc8a6a668d	0
- 5c82813e-861d-4893-bc6c-9cc3c0dba6c3	Aliquot	Solid Tissue Normal	88705b03-aa27-45c5-bef0-bb697799f9df	0
- e3c8391f-2734-44a4-b1d4-729d7637f6d6	Aliquot	Blood Derived Normal	9044098b-415d-4893-a682-3636f6b2b2db	0
- 406a543f-c14a-4f78-bf50-77ea7e9a8ede	Aliquot	Blood Derived Normal	0e747c7e-3621-4d88-847c-86811655d908	0
- f519e32d-0ee8-4f58-975c-3d717fb4e774	Aliquot	Primary Tumor	8c0d361f-eaab-4768-90f2-b7a610e2bbb1	0
- 0a1f24ca-9ea6-45b4-aae1-2174a9670065	Aliquot	Primary Tumor	f4478172-7727-4680-9934-da755ab1825c	0
- 03fd3a9c-8dae-4e30-9439-2c509bcaae9c	Aliquot	Blood Derived Normal	256f5bcf-10a9-47be-b265-cfa707d24097	0
- 50f0a6a4-1453-4dc2-b963-53a6075ce4cd	Aliquot	Primary Tumor	c46022f8-b122-4367-836b-ec1ae641a87d	0
- 335eea2f-41a0-419e-9da3-316bb8514aa2	Aliquot	Blood Derived Normal	301c4c32-bc66-4328-8dcf-fe3dd66fbde2	0
- 954243c2-9440-4e7f-950d-ab48dfe1b570	Aliquot	Primary Tumor	e0ff90e5-e6c3-4fb5-9512-6f09a891378b	0
- 0b92342c-e2a3-4f38-9ed1-bd7f1aac35f7	Aliquot	Blood Derived Normal	93e78f4c-e74b-4675-8d2c-d641fa25d8f2	0
- e1eef67e-8d86-427e-bf5b-6cf34a01b998	Aliquot	Primary Tumor	da5b0169-e4f4-4674-b348-220af03ff4b5	1
- 91e00401-e16e-4067-ae4d-28fce0a0425e	Aliquot	Blood Derived Normal	0f01ec33-00a8-4188-a8f0-e90d46ad9bc7	0
- 109b048e-6856-44d8-a162-3d4c46493327	Aliquot	Blood Derived Normal	b751083d-be6d-45da-be97-a6d41d8ebe97	0
- 1977a26b-0d18-495c-8a57-ac73a2953e90	Aliquot	Blood Derived Normal	71d14304-ccb0-4a4c-b935-8c014ca75fd0	0
- 4e25c1b9-c691-44c5-bc32-85ddca3e1196	Aliquot	Primary Tumor	701991da-6deb-41df-b9cc-e5049a886b5b	0
- cff41f62-8849-4654-807b-f02b1b04ba18	Aliquot	Primary Tumor	ecade538-f882-4f29-a363-7acb89fd0576	0
- fab25240-6b31-4570-b1dc-8e37d42997d0	Aliquot	Blood Derived Normal	8cc7679d-b963-4b45-b3f8-dcf80ea6cc71	0
- 79086298-47f2-4553-bf73-fc0572aebf2e	Aliquot	Primary Tumor	7eea6fd7-733c-44eb-b4b7-50bb3a2628a0	0
- c866d486-7422-4b92-89e2-f77933384d64	Aliquot	Primary Tumor	7315bb0a-96a1-45ab-a704-b084d237cf5c	0
- e288a257-57d7-4ddb-b99e-aff289bcc4be	Aliquot	Blood Derived Normal	1bcb1132-a9fc-4f03-bbed-abaf80c7a24a	0
- 94ff6d8f-9403-4266-a6a8-0c264a0116fd	Aliquot	Solid Tissue Normal	deb57bd8-545f-477a-9a86-6bc6db257270	0
- 80c2ed07-50fd-43ca-98d2-af4ed0fa6c87	Aliquot	Blood Derived Normal	74de01bd-30d9-45fc-841d-ed1c0d7446ba	0
- f07b8ebf-6f30-4011-b595-5571f05c364b	Aliquot	Primary Tumor	8dc53431-44ab-485e-b4e6-c3d06509506d	0
- c977d3c1-60f0-4987-b74d-d523a17f3784	Aliquot	Primary Tumor	208a75b3-407c-4c5a-8938-3691547b6887	0
- 112415c3-8cea-4608-9f55-c5714ac77390	Aliquot	Blood Derived Normal	e2b33861-2247-413f-b2e5-9be3b604666c	0
- 0b70f94f-f1c7-406b-b91b-3293c29e666b	Aliquot	Blood Derived Normal	b7c8ca4c-8d9c-4c5b-99ee-2fcebe4f70e6	0
- 71c317f6-14a3-48e0-a4b2-d53d72060ff3	Aliquot	Blood Derived Normal	35243518-b086-4d76-a336-8c61a14f9ded	0
- 5c2da700-8b1e-4ca3-8960-f8f0028ca0d8	Aliquot	Blood Derived Normal	3de1a86b-aaeb-4f0d-9f32-1fda924198d7	0
- 5d6e5f5b-51e4-47f3-835d-ea897c775d3a	Aliquot	Blood Derived Normal	73b7d4bc-6b56-4ae8-be7f-074745563bee	0
- 436a93af-a810-4d2e-aaea-b63735c080c4	Aliquot	Blood Derived Normal	89afdebe-456e-4128-8902-1001876a2106	0
- d5048e04-2519-42cc-8990-41612b2ad528	Aliquot	Primary Tumor	607200f5-df80-4f5d-90fb-fdc455a7415b	0
- 85714546-69c0-468e-b38a-3e0e886d44c7	Aliquot	Primary Tumor	f25bae1a-8627-46a8-87af-07f82773c68a	0
- cf03c931-271d-477f-ba45-74d7d52ae213	Aliquot	Primary Tumor	df3362cb-0f6b-412e-8af4-c5606526be17	0
- 57c67ced-cab5-4e66-a6b8-04c020bd4a3e	Aliquot	Primary Tumor	45a04209-8fac-4181-bba3-1437c8fd7f09	0
- b1c94201-9a51-43a9-8d6c-75e8f0ef7420	Aliquot	Blood Derived Normal	19cf56b2-a85b-43e7-971f-5680b9b1a67a	0
- 59d383d8-c1ee-4cf7-b802-0a75b257e576	Aliquot	Blood Derived Normal	3ba3d23d-67e2-4f38-9951-f5cfa1131f9f	0
- 7657dad4-c2db-417a-a77c-4de308ef3f61	Aliquot	Primary Tumor	29bd2c05-254b-4bb2-ae32-5b328f772441	0
- 81dd038c-ba90-481c-90dc-c89b3048fc99	Aliquot	Primary Tumor	0f01ec33-00a8-4188-a8f0-e90d46ad9bc7	0
- ac240fae-de3a-4831-af2d-0047fca54825	Aliquot	Primary Tumor	3971a2f0-7263-4cda-aa01-9a2ebb2c2ff2	0
- 3bbac3a7-c057-4b25-acbe-f195ef6045ff	Aliquot	Primary Tumor	fd50ff41-ec9d-4db1-a673-36ba0ca1eac8	0
- 56f5e8ae-b53a-4a02-9e21-a2a03f384dc5	Aliquot	Primary Tumor	2d350c73-2a0b-4a3c-8d30-c6fcf6c3ffba	0
- b63236ea-caa8-44c1-ba56-d36c6c394c23	Aliquot	Blood Derived Normal	b5268f49-2710-4d17-a78b-4a05412e8375	0
- 7a8a6772-4da4-4461-adcf-094b84fed702	Aliquot	Blood Derived Normal	007f9081-5093-4323-b4f8-cd510bf20705	0
- 7b5c45f2-39e1-4da3-af33-4b8f35de09c7	Aliquot	Solid Tissue Normal	9a8caef5-6543-4391-8a55-4999035693c5	0
- 21a67a0f-4f96-4d09-b462-3e06269d787c	Aliquot	Blood Derived Normal	5277f041-f9fb-47c2-83f3-65ad230dd40a	0
- c18a4706-70cf-463a-be68-fffa9c36c5d6	Aliquot	Primary Tumor	5e7a7629-800a-45c4-b4cb-314a853a1bec	0
- b4a89182-c17c-42a8-af9e-4fcc861e336c	Aliquot	Primary Tumor	214884ef-a932-4fc3-b6ff-16ce5164da3e	0
- fe51bd58-bb0e-41cd-aeee-4bf7aa9579a2	Aliquot	Primary Tumor	8cc7679d-b963-4b45-b3f8-dcf80ea6cc71	0
- 67cdd8c3-0dbd-4b0d-87c3-49c9e86c24f6	Aliquot	Blood Derived Normal	f25bae1a-8627-46a8-87af-07f82773c68a	0
- 48f40308-4306-49e9-95a2-2f3d5430bb1c	Aliquot	Primary Tumor	5447a0e0-80ca-40fb-8233-504fde51f22c	0
- aeaabd2b-588d-4ab0-a18d-66fe3cf89520	Aliquot	Primary Tumor	0e747c7e-3621-4d88-847c-86811655d908	0
- 8d1ae986-87cd-496a-956f-5dfe60cea2e7	Aliquot	Blood Derived Normal	9d499039-37ca-4300-ae95-04bbe007c0d2	0
- 258a8d92-ed5a-4028-a93f-28b61fa48dec	Aliquot	Solid Tissue Normal	f4aebd64-a356-4c05-b847-6dd28cf26339	0
- 6726ba39-e6c1-4bce-9c82-f6eaef773988	Aliquot	Primary Tumor	d17b1955-0565-46c1-a5a7-ecd41ac0286a	0
- e67df746-03cd-41aa-a469-93b419fa7143	Aliquot	Blood Derived Normal	5d8c9b90-8d40-4cdd-900d-03681bc2d2a6	0
- 10d212ad-7a3d-4bb9-849e-3bcf4fcdf741	Aliquot	Primary Tumor	fcbd7b29-12da-44c8-b241-1388d1b15684	0
- 282f9df5-390b-4f67-a898-44746b337dc6	Aliquot	Primary Tumor	1cbaa137-c3b0-46a2-9b23-208682c2a438	0
- b4ade944-957e-4ec1-a880-e330b8de3980	Aliquot	Blood Derived Normal	490e84ed-3c02-4593-990e-ade5c109df44	0
- 3471f90f-e293-45d1-a6cf-4927be485fd9	Aliquot	Primary Tumor	a608bf0e-a932-4541-8439-2ffb9f6294b0	0
- 91c131c3-f705-4867-8a15-2661ef72a6c1	Aliquot	Blood Derived Normal	3fa83688-1724-42cb-a600-472e4c500e89	0
- 80ac0a78-2ebc-488d-a0db-c2fda0b57966	Aliquot	Primary Tumor	f4aebd64-a356-4c05-b847-6dd28cf26339	0
- 264de6e7-6977-404f-94eb-1bfbedd5a1e7	Aliquot	Solid Tissue Normal	7d931c19-1fce-4409-8a9c-9c65631ccbac	0
- 12e9a8b5-35d2-401b-aa04-653ab14c2331	Aliquot	Blood Derived Normal	d8f56d75-51ab-4a86-a502-c86e1dcd1eff	0
- c0c3acfc-b0cc-41e0-833d-928662350c68	Aliquot	Primary Tumor	2648c3c9-9884-4a0c-96aa-61130cd289ea	0
- d26a95e2-53bc-4bf8-8b58-3fe3899d106e	Aliquot	Blood Derived Normal	931feb14-3f69-41c1-8435-5fd4fb775bdf	0
- c37c3d52-109b-4aa9-91af-4599adb223f0	Aliquot	Primary Tumor	dc16f348-a49f-4958-a3ff-bc40e18df2bd	0
- 6c224cf4-f1e6-4aa3-b08b-8d28cac6b2f6	Aliquot	Primary Tumor	ead15a1b-726a-46aa-9005-a22f4b89d011	0
- 5f191346-ea91-4227-861e-18f4cd4ecc5f	Aliquot	Blood Derived Normal	9b015929-99eb-4e74-8fbf-6b2e6d7f08e4	0
- e7d643e8-1bc8-4a0d-af31-ca9f06243547	Aliquot	Primary Tumor	c75bee57-d6da-4083-9be8-17c970b77fc7	0
- 2cacf700-84ab-4917-8c2e-0f38205063dd	Aliquot	Blood Derived Normal	b6f54bdc-9b1b-4465-a6e3-f0524885e10e	0
- 78928ca5-e8a3-4c7c-a8ca-a0e5801870f9	Aliquot	Primary Tumor	4045f40b-d42a-4598-9ee2-0d371a776d3f	0
- 9e145950-4c73-4ca2-a9a7-1e915b9268ec	Aliquot	Blood Derived Normal	da07da37-bde6-480a-a302-98683ae3931a	0
- e45d5e62-ce70-466d-b4b3-620d70c95651	Aliquot	Primary Tumor	27953774-e97b-48e7-b966-1ec1e9c830b4	0
- 0c8cd31c-0194-4b85-bb50-ba9f14c78b19	Aliquot	Blood Derived Normal	e8f39c9e-0f1a-401c-9055-762b52bc77c7	0
- ac932a61-4c1c-4987-96e1-97364aca3e20	Aliquot	Solid Tissue Normal	bf462e14-f9e8-4531-905d-1fb59d9088cb	0
- 686d289d-fcb7-456e-833f-11f3b2d5a361	Aliquot	Primary Tumor	a1e64294-1264-498d-b18b-c9b4c729c2f2	0
- 2f1be801-cd94-47b5-90b7-e2aea915e66b	Aliquot	Blood Derived Normal	00f0f7dd-71de-4e4f-b4b5-df860324f2e8	0
- 3ec7131a-d645-47a5-baa3-10b19f243846	Aliquot	Primary Tumor	64bf32c9-9466-404a-a147-e7a0b9e91e34	0
- 49224380-bffd-4048-93a7-fb4b19285c35	Aliquot	Primary Tumor	c28f931f-5ab2-4899-9fe9-54024f082d92	0
- bd88704d-1edf-4179-a293-d9823e1d7945	Aliquot	Blood Derived Normal	a7045324-cb44-4b37-bbaf-641642c1d903	0
- 3a578d0f-5710-413d-a40a-e75f63e7042a	Aliquot	Primary Tumor	18b8ad7f-0f39-4853-ae13-5b13aa5e6f7d	0
- 9b19febe-309d-4958-8102-f0fc7490dabb	Aliquot	Blood Derived Normal	fca0331b-8096-40e8-b292-d438370c37c9	0
- 1ed242e5-cb06-4cb6-b21f-fef81d717693	Aliquot	Blood Derived Normal	348c2bf3-2146-4990-9adf-fa6968b4f072	0
- 79088904-66c8-4761-858f-bab16dbf915d	Aliquot	Primary Tumor	1bc21d56-299d-40bc-b9c8-c74db990611e	0
- 4fb4b9c0-ff21-4077-8c20-0e3acc8d0b39	Aliquot	Primary Tumor	6b3f53ab-00f4-4c45-9bb5-5c8adbc66084	0
- 12dd9452-9a7b-4193-85c7-573b088b1979	Aliquot	Primary Tumor	582d1177-73b0-4a9c-8505-70d6b402bd01	0
- d500dcf5-dcd0-4372-b69e-011974798a94	Aliquot	Blood Derived Normal	661dc657-d2b3-44fa-b859-2c4ee42b0046	0
- 4d2a435f-5ae8-4a20-be13-cf9208534cd2	Aliquot	Blood Derived Normal	17c0ce0f-8227-4119-9b39-ea8db18f5f4b	0
- 997549f6-8dde-4b4a-b477-609a535b301f	Aliquot	Primary Tumor	d1fd7be0-6daa-4f1f-a198-3dca7a797e49	0
- 58adc8fa-3f18-4834-b1b5-d45667de6d78	Aliquot	Primary Tumor	305b0b57-5952-43c7-9063-7bcd954eb44d	0
- 7a3512f7-1306-483f-a744-ffefce67c8d2	Aliquot	Primary Tumor	433d1441-6d5b-4455-a731-65f172bb016d	0
- ce4c568d-84ca-4819-a08b-7dca4ad7fc1a	Aliquot	Primary Tumor	39303e7c-5baf-479d-a112-d8f03a18c621	0
- 72ce9985-5383-41a0-a73d-5284713c9bba	Aliquot	Primary Tumor	aeec3005-25d7-45fc-a9ff-014d57960216	0
- 8486179b-1f5d-4f30-9d89-0672c1e73383	Aliquot	Blood Derived Normal	30aba886-5152-4e25-b36f-6ce7009d419e	0
- d19f8f3a-2084-4991-b2d4-e42c6747adc5	Aliquot	Blood Derived Normal	11882dac-3ba3-40fa-8af4-174cba77881a	0
- 955a0861-eff0-463b-908c-a108ddb4b971	Aliquot	Primary Tumor	84a5d5fc-7350-4846-a1bc-8bfadbcff8dc	0
- 573b63e8-ecb6-4c86-932a-fd674800d592	Aliquot	Blood Derived Normal	698ce9a9-6512-4fb8-a574-a26ee259414c	0
- 8fae14ec-5bd1-4057-a5f4-a7ce7e45e5f3	Aliquot	Blood Derived Normal	433d1441-6d5b-4455-a731-65f172bb016d	0
- 8fe17b0c-48f1-4379-8572-d415746ee01b	Aliquot	Primary Tumor	33283111-9a2f-4d5e-92a5-3435846404f7	0
- 316e21f4-9c3d-41d4-aafd-5fb3c3743ba2	Aliquot	Blood Derived Normal	1f4ff2c7-3fbb-46a1-99cf-68d2c33c5175	0
- d074f30a-3b97-4e7d-a291-576c573768e9	Aliquot	Primary Tumor	e9a4c770-665f-454b-81f7-b8ae3f1e154e	0
- ce7b01a1-f923-4ed8-a350-eaf02a60ac73	Aliquot	Blood Derived Normal	5e3d0e50-afb4-4d2d-b4d9-5f320c573ba3	0
- 479abe86-78d2-4955-b8f3-03be4c2709c5	Aliquot	Blood Derived Normal	0aad0abd-750a-400d-a34f-491da996d46c	0
- c2bdbfc0-d13e-4d0f-904b-05c033a72b77	Aliquot	Primary Tumor	1d7ffbe7-6139-412b-8739-8082a63a2b33	0
- a8f14eb8-6c49-4824-95e3-5d14cfe55729	Aliquot	Blood Derived Normal	e9a4c770-665f-454b-81f7-b8ae3f1e154e	0
- af2ce051-08ef-4359-a67b-359a82b9e6a9	Aliquot	Blood Derived Normal	ba0c9096-5f35-4f0a-ae98-ee1a695b55f0	0
- 532ff1cc-59ff-4078-a917-5e3934db4cc7	Aliquot	Primary Tumor	b424b73a-2dfa-473f-ab56-ab382cd1cdef	0
- 83d97b01-92e2-41d7-acca-2d96a560970b	Aliquot	Primary Tumor	661dc657-d2b3-44fa-b859-2c4ee42b0046	0
- 557d13df-5e0a-415f-847d-60d0b16f88c0	Aliquot	Blood Derived Normal	fb7e9935-32a2-422b-8004-88b827a686c2	0
- 40ec64e3-ca43-4bac-8a1a-62f299e29f7c	Aliquot	Blood Derived Normal	4ef24cca-976b-4c2f-8810-4339967da570	0
- 05a8fbba-61ac-42a4-b375-87f3a671446b	Aliquot	Primary Tumor	928c48a0-68ee-4e28-ae83-9832e52850ca	0
- 3cea7ce0-744e-4962-ac48-f1944c48e13f	Aliquot	Primary Tumor	d4ff9f1a-1d35-4ad6-9a36-059547081c7e	0
- 1a7ebb7c-bb87-4bc6-8d42-00dffd9591e1	Aliquot	Primary Tumor	f211f7a9-cf3b-432c-9ea0-1172cce14e9d	0
- 476829e1-ad0a-4621-9ec5-7e20e881c540	Aliquot	Blood Derived Normal	f4e17ba1-f14f-480e-8fe3-415909fc320a	0
- 78cd4d11-912a-4d29-b702-b04b9ad5528f	Aliquot	Primary Tumor	b5b3871c-078c-46a7-ac50-ef916d4a6781	0
- b153654d-dc6f-4409-afb3-30fd935ea8b5	Aliquot	Blood Derived Normal	e4a755e3-4938-4321-b5a9-27a445036791	0
- 61e0c2ed-204a-4bd3-b9fa-441029d8780d	Aliquot	Primary Tumor	1426b4bf-f4a5-477c-bbbb-e0e656549764	0
- 291c97ad-143c-40b6-9405-7b75ab8e23e4	Aliquot	Primary Tumor	b0669eec-6a1a-4618-ae23-ae0f9e9c266c	0
- 9ddf3f3e-d1b5-40c9-8781-91fc7ad54cb3	Aliquot	Primary Tumor	c3fd52fe-bdc2-4cca-91c7-590a192f80ed	0
- ba8e7248-e06a-4817-8199-d0a3a52e0a5f	Aliquot	Primary Tumor	341940fc-dd2a-485c-a359-d5e5edb22312	0
- 10f30605-2413-49d7-a9e7-042fb7c2c336	Aliquot	Primary Tumor	4db62b98-abd4-4a7c-9fce-8bbda2aec8a3	0
- 1e35e6a7-5860-4968-a711-6d0875c29465	Aliquot	Primary Tumor	c7912ca7-11e1-4cb8-902a-9d6cb23fd344	0
- 2e305204-80d3-4c7c-b416-3ceb01e18ae0	Aliquot	Blood Derived Normal	e833ad67-2cb3-414c-b15e-28f49479e2ef	0
- f255429b-c98f-4c60-ad83-3b67ddb553c5	Aliquot	Primary Tumor	88658b66-f293-4aff-9e33-05abfafd3b43	0
- 8ccb9a1a-8f45-44c1-9650-b90ebf475a2c	Aliquot	Primary Tumor	607fd22b-f281-431b-848e-ae01e69567e2	0
- b01429d0-5689-4988-9b04-c5c9173cc5a5	Aliquot	Primary Tumor	5e3d0e50-afb4-4d2d-b4d9-5f320c573ba3	0
- 9d04bc84-6f8d-4ff3-8044-44e342859531	Aliquot	Primary Tumor	0afa0e02-daae-47e6-9ccb-9de8e4feb73c	0
- e883ecaa-298d-48b8-929a-0ce5fb7b476b	Aliquot	Blood Derived Normal	3a6e0fd1-6e06-4002-9d1a-88edf7944567	0
- c8565d71-27c7-400a-bd9b-97fd79a7e8e7	Aliquot	Blood Derived Normal	0730216b-c201-443c-9092-81e23fd13c6c	0
- 3615236e-5eaf-49d1-b864-d08c3bd3e65c	Aliquot	Blood Derived Normal	494a8495-8d10-4a8f-8664-f68ac339c889	0
- fdeb9e4e-d715-4565-9cb4-40525a0575ad	Aliquot	Primary Tumor	5dc7e186-7e01-4a54-8ae8-350dace2297b	0
- 04ded7a3-d7f2-43a0-9124-6e5a89a0013c	Aliquot	Primary Tumor	56353d9c-9578-4d62-9dcd-92d800efdea0	0
- 644108d8-dcc6-4d2d-85c0-ba6ac153cc9b	Aliquot	Primary Tumor	89c150cf-f60c-4f11-8f3e-384b0e0902f9	0
- 35af79db-a9a4-4373-b07e-bb3a09a0b870	Aliquot	Solid Tissue Normal	a7b76662-8380-4f35-9307-99c0acacb904	0
- 0e96e352-8a8f-4960-ad33-d64018480ff1	Aliquot	Blood Derived Normal	721e76d0-4b1d-4e78-adb8-1344b8030062	0
- 0a005527-1b2e-4204-8474-df49da92cb18	Aliquot	Solid Tissue Normal	b1bdaf2d-7d84-4409-9427-5390150bb96d	0
- 19093082-7365-4b1e-aeea-9a7203bf78a3	Aliquot	Primary Tumor	c4ebb2eb-e1f0-4490-80f3-5cf0c40a3091	0
- 4b3d6c97-dfa9-4531-b8b6-7d195c52e25b	Aliquot	Primary Tumor	e0dfc37a-4a2e-4353-9673-241b100b3467	0
- f59ccc77-35be-4949-8994-517c407d30fd	Aliquot	Solid Tissue Normal	39303e7c-5baf-479d-a112-d8f03a18c621	0
- b5232ee2-18b3-4257-8a61-5d460b11ee7e	Aliquot	Primary Tumor	cecf4ee9-7610-4f47-a825-7fde8233b75d	0
- 40596942-42c7-4514-8bf8-a5290015cfd8	Aliquot	Primary Tumor	dcf383d5-b25a-4ea9-a3f4-4d7ea5ddd9ef	0
- 1b8d7af8-3100-4f69-9f2c-4916afd1298b	Aliquot	Blood Derived Normal	f5319fd5-beae-4ca8-8f42-45fca5e6a2d2	0
- 38ab93fd-6d00-4329-92f0-ca4d05d80a11	Aliquot	Blood Derived Normal	1583aea0-5d69-4165-9bef-d5bfdddf3a65	0
- c2e3ac0f-09b3-4b5b-96a0-837dd9188192	Aliquot	Primary Tumor	5313a055-c2d7-4cbd-a8c1-57ac85912d89	0
- 14569e23-59ef-4c2a-abdc-0c162bdfc721	Aliquot	Primary Tumor	56df9de6-613d-44ce-8827-9213cc6c8b56	0
- f5949750-2444-4081-ad78-05d4614f4467	Aliquot	Primary Tumor	db4793dc-cd45-4b81-93ce-8322031c2aa3	0
- 8636a67d-a41b-4d6d-ad70-2f28e9aeda6e	Aliquot	Blood Derived Normal	f6935f67-5c62-4774-8346-711f36f3b547	0
- 88958ce2-ad68-4691-967e-716477ec338a	Aliquot	Blood Derived Normal	56353d9c-9578-4d62-9dcd-92d800efdea0	0
- 63c1090d-e690-4db4-a8ed-fc1c352eb9e9	Aliquot	Primary Tumor	5d8c9b90-8d40-4cdd-900d-03681bc2d2a6	0
- c62fbae9-4356-4b26-8b3f-daf9c77e3a62	Aliquot	Blood Derived Normal	f3aa40b9-7b4d-465a-b7c9-591aebdb56c2	0
- 381e0605-cb54-4ef9-96da-4b9f3ce37cff	Aliquot	Primary Tumor	3fa3cffe-40f1-4853-9cbb-54a99ffd6108	0
- fab0baa4-2ef4-46d7-a5c1-33592870967f	Aliquot	Primary Tumor	8df0c1e8-966c-4f46-ad15-fae9e745a32e	0
- 1d5ce82e-de92-420b-abab-003d7bee208e	Aliquot	Primary Tumor	dffc3917-bf06-4c3d-b03a-ca54fe5c2e79	0
- e1b169c3-44e0-43e5-9ee3-2df7a678a5ea	Aliquot	Primary Tumor	dc40cf49-b208-4f59-b5f0-cfbdd02970b2	0
- 0192d529-7340-45d8-a5f0-249cbb11ca19	Aliquot	Primary Tumor	f6381367-142c-45d0-92b3-c1727d1813ce	0
- f746f8be-5ee1-4d6c-9d56-acab7b56ab3b	Aliquot	Solid Tissue Normal	2f231b79-84bc-4256-bf26-7ce64083d438	0
- 59fb4f93-39cd-4c19-8932-4e6c7609ea75	Aliquot	Blood Derived Normal	23ebc73d-be3b-42f8-9390-bf18a21afc5c	0
- a320937d-7093-4543-b6a9-f0b8137d1255	Aliquot	Solid Tissue Normal	d112136d-34fa-426e-b432-4d1e4286adf8	0
- 84da4992-73f8-4179-bc14-13735496a930	Aliquot	Blood Derived Normal	d1b31524-8034-4fce-b14e-1cef33c26ca5	0
- 96d81c6a-b658-42f7-8102-6ff08f9ba464	Aliquot	Blood Derived Normal	4a3d9efe-f24e-4135-8a70-e202651e7a81	0
- ba0467ad-64f1-43df-81e1-529e66e6e6fe	Aliquot	Blood Derived Normal	bea84d33-3286-44e2-9595-893c34a01f58	0
- 993197fc-ba4c-466d-9cc2-e08c74cd8f45	Aliquot	Blood Derived Normal	9f751c9d-ad41-4f02-b7f8-12423857d418	0
- c0222802-6dcc-4ec8-a7de-cb26d52f09ee	Aliquot	Primary Tumor	47abcd03-c6ff-4777-ac26-f880474092ff	0
- c00991ab-7597-4eaf-9574-ef30295beeb9	Aliquot	Blood Derived Normal	e457eb5d-120e-41f4-8455-2ed8d534ff02	0
- d917fdbc-60b4-4913-8359-0ed1fce972f3	Aliquot	Blood Derived Normal	7c40c747-5000-4f66-aab5-c53fb96337cb	0
- e3bf64ed-fc4c-48cf-bc4a-ade574edd020	Aliquot	Primary Tumor	7dc62c0f-b82d-417f-89a7-4cb984a9d304	0
- 68eadfba-d2ec-47a5-9ae8-cbbf066962e8	Aliquot	Primary Tumor	f00b4a22-c327-4fbb-a9a3-4418c13e2a48	0
- 21323ad5-08ed-4261-a1cd-8a5f1457829e	Aliquot	Blood Derived Normal	5828401b-0901-4a73-9d0c-1e85d3431475	0
- a04c6e0d-2d89-46bc-abf3-4e1af709f68a	Aliquot	Primary Tumor	c362f6f9-4ce6-4659-8c36-4cd45c72fb03	0
- 860c80f6-64b2-4089-87ee-8d64a6eba17b	Aliquot	Primary Tumor	c8fab4a7-fd7e-4d5e-a330-18c7e148b9d0	0
- df9acd7f-8875-4113-aba6-e89844ca6a43	Aliquot	Primary Tumor	ed73f136-42e8-4100-b432-d10370d07e8b	0
- 4e69e7f2-9350-438e-b4c0-66d28d1681a3	Aliquot	Primary Tumor	0d498226-e22a-44a4-9ef8-1da8e83fa55b	0
- 88471574-de05-44b5-a205-0a9a7a09c8a7	Aliquot	Primary Tumor	ab378ad0-1881-403f-9e85-d6f97e7b7c81	0
- 9da3aab7-ebaa-437d-baab-a11571b586d6	Aliquot	Primary Tumor	d6974db6-2bd3-4082-b48e-9c60f7fe3a1f	0
- 7030b035-d4d9-42fc-ba42-79f3f9d30308	Aliquot	Primary Tumor	ff49e0f9-4007-4761-845e-b676b0fc9646	0
- 4aace255-a8e8-4e86-a431-b957c4f80e8d	Aliquot	Blood Derived Normal	88c87cce-4361-499c-9e3a-e9d9040af2db	0
- 67774a5a-071c-4f47-93de-783d4e514308	Aliquot	Blood Derived Normal	ab378ad0-1881-403f-9e85-d6f97e7b7c81	0
- d7b480d0-6d85-42ff-9c69-04d1d9fca8f9	Aliquot	Blood Derived Normal	e27bc39b-54f1-47b5-ac8f-3245dce690f4	0
- 0958a78b-72c4-4579-8811-b61a2b1178de	Aliquot	Blood Derived Normal	88658b66-f293-4aff-9e33-05abfafd3b43	0
- 663c2f26-4e49-4752-bde5-fb5e9229daf9	Aliquot	Primary Tumor	8ad78c4f-c84c-4f9e-88c9-42a05eb65498	0
- 7303f9fe-88bb-48ba-b9b4-ebf9e4770c1c	Aliquot	Primary Tumor	91e249a6-b0b0-487e-9fad-0e9f5798dcae	0
- 85328a4c-38dc-48a7-8eed-1b4b4ad9e060	Aliquot	Blood Derived Normal	5a468990-d76d-4c67-8437-62689b593ae2	0
- 75bec014-53c0-49e0-88d8-fcd261d22ec1	Aliquot	Blood Derived Normal	4048c139-1329-4e6a-8d2f-c0aa104a68ee	0
- cbec5e2a-4b00-4c72-ab57-6594b7901be0	Aliquot	Primary Tumor	f3aa40b9-7b4d-465a-b7c9-591aebdb56c2	0
- 76733f2c-8d48-477e-87df-d407287e2cbe	Aliquot	Primary Tumor	3da2e90e-6450-4286-8c74-08dbecbfd788	0
- 9ac76378-8ea0-4911-b4f2-043db4179a44	Aliquot	Blood Derived Normal	4fe004e5-49f9-4336-a690-6ebad512c813	0
- aee1ef24-f3b6-446c-8ea1-d1d713c501db	Aliquot	Blood Derived Normal	6433f001-db5c-476b-83c7-23f4c5397ae9	0
- 3a8cd4b7-4379-4fcc-b252-6c053077a0d8	Aliquot	Solid Tissue Normal	d4f4ddc1-cfd7-4c57-ade6-4f32cb7ffd85	0
- 7273e5ac-35e8-4188-bc14-ee745c353554	Aliquot	Blood Derived Normal	69fc0351-6496-46b5-be22-25b80c1dc4cc	0
- 25c002f7-e972-421a-b32d-7dd675d81931	Aliquot	Primary Tumor	aa252f78-ebf3-42f9-86af-bb6e57345706	0
- 148f3b38-a40b-4815-a3b4-d00c41470ae4	Aliquot	Blood Derived Normal	9a8e27c9-614b-491f-913d-429dfc4e2c4d	0
- 5303fe3d-a1df-4e49-9fe3-94d7daf30ab1	Aliquot	Primary Tumor	1a8a887e-b9f0-42f5-8dce-4e58cb13844b	0
- 77aa04fb-bbf6-4d20-b6c2-e9d4647bf6f6	Aliquot	Blood Derived Normal	582d1177-73b0-4a9c-8505-70d6b402bd01	0
- 62d82fd8-e94f-4dae-a171-a8eab417bc41	Aliquot	Blood Derived Normal	64bf32c9-9466-404a-a147-e7a0b9e91e34	0
- 1d53564b-d57c-4616-8950-9277fe4e08e5	Aliquot	Blood Derived Normal	d7763066-fb06-4519-9188-5de7dd12fdb7	0
- ba7eb48d-9486-45fc-9728-4ceeb9bdca09	Aliquot	Blood Derived Normal	87959988-bb25-47ee-afc1-9af92592bbe7	0
- a82201da-16d7-42b1-860d-3d11fd33f502	Aliquot	Primary Tumor	9bf4e7bb-6aa9-4be8-a7c3-e630ecff4dce	0
- 5a091da3-c073-477b-9381-2ca4d27d82f3	Aliquot	Primary Tumor	2d70eacc-d0c3-4121-bd1a-a47d68ecede5	0
- f3030247-7910-4915-95bc-2409d9976413	Aliquot	Primary Tumor	74de01bd-30d9-45fc-841d-ed1c0d7446ba	0
- e6df7e9e-c584-4526-afb2-fa4b5199b174	Aliquot	Primary Tumor	5e15dcc7-932e-4d9a-a765-bd5ff1cd7aea	0
- 87d9162b-d9e0-48d2-817d-7a3fd2ab5cfe	Aliquot	Primary Tumor	3d6abc44-d094-4250-8dfc-347ae9c741f2	0
- 0156e439-a6b4-401c-bd6b-021244bea9dc	Aliquot	Blood Derived Normal	00e41e6a-9fe7-44f9-978b-7b05b179506a	0
- c91139ac-56d3-49cd-852b-9732dfb3e77e	Aliquot	Primary Tumor	a80d3ee7-60dd-49bb-b049-9335afc035f5	0
- a792ba94-7862-4a44-9d3f-fbc56914f409	Aliquot	Blood Derived Normal	3f3128c9-1072-443c-b6ae-8b63166fa9a4	0
- ff201859-353a-48ec-80f0-4efbd0274515	Aliquot	Primary Tumor	11882dac-3ba3-40fa-8af4-174cba77881a	0
- 4bbff9a5-b19a-4c1c-ae0f-dba68d92e01c	Aliquot	Blood Derived Normal	907b64d6-a26a-4092-a247-ac9af444d1c7	0
- 3d8fd88e-7661-4504-aa5b-a45bb03b8ee1	Aliquot	Blood Derived Normal	ab540819-9531-4e99-868a-751649f25e6a	0
- 072e5acd-3329-42b8-9aec-d6166ac61e35	Aliquot	Primary Tumor	721e76d0-4b1d-4e78-adb8-1344b8030062	0
- c2fe33a1-6c76-42e6-9708-e7ea911d2f85	Aliquot	Blood Derived Normal	dffc3917-bf06-4c3d-b03a-ca54fe5c2e79	0
- 259386a0-60a4-4990-a3c3-36b9bab40927	Aliquot	Primary Tumor	ce2b7e17-424e-4954-8a68-19d7f98d2e7e	0
- 2c1166ce-10f5-4e3d-93b6-bfdf96fddc4e	Aliquot	Primary Tumor	301c4c32-bc66-4328-8dcf-fe3dd66fbde2	0
- ece936c5-0f53-4010-9e99-8091c679d15b	Aliquot	Blood Derived Normal	3e290dc6-aba3-4135-b844-3e8c4cc8a25f	0
- fdd3c350-9cd0-45f3-a822-6174c4edfba0	Aliquot	Primary Tumor	ea953ce5-7082-41ff-8e38-760fe4100414	0
- 8beb42cb-e084-42a5-89a2-8cf1f0810a67	Aliquot	Blood Derived Normal	df3362cb-0f6b-412e-8af4-c5606526be17	0
- 093d9856-cabb-4d96-8609-b309430a7078	Aliquot	Blood Derived Normal	e6cbf99d-4a10-4c11-9ac2-eb26ef57331f	0
- b134ed52-c6fa-45eb-a4af-1d84cbf013d8	Aliquot	Primary Tumor	0730216b-c201-443c-9092-81e23fd13c6c	0
- e3a32f56-a8b5-40ca-a15b-7714da6f0ac7	Aliquot	Blood Derived Normal	47abcd03-c6ff-4777-ac26-f880474092ff	0
- da29cb88-e7bf-476d-be89-e6799c619a46	Aliquot	Primary Tumor	1940166e-aedc-4dc5-90a5-609871f9f7da	0
- d7211918-5718-4053-bdf8-ec5b69c3c95e	Aliquot	Primary Tumor	186d7f36-4e93-4ab2-bc23-95d5cd296656	0
- b6d5714c-04e4-4c50-aa90-47f20ab06b71	Aliquot	Blood Derived Normal	6f4c1006-519d-4b16-8c96-690c63bea0b6	0
- ecf06be2-7f7e-4833-a200-287d4835fec1	Aliquot	Solid Tissue Normal	2a51e1c2-8a8f-4df3-bcc6-7df94a47d94d	0
- ca1ffaa2-c4dc-463c-953f-f22025a0922a	Aliquot	Primary Tumor	fe7b283c-9cf4-4be2-8a3a-251a81a8d78f	0
- 3b14c841-4ca0-49a9-b938-de2ebbea8bdf	Aliquot	Blood Derived Normal	b3bf57d4-e31a-4740-b438-fa826fb79550	0
- abe6e709-1d51-4e6b-92a2-7e5c49b553ab	Aliquot	Blood Derived Normal	24d7d4d8-f5c1-4d71-80e0-72a429fc9dbd	0
- bebc84b6-9179-420b-8207-858b999e8c0c	Aliquot	Primary Tumor	261c3d74-706e-4751-bd15-8f3c1a402ff0	0
- 508c5ad2-f778-4997-84bb-f8a060fc3286	Aliquot	Primary Tumor	94d6675e-27ae-4f34-9d53-6e19238eb01d	0
- afbadcf2-d858-478b-adda-23f04631ad78	Aliquot	Blood Derived Normal	74c7dd37-7ff5-47ac-aeb7-14202871b6f1	0
- 3333fa05-d0eb-46bb-91af-2492f5b84e23	Aliquot	Primary Tumor	aa1a3a43-2f9c-456c-ba74-81c29b9801cb	0
- 058daa8b-f3ee-4992-b05e-91c13d9945ec	Aliquot	Primary Tumor	e4a755e3-4938-4321-b5a9-27a445036791	0
- e584de7a-84e8-4844-baec-3e5c0e6fbb9d	Aliquot	Primary Tumor	fb7e9935-32a2-422b-8004-88b827a686c2	0
- 42430570-8b50-44a2-88bc-57b1aab9fad7	Aliquot	Primary Tumor	743ffc51-d613-407f-b040-e99969c31802	0
- d0e157eb-2d83-4028-9d45-cea626e62e21	Aliquot	Blood Derived Normal	341940fc-dd2a-485c-a359-d5e5edb22312	0
- d624f520-0cf2-479f-a434-493117b54ed0	Aliquot	Primary Tumor	fcf64b55-5c4f-4d82-ac6a-4713d01143cb	0
- 77d692db-a5c0-4d14-926a-d2f81943505a	Aliquot	Blood Derived Normal	df4a7caa-6289-4157-8cb4-6ce8784e7506	0
- 23a6d650-d249-4674-a652-4669df3e3d64	Aliquot	Blood Derived Normal	d39d1a49-fcc0-4f2c-9338-df904e7f6a09	0
- def273a4-201d-40ba-81ca-df45a7320547	Aliquot	Solid Tissue Normal	5447a0e0-80ca-40fb-8233-504fde51f22c	0
- 852a3a94-37d0-4e43-a01a-648fec2868c3	Aliquot	Blood Derived Normal	7efc26b2-eff9-4f1e-9f4b-f26af072c84a	0
- 1da444be-497e-4cd9-96a8-1643c6f3d878	Aliquot	Blood Derived Normal	98240f19-bca7-4001-8aa2-4d790c7c4c53	0
- 23c3b771-9882-4554-9725-6aefa7245627	Aliquot	Blood Derived Normal	14c2819b-9afc-4c89-849f-530e289d55bf	0
- 3c8b1c7e-e15b-49d4-b5bb-4f4a05e92f20	Aliquot	Blood Derived Normal	2b35c119-cdc1-49e2-8229-ca5cde9e63d0	0
- c0c289a5-6e6d-434b-834d-6d462e5108c6	Aliquot	Blood Derived Normal	1426b4bf-f4a5-477c-bbbb-e0e656549764	0
- 3ec3e955-a945-47a2-917e-9a042e66e800	Aliquot	Blood Derived Normal	9519be01-d78d-462c-8a95-34149538afeb	0
- 30158a14-c275-4022-a8d7-5c2f2df1e740	Aliquot	Primary Tumor	eff14fed-8a21-41c5-8ed3-75346a06e44e	0
- eafb824c-0e84-48ec-886f-8c499ac06f94	Aliquot	Primary Tumor	f6743ff8-542e-4fde-8ff2-4878fcabffda	0
- 59ffc3d4-1659-40c8-89fe-d48475608509	Aliquot	Blood Derived Normal	1cbaa137-c3b0-46a2-9b23-208682c2a438	0
- 286b7dd0-24eb-48eb-b0f0-f9171d52b85a	Aliquot	Blood Derived Normal	10271d9c-9b9c-4b5f-a845-a0f1bd03af51	0
- 9eec79fd-cca8-4d92-bda0-c4d392cfa575	Aliquot	Primary Tumor	7c40c747-5000-4f66-aab5-c53fb96337cb	0
- 814a1d39-a0af-491b-bb21-8afa1dd84729	Aliquot	Blood Derived Normal	5e15dcc7-932e-4d9a-a765-bd5ff1cd7aea	0
- 84819ecf-df76-4072-96dc-6a298f4b3b0c	Aliquot	Blood Derived Normal	8e5b1d47-7d92-4d28-8186-4176ada96672	0
- fcc3c66f-f4b0-4cbc-add4-9f14713ef0eb	Aliquot	Solid Tissue Normal	ed73f136-42e8-4100-b432-d10370d07e8b	0
- d4794705-4c1b-44dc-9a70-ee6671ee7c62	Aliquot	Blood Derived Normal	30f623a3-dae7-41da-ab10-8786d094209e	0
- eb55b533-2220-4d8f-acd7-7ac806c1d861	Aliquot	Primary Tumor	432f15ba-7401-4827-83a5-3eaafaaa4bea	0
- ea6da482-f7f1-4a1a-8380-b96418427d42	Aliquot	Blood Derived Normal	f7fc3f2e-c70e-460d-b34d-bb2ea423a0ae	0
- 22868fe7-004f-48cc-ac4e-975a7ec1b9f9	Aliquot	Primary Tumor	03c15d06-b81e-433c-9de4-906cba91539f	0
- c23cbbc8-b66c-4e06-8c99-00590b5ece18	Aliquot	Blood Derived Normal	84a5d5fc-7350-4846-a1bc-8bfadbcff8dc	0
- 485bddad-e180-4a6e-ae2c-bf6336fa9bd2	Aliquot	Blood Derived Normal	084ac674-f4cf-4a4a-a6a2-687c05c272ea	0
- 11c34a2d-0b7e-42d7-964b-b4882815490c	Aliquot	Primary Tumor	cccdd4a2-ebf0-482d-b71c-9fe44414eec6	0
- 88a3d315-6079-4be1-a83c-19e11c463b95	Aliquot	Primary Tumor	f59b9c65-46e8-4cc3-aa71-8844f6c2273c	0
- 002a3041-247d-4cf6-b81a-a4e04857e872	Aliquot	Blood Derived Normal	351239db-52d3-4ab5-bd4f-8feaa6701ba1	0
- 496d38bb-e8f5-491c-943c-01739cc4a0e8	Aliquot	Primary Tumor	e90ab72a-4bbb-4c37-b48a-8a1a85d79d04	0
- b47c9044-6b22-4de5-bb95-8f1114d63b96	Aliquot	Primary Tumor	49197847-cc83-4ce1-8397-d09cea4c4928	0
- 275b578d-a786-4fdc-a995-5ab0505d68ee	Aliquot	Primary Tumor	bd18dd01-d894-4bdd-9ce2-e25705a52a57	0
- 46d69be0-f87a-48cd-8096-675fec8dea31	Aliquot	Blood Derived Normal	74602e83-3ee3-4ee7-b05a-135fbdddcc5c	0
- ce3a5af9-17c9-4195-8da2-1bee4bac3cac	Aliquot	Blood Derived Normal	be5411dc-3caa-4b25-9b94-ce463e8e52b4	0
- 4194550d-f14a-484d-85d6-a2a15cd7a2ad	Aliquot	Blood Derived Normal	ca076cfd-c628-4af2-837c-37617429adb9	0
- 69ff5580-dfde-4556-8960-ff3975b593be	Aliquot	Blood Derived Normal	3d6abc44-d094-4250-8dfc-347ae9c741f2	0
- cb7197cc-fc88-47ec-918b-d942f90df5cf	Aliquot	Blood Derived Normal	432f15ba-7401-4827-83a5-3eaafaaa4bea	0
- 4452049f-29f1-46b3-92c6-41ebe5c50439	Aliquot	Blood Derived Normal	f8a42feb-fbc9-4a13-bad5-1dcefca2a9bf	0
- 727485ca-631f-41a3-8f98-7450503b45f0	Aliquot	Solid Tissue Normal	3f5270a2-3284-4523-bd81-54fc98c2b933	0
- 8a82ccc3-d5f6-4647-9699-604814692936	Aliquot	Solid Tissue Normal	25c669b3-4d4a-4142-a403-677be8522875	0
- 5318522e-d56a-4eb2-88ae-b76fcf183a78	Aliquot	Blood Derived Normal	3fae5b76-9e22-4eab-a7fc-13139b2b97c4	0
- 5fcb803a-2051-46ce-bd29-cc6ad5825bcd	Aliquot	Blood Derived Normal	acd5ceef-c5cf-4e95-9394-c50fdbc70c8d	0
- 381043c4-b863-489e-9b3d-6c3551c2c4b1	Aliquot	Primary Tumor	666d8b0c-593f-4ec3-b16a-2dadbead8c32	0
- 8691e950-9a7a-48e2-aa6b-63e4efc353a5	Aliquot	Blood Derived Normal	2270d09e-a8be-4b7d-9520-a4bb1cd053c0	0
- 1d2cf02e-fd49-43d8-b55f-b3a799069f5b	Aliquot	Blood Derived Normal	d5c43a14-21ab-4178-ae33-2d8b7baa256f	0
- 9f150d1e-e7b6-4c8b-a4bd-2b2d5c80b088	Aliquot	Primary Tumor	4c197d76-daf6-474d-b561-ded42905f52a	0
- 19f982b5-db69-440a-815e-c90a923179c8	Aliquot	Primary Tumor	a468353e-0a96-4a4d-8aef-5140bf1bf952	0
- 914ddd96-a9b1-469b-8114-ed57c1184729	Aliquot	Primary Tumor	37ec45fd-1c85-49cb-835e-fa7b2b8ce16f	0
- 478b235e-7e7f-4dbb-810b-44a50240b359	Aliquot	Primary Tumor	7bc369b7-007b-4b10-bd92-5d326dabf675	0
- ddc422e4-87e2-4fc0-b56b-ddc2d6a92f58	Aliquot	Primary Tumor	5dd69c3e-9a3d-450c-9f10-10b4d6daeeba	0
- 8285618d-a4b6-4641-b39e-18b2d8a40bcc	Aliquot	Blood Derived Normal	607200f5-df80-4f5d-90fb-fdc455a7415b	0
- 96303eed-b939-4980-b0c6-c64f4c0c6bf1	Aliquot	Primary Tumor	9938c4ad-748c-4086-9081-fac0aefad440	0
- ef22c980-b6f4-4ffc-a877-20515c382c67	Aliquot	Blood Derived Normal	f8b98552-ae2a-4609-9929-7864485b3c51	0
- 0f1a5b46-d751-426a-917c-fac53a697f81	Aliquot	Blood Derived Normal	27953774-e97b-48e7-b966-1ec1e9c830b4	0
- 06941061-7bb1-4dce-9bf7-c107d90e0017	Aliquot	Primary Tumor	35243518-b086-4d76-a336-8c61a14f9ded	0
- f691ec8f-d3dd-4385-bc02-c29254d37c37	Aliquot	Primary Tumor	d8f56d75-51ab-4a86-a502-c86e1dcd1eff	0
- ee88d86f-4fbf-43b7-ad6b-aeebad71c27a	Aliquot	Primary Tumor	0aad0abd-750a-400d-a34f-491da996d46c	0
- 68f54bda-df0c-4b1e-a81e-9d90763711ac	Aliquot	Blood Derived Normal	d33074f0-5f88-4995-9439-76068a9f4836	0
- 085bf8ec-1841-4a4b-81c2-3ea1da79c1ed	Aliquot	Blood Derived Normal	67cd72e2-a4cf-48e4-943e-406c252f056a	0
- aea8eed7-1e59-4888-b285-e5aa3d73cbd9	Aliquot	Primary Tumor	6bbbe263-3632-4567-912c-95bc9940a1dd	0
- 9e272bea-9193-4c10-a802-f7e18b2937a3	Aliquot	Primary Tumor	c039014f-821c-43d6-9d3c-914f9c8d98fa	0
- 95b6d4db-b129-4065-a0d4-923c41a0d7b7	Aliquot	Primary Tumor	00dda860-53c3-4ab2-8294-73e291adf9d2	0
- 686e0817-587f-49c3-b654-8141a09dd79b	Aliquot	Solid Tissue Normal	717c0fd3-527b-4d5e-a9ab-0f141fcc84e8	0
- e6ab50da-966a-4429-95c9-36e22d269e25	Aliquot	Blood Derived Normal	8ad78c4f-c84c-4f9e-88c9-42a05eb65498	0
- 4fbdfb5d-faed-48d4-a2e3-daea6ac7e9b1	Aliquot	Primary Tumor	fadd80e3-8087-4494-a8f0-1caa92acbb67	0
- ab1b5fbe-db21-4790-94c3-f56579040952	Aliquot	Solid Tissue Normal	1e3c1d8f-b3c9-47be-89e4-22e6b16ed2ae	0
- 4526e2b2-d20d-4290-baf5-8d331fce6902	Aliquot	Primary Tumor	ea770d22-2cba-465c-9555-e0877dcecb9f	0
- 7dccc1c4-8cb2-47b1-8383-93623cc51068	Aliquot	Blood Derived Normal	1a8a887e-b9f0-42f5-8dce-4e58cb13844b	0
- 416fc29a-c168-4848-9a78-5edde11e4cd7	Aliquot	Solid Tissue Normal	9e48644f-d498-42b0-871b-d11f676241e2	0
- 340cfd1e-1582-4ee4-99b3-49e6249c4fa2	Aliquot	Primary Tumor	bfb973eb-d42d-4900-a606-a381d2317555	0
- 0799b439-9364-4606-a024-7f100a249f53	Aliquot	Blood Derived Normal	aa252f78-ebf3-42f9-86af-bb6e57345706	0
- 87158802-66e8-4c56-9f08-3cb5033e6cb4	Aliquot	Blood Derived Normal	4db62b98-abd4-4a7c-9fce-8bbda2aec8a3	0
- 9c425266-08aa-46b4-b0b1-6c33962b10da	Aliquot	Blood Derived Normal	18b8ad7f-0f39-4853-ae13-5b13aa5e6f7d	0
- f4de8976-c5ea-45ef-b7c7-38d5fd10cd0b	Aliquot	Primary Tumor	75d22d59-dec8-4f59-86c8-36b5e9f4fb0d	0
- b4bf3137-c8ca-4491-bbfc-3d864e521faf	Aliquot	Blood Derived Normal	1fd06207-54e0-4aba-819c-c7f671871f39	0
- a78aaabf-765f-422c-80b1-597ef3a0c26d	Aliquot	Blood Derived Normal	338fe754-fc4a-4294-ba15-42d4c7c9ac10	0
- 423b7b92-135d-40ff-9db4-37afd44f6094	Aliquot	Primary Tumor	26eefaa1-1666-4ce1-8cf4-f6fabff81fd2	0
- 906dec9a-0452-40a1-8563-163ca6be1abf	Aliquot	Blood Derived Normal	ebe711e4-45af-4082-bdf6-b0f7ac899b3e	0
- 97b6959f-ca52-42a1-900a-bb2174e31c17	Aliquot	Primary Tumor	48e83a4c-c602-494a-80cd-e2f4b4dd701e	0
- a3cec60f-0430-4c8a-b14c-1fec64f3e1ac	Aliquot	Blood Derived Normal	08f11bdd-d665-45ab-b1a2-5485d91922c2	0
- 89ca12c1-faae-41ce-9e9d-26c63aec6dc9	Aliquot	Primary Tumor	1bcb1132-a9fc-4f03-bbed-abaf80c7a24a	0
- 50308439-7f7d-4b92-8264-c59f4afcedb9	Aliquot	Blood Derived Normal	720d77bc-58e3-42ee-aae7-5de586c2ac41	0
- 6bde582d-6c64-4529-9771-e7f9df342b04	Aliquot	Primary Tumor	25c669b3-4d4a-4142-a403-677be8522875	0
- 8dc89778-02e1-41c1-9b74-554f60f86c4d	Aliquot	Blood Derived Normal	e35336e1-e358-493f-9beb-276b5fc6685a	0
- ff736958-09d1-4cb7-9fa5-5955bde500ff	Aliquot	Solid Tissue Normal	d05681cc-dffa-44d0-b6a1-0a99a4ce3be5	0
- ebc70303-3561-4cf6-a274-8c83d1d5f9bd	Aliquot	Blood Derived Normal	c039014f-821c-43d6-9d3c-914f9c8d98fa	0
- 78522869-eb0b-4497-b8bf-45437235c7c2	Aliquot	Primary Tumor	98a9ce0e-4f02-4819-bc0c-c1a8d34e3db6	0
- c0828412-45cb-4358-b5e6-d0e1543d9cf0	Aliquot	Blood Derived Normal	9c8447ac-5b26-4558-8bfd-f0e7046c1fb9	0
- bc0e886d-8203-4ef9-b1b2-ca28644c13d0	Aliquot	Primary Tumor	b7c8ca4c-8d9c-4c5b-99ee-2fcebe4f70e6	0
- f4abc737-dce4-4f3a-bcf4-f826187389e8	Aliquot	Primary Tumor	afa7d9a2-3998-4182-bf63-54895ed2de37	0
- b384da3b-69cc-4f3a-a804-090440fa25f6	Aliquot	Blood Derived Normal	9fe9cbae-37b9-4030-a204-4502760f5dab	0
- 41fda2e7-df7b-464a-b1d4-9aac99195bd9	Aliquot	Blood Derived Normal	24e5d323-f3d4-4add-9a29-79e77ced357c	0
- 8a582e00-aad2-4360-868a-9ab8fa301eaa	Aliquot	Primary Tumor	aa405b5f-f75d-486a-96f3-1df7add18193	0
- d89e8265-9112-4d3b-b195-61d6a4ab09f3	Aliquot	Primary Tumor	ff52fa2f-bd12-4de0-9f5c-cd330ffb5fb3	0
- c1987c4d-84f8-4464-93ad-7e53fd4a6a11	Aliquot	Blood Derived Normal	928c48a0-68ee-4e28-ae83-9832e52850ca	0
- def5beb7-82b8-4e1d-b7ba-6af748d690cb	Aliquot	Primary Tumor	9c8447ac-5b26-4558-8bfd-f0e7046c1fb9	0
- a7e479c1-0527-4958-9741-e038dcfc931f	Aliquot	Blood Derived Normal	5a790086-4887-4d2b-9c28-0fdd5dd1f1fb	0
- ddec5241-9e83-475b-80aa-fc72dd813f38	Aliquot	Solid Tissue Normal	4c197d76-daf6-474d-b561-ded42905f52a	0
- 13d967a8-324f-4f11-a766-db89703af761	Aliquot	Blood Derived Normal	f7238e82-a394-4a7c-8514-6241d0aa17e3	0
- e1fc4226-40ce-43b7-b92e-aa7cecd0cf4d	Aliquot	Primary Tumor	11fb5853-8eeb-4ad8-825d-3eaaf3fa08d6	0
- de77175f-808b-4fb9-9413-5e99254a9325	Aliquot	Primary Tumor	5f69ca7d-f8e0-4f5b-9987-1e5c234eb759	0
- 93f8b7dd-abc6-4e05-b850-16523635aa29	Aliquot	Blood Derived Normal	fadd80e3-8087-4494-a8f0-1caa92acbb67	0
- 38d44b16-89f5-4293-842e-0c7da7c23487	Aliquot	Primary Tumor	f3ec5bf3-97ae-4033-91a6-084a1aa152a4	0
- bc2626e6-65db-4905-97c5-46d61ea9e208	Aliquot	Primary Tumor	cfcf057a-00fe-4603-a720-586712b75803	0
- e536fb66-cd30-4a00-9c66-ca13be6fe4b1	Aliquot	Primary Tumor	f8a42feb-fbc9-4a13-bad5-1dcefca2a9bf	0
- 441ada11-8a1f-40e6-8c6e-6ba3b7c22b4b	Aliquot	Blood Derived Normal	8c0d361f-eaab-4768-90f2-b7a610e2bbb1	0
- 300a9b2e-8abd-4a19-a4fc-b5e4b266e1df	Aliquot	Blood Derived Normal	4045f40b-d42a-4598-9ee2-0d371a776d3f	0
- b941d9f4-c0bf-4f8c-8360-2d69964f2e8a	Aliquot	Blood Derived Normal	7fc65e49-0401-4a36-8800-fd87b7927fc1	0
- 4637e5f8-e2cb-48ac-8f87-ef89e3c37574	Aliquot	Primary Tumor	f98366df-9616-41c0-a6b8-ec92dca7177a	0
- 040ca048-b608-4268-968c-2d436e9293cd	Aliquot	Blood Derived Normal	618272c0-c2ed-4bfb-bb4b-404f0987f822	0
- c1ed251d-bf15-4ec0-af02-0dc5e856907e	Aliquot	Primary Tumor	6a5af80e-07ad-4cd3-aaab-5db1090835d9	0
- a1004109-c2d6-4bb6-8dc9-d41d46ba165a	Aliquot	Blood Derived Normal	56829c8d-7bb7-4aac-999f-b1353db4915d	0
- 1e2392d3-82f0-4f1e-b949-a0a634c87743	Aliquot	Blood Derived Normal	bd18dd01-d894-4bdd-9ce2-e25705a52a57	0
- 52f7bad1-8f6c-459c-8919-247d1e7189ea	Aliquot	Primary Tumor	2919afa2-3fee-43bd-ae68-e70718e73608	0
- fbf89ede-4235-406f-a233-efba91664605	Aliquot	Primary Tumor	24e5d323-f3d4-4add-9a29-79e77ced357c	0
- 50901c39-beb1-4a69-a21b-7ea825f55510	Aliquot	Blood Derived Normal	8740555d-8bf0-40ba-b868-99eef27662a4	0
- 462042a6-0a40-476a-9ccd-aa55722888da	Aliquot	Primary Tumor	3d92b872-a76a-49cd-9fd5-7993e78d2fb0	0
- ea80f854-fec4-4811-9bec-038808522568	Aliquot	Primary Tumor	e35336e1-e358-493f-9beb-276b5fc6685a	0
- d67abdf6-e826-413f-b727-c871fac872c0	Aliquot	Primary Tumor	40ebeb10-7390-44fc-9ef2-80d40d251018	0
- 02ec6811-5ee2-4ebc-9a00-dc60ca0e4bbd	Aliquot	Blood Derived Normal	cf70909e-5143-47ae-b8ca-c3ae6ace7be2	0
- 13d07794-c0fa-4070-9dcd-9cee45840284	Aliquot	Blood Derived Normal	5dc7e186-7e01-4a54-8ae8-350dace2297b	0
- 1695b0a1-b764-4797-83d5-4fcfed8fb4a7	Aliquot	Blood Derived Normal	aa1a3a43-2f9c-456c-ba74-81c29b9801cb	0
- a72932e7-2901-4401-8f43-07c9a529e422	Aliquot	Blood Derived Normal	aeec3005-25d7-45fc-a9ff-014d57960216	0
- f10f7adf-7754-44c5-97cf-66a7b5138f24	Aliquot	Blood Derived Normal	2def2a53-d2e8-46f0-8b07-f32dbf1833a4	0
- 85790f6e-85d7-4f6a-8784-4900d2364873	Aliquot	Blood Derived Normal	adf3c2f7-d5f9-41c3-bd8c-7f9f1f22ff73	0
- aedb9142-7769-4ca6-b652-f7b81ce8166e	Aliquot	Blood Derived Normal	5e2ff1e6-87bc-4b91-a959-f0f553af4e27	0
- ff40c43c-8061-4654-8af7-8200b006260c	Aliquot	Blood Derived Normal	b424b73a-2dfa-473f-ab56-ab382cd1cdef	0
- 5029ad2a-780b-4be9-920c-ee48da8e2f42	Aliquot	Primary Tumor	88c87cce-4361-499c-9e3a-e9d9040af2db	0
- 31956c72-63ea-4756-9bbd-b80357634619	Aliquot	Primary Tumor	23ebc73d-be3b-42f8-9390-bf18a21afc5c	0
- b981708f-4f68-41ff-9f80-20bb1d64d4fc	Aliquot	Blood Derived Normal	b182bda9-3d9f-4958-96eb-bd6cc441830c	0
- 2ea55808-8cd1-4b76-b8ae-1463d5cf3587	Aliquot	Primary Tumor	a3a4a518-2dac-4846-9476-1aa7e0c1fb5e	0
- 1c5be2f0-5804-4689-903c-022227fc964e	Aliquot	Blood Derived Normal	ce3585d3-7388-4d05-84c8-64e0883003b3	0
- dc7970c4-93d3-4646-9de0-8fd9c5d420d8	Aliquot	Primary Tumor	486d225f-eca6-499b-a142-dd86137b22e4	0
- 3aac36e8-fe99-4218-9fb8-dba6dd6ea066	Aliquot	Blood Derived Normal	a8573f49-9fed-4c85-9e1d-40abab7f86ec	0
- 6b34e884-089c-4069-97e8-1cf89b756557	Aliquot	Blood Derived Normal	a186c956-6756-4339-9793-494fe9b80c94	0
- e26ab21d-ac72-4d81-b54d-2b6673106efc	Aliquot	Blood Derived Normal	40ebeb10-7390-44fc-9ef2-80d40d251018	0
- f3aa6d62-dfca-43e4-8c16-a07c4a3ad3e9	Aliquot	Blood Derived Normal	fcf64b55-5c4f-4d82-ac6a-4713d01143cb	0
- 838d6528-8be3-48aa-887b-614a711bddf4	Aliquot	Blood Derived Normal	c4c1b5be-a0e7-4968-92de-7f34c71207fb	0
- 3f8f11c1-ad41-4a60-9cd0-6df43a1c0ceb	Aliquot	Primary Tumor	2270d09e-a8be-4b7d-9520-a4bb1cd053c0	0
- 3f76caec-6872-4f66-a84d-5c31c5cc24c5	Aliquot	Primary Tumor	9fe9cbae-37b9-4030-a204-4502760f5dab	0
- f6c01a65-6505-4d90-a07f-9c7285b4cf58	Aliquot	Blood Derived Normal	dee02265-d8dd-4379-ae08-72d72b03a570	0
- 9f08b1b0-9eae-4d97-9b23-360221f7428c	Aliquot	Blood Derived Normal	fe7b283c-9cf4-4be2-8a3a-251a81a8d78f	0
- 1a90833f-1b9b-4585-8e45-807709fcf434	Aliquot	Blood Derived Normal	75a7afb5-66d5-47e3-8a8a-3e3a1e749a96	0
- f5e215fa-ef1d-4663-badb-152039afcbad	Aliquot	Primary Tumor	6f4c1006-519d-4b16-8c96-690c63bea0b6	0
- 640ab7e7-1e44-444d-b470-196a000a9958	Aliquot	Primary Tumor	d4f4ddc1-cfd7-4c57-ade6-4f32cb7ffd85	0
- 4a5fc1cb-2338-4eaf-a5d6-24a29c0b0f5f	Aliquot	Primary Tumor	ef974c39-8bac-486b-a395-9d1283e08028	0
- db974012-6d0c-44c3-ae87-e0f05d96abdc	Aliquot	Blood Derived Normal	f4478172-7727-4680-9934-da755ab1825c	0
- 22aff19c-f5e8-4648-b758-b92784cd8cdf	Aliquot	Primary Tumor	aaeb1d59-d6ce-4422-9639-f1e83c002d84	0
- 30a0b8d5-11a9-4367-9979-d2c6906f30cc	Aliquot	Blood Derived Normal	e5e4d3b6-8e58-4dcf-8f67-a00e656a8e27	0
- 75dbdfe2-f446-463e-847c-885759682c43	Aliquot	Primary Tumor	1fd06207-54e0-4aba-819c-c7f671871f39	0
- f1ea82ad-41dd-4c0e-9328-73dd0548d125	Aliquot	Blood Derived Normal	fd1aa612-df86-4d48-892d-2acebd76ea96	0
- 0b05122e-49c2-470c-94e2-c5d5199dfa3e	Aliquot	Primary Tumor	c5f8c89c-ef69-42f4-9b37-5b552fccdf4b	0
- c0926845-d8fd-48d3-bad4-797a1580d339	Aliquot	Blood Derived Normal	ef974c39-8bac-486b-a395-9d1283e08028	0
- 3570cce7-c785-454a-a9bf-95415cc61ddf	Aliquot	Primary Tumor	14c2819b-9afc-4c89-849f-530e289d55bf	0
- 23762450-360d-4930-b53b-611e0041327a	Aliquot	Primary Tumor	716eb429-d7af-4d4f-bd8d-afcff1a323ee	0
- 695fd2d7-9426-45e1-81f0-79fbdf6ba0bf	Aliquot	Blood Derived Normal	962dd3d5-8501-4658-8cb9-2424b476124c	0
- ca1f9f2e-7a09-4e2d-bb99-c881a34a8da2	Aliquot	Primary Tumor	1122fa92-0073-4f59-9880-3f1a34620758	0
- d259fcfd-635d-4ba9-9b74-ba6a211a00c5	Aliquot	Blood Derived Normal	8df0c1e8-966c-4f46-ad15-fae9e745a32e	0
- 478f8c5f-260a-4d8a-a4f2-a07a8931f6a1	Aliquot	Blood Derived Normal	e0dfc37a-4a2e-4353-9673-241b100b3467	0
- 3f2fdbd9-19b0-41e2-87f3-ebc0f5fa5215	Aliquot	Blood Derived Normal	a76bcd1f-e47f-4dc5-a97a-4c4f00032191	0
- d1652a02-f1e2-4504-bc26-0bc6d272c104	Aliquot	Primary Tumor	89b995ba-d13a-461b-ade4-d791844c1a0c	0
- 8b462258-f66d-4893-a6f8-245278d1ce9d	Aliquot	Blood Derived Normal	829bed0c-c40d-44fd-aee8-6c7589db60f9	0
- 2bc4dea1-1dc2-4e7f-931b-4634ab147d2d	Aliquot	Primary Tumor	13a63fd0-6c8c-4707-9135-8052f454d1ac	0
- 2fc15245-4b29-4381-929e-2e40cf170982	Aliquot	Primary Tumor	fca0331b-8096-40e8-b292-d438370c37c9	0
- ef4b8185-9003-4a49-ab6c-84a5c0037837	Aliquot	Primary Tumor	5a468990-d76d-4c67-8437-62689b593ae2	0
- 9e0f93cb-4c8a-4ac0-849d-2956c14fd8f8	Aliquot	Primary Tumor	d112136d-34fa-426e-b432-4d1e4286adf8	0
- 9f0ddd3a-9a58-4c8e-b5c0-756fac4c0c69	Aliquot	Blood Derived Normal	9f802576-1e98-496c-bda4-4b1dd2e411c8	0
- 942a31bd-5417-43df-bc54-b74f9d8745ce	Aliquot	Primary Tumor	a76bcd1f-e47f-4dc5-a97a-4c4f00032191	0
- b7b750a0-fdaa-42a2-b583-989423ec1b45	Aliquot	Blood Derived Normal	deceb7df-6edc-41f0-99aa-c4ac7e764074	0
- 26425bd7-6764-40d8-bfc9-fe8738359cc2	Aliquot	Primary Tumor	98240f19-bca7-4001-8aa2-4d790c7c4c53	0
- 7f5954b3-ce60-414b-bd40-f46175ba19c4	Aliquot	Blood Derived Normal	d1fd7be0-6daa-4f1f-a198-3dca7a797e49	0
- e54ecf05-37ff-4c12-8ea9-5c8f2ce9b32f	Aliquot	Primary Tumor	348c2bf3-2146-4990-9adf-fa6968b4f072	0
- d498facd-d3ad-4e75-87a2-bea5253d9f1f	Aliquot	Blood Derived Normal	e27c50e2-2a41-4f8c-9ef8-2bc51fb0c23e	0
- e552db18-3b5e-43c6-a1b7-ab78d3f2404c	Aliquot	Primary Tumor	a7b76662-8380-4f35-9307-99c0acacb904	0
- 6d995ea6-3c34-4bbb-a828-25f95800d404	Aliquot	Primary Tumor	b182bda9-3d9f-4958-96eb-bd6cc441830c	0
- 323679ff-5644-4826-9486-a60ba6b0431f	Aliquot	Primary Tumor	000d566c-96c7-4f1c-b36e-fa2222467983	0
- e4906782-9697-4813-942b-94c2b8463d5c	Aliquot	Primary Tumor	4d5d61c4-2e64-422e-aba6-ec098f40eeec	0
- e25c2cff-eb3c-4e65-8ecd-4e2bf1395062	Aliquot	Blood Derived Normal	86b82965-b19b-4285-b1a5-51a5d5267103	0
- f8e39928-9a59-4e5a-ba1e-f22910129528	Aliquot	Blood Derived Normal	3fc9e3b4-8bc5-4bf8-bff6-dd90346b83a1	0
- cf4265c8-5f60-4f71-8ade-cb73044fa524	Aliquot	Primary Tumor	74c7dd37-7ff5-47ac-aeb7-14202871b6f1	0
- 6d784e6d-e22b-41f0-9ea2-154445f6fe64	Aliquot	Blood Derived Normal	d44d4bcb-beb1-4464-acd2-9972751f5018	0
- b42d70e0-8083-4d69-a63f-2ae7331dd8f5	Aliquot	Primary Tumor	19cf56b2-a85b-43e7-971f-5680b9b1a67a	0
- 4b775aa7-c03d-4cb8-8eb1-7dfe3aa2417a	Aliquot	Blood Derived Normal	93cf60a7-1d61-4c1c-8dce-221289800b0c	0
- aea9dfa9-b503-4f82-9fed-5b88c43074f8	Aliquot	Primary Tumor	6755c231-355f-4cc3-85f1-6306c7f5d44b	0
- 75d67b53-8534-402e-b082-1b75ec2aff1e	Aliquot	Primary Tumor	0c459149-0dfe-4206-b50b-db79180ebb57	0
- dfdee3c3-dfff-4ca8-9750-946c41e688ee	Aliquot	Primary Tumor	d4dc7c5c-45b3-4741-b0c1-fee477da2ef4	0
- 7f76a7b4-1889-4550-a4d1-3c3a0d1a526d	Aliquot	Primary Tumor	9f751c9d-ad41-4f02-b7f8-12423857d418	0
- dffce40a-683f-46ab-9b42-d6d7b8ab9692	Aliquot	Primary Tumor	b47791ba-85fd-41d0-ac1f-b6fa06f18e96	0
- 62488eee-4473-454e-89d3-7102d7c34977	Aliquot	Primary Tumor	e457eb5d-120e-41f4-8455-2ed8d534ff02	0
- 150b111d-aeb3-40fb-aa1f-cd991db33ece	Aliquot	Primary Tumor	a6d467cf-6783-4885-8de5-95d32e922500	0
- ee4e1c2b-7911-4e58-a5c2-5211c8d6ef54	Aliquot	Solid Tissue Normal	38a2b705-d8a4-45ca-8bcd-96dbf93d8e4d	0
- 61a6c1de-8124-49df-af36-5bfb52d1b004	Aliquot	Blood Derived Normal	c5f8c89c-ef69-42f4-9b37-5b552fccdf4b	0
- 47da9ef1-cc95-44f3-8566-406eb118835a	Aliquot	Solid Tissue Normal	ec3870c9-4930-4af7-b2eb-1e16c9ec9f14	0
- 7a94aed7-03d7-463d-bb87-bca2994f297d	Aliquot	Primary Tumor	ecf9f8be-7830-4626-8617-694c68ef4074	0
- 6e891ad9-b0bd-4fd7-9de1-33f5b0b1d241	Aliquot	Primary Tumor	ebe711e4-45af-4082-bdf6-b0f7ac899b3e	0
- 91fc452e-167f-4e2d-968d-2bf477a75cdd	Aliquot	Blood Derived Normal	b47791ba-85fd-41d0-ac1f-b6fa06f18e96	0
- 1610fca4-8d42-4e49-8bac-0e2f2d6bd7c4	Aliquot	Primary Tumor	570ddfb3-2721-42b6-9604-2de6b6090031	0
- 184256e3-08e8-423a-bb1e-fbcf52d671d7	Aliquot	Primary Tumor	d33074f0-5f88-4995-9439-76068a9f4836	0
- 046c8e49-c295-4b2f-ad1a-da6cb0958544	Aliquot	Primary Tumor	3fae5b76-9e22-4eab-a7fc-13139b2b97c4	0
- 35d8332c-f08f-40f6-9484-3b17a3081894	Aliquot	Blood Derived Normal	93d10d8b-5f98-4d2c-8af3-11471385d4d4	0
- fc1ad195-6261-4275-bed6-8d52f2622b1a	Aliquot	Solid Tissue Normal	cecf4ee9-7610-4f47-a825-7fde8233b75d	0
- 981257f9-1967-453d-8bd8-723f254f32c6	Aliquot	Blood Derived Normal	486d225f-eca6-499b-a142-dd86137b22e4	0
- f34aa0a2-b38e-4ace-9e89-354122af4010	Aliquot	Blood Derived Normal	d7e22af5-88aa-4a83-985c-1d346dff652d	0
- 40748368-1c04-420d-b21a-6a2a78ad0c6b	Aliquot	Blood Derived Normal	5313a055-c2d7-4cbd-a8c1-57ac85912d89	0
- c359bee4-8d3a-4855-a6b6-1e09aefd2b2e	Aliquot	Blood Derived Normal	10fbe481-f111-4f88-ae45-4d67cb265567	0
- f65af285-c62e-40df-9f49-f0812e33dcfa	Aliquot	Primary Tumor	d5c43a14-21ab-4178-ae33-2d8b7baa256f	0
- 9454b4b6-985f-4e62-bbe9-1e61cf2e786b	Aliquot	Primary Tumor	69fc0351-6496-46b5-be22-25b80c1dc4cc	0
- deaa52ae-c93d-44dd-a41e-2d3b8efb7f6d	Aliquot	Blood Derived Normal	f6040682-4999-4d71-abc2-354b473c6980	0
- 6b09169a-4356-4d2b-a82b-0ac0e7bceb74	Aliquot	Blood Derived Normal	fc823ab7-9390-4c57-9883-3e32ee17e794	0
- 4302b78b-6ed4-42e0-b730-520da1966483	Aliquot	Primary Tumor	17916c4e-febe-48c6-b475-ad29397425e8	0
- 082edbc7-1c72-4487-8603-5f20dd332ac3	Aliquot	Primary Tumor	1e3c1d8f-b3c9-47be-89e4-22e6b16ed2ae	0
- aaf38195-2e17-457f-bb4c-a8a44fc5e877	Aliquot	Primary Tumor	804ee985-18dd-4f2d-a562-61b454601cdd	0
- b2e52658-fe9d-4212-b9e5-eedc1dff76f3	Aliquot	Blood Derived Normal	b0669eec-6a1a-4618-ae23-ae0f9e9c266c	0
- 5cba5884-4340-40e8-a83c-7377f5436f29	Aliquot	Primary Tumor	444e78f7-1221-4882-ade2-7e45d828ea2a	0
- c7373089-17c1-4809-b236-dec22225a3f0	Aliquot	Primary Tumor	270447ca-19ee-45a2-982e-032325dab05f	0
- 9689cb33-8ac9-4ee5-800d-3900769988af	Aliquot	Primary Tumor	f947b0bc-bdac-44e8-b5b9-ffae4147740a	0
- fd03be72-06ff-46b7-920e-533ae0988028	Aliquot	Primary Tumor	92252560-5984-41f6-a4b5-a3aa8654c0c8	0
- 109ba14b-307b-4a23-b09d-643fa235d0ff	Aliquot	Primary Tumor	9b84601b-ee05-4c15-afe3-7bfa7ca5ffac	0
- c1f91d47-7072-4b9c-8a23-b7a46ad211a1	Aliquot	Blood Derived Normal	1bc21d56-299d-40bc-b9c8-c74db990611e	0
- b8483a81-abcb-43d1-abea-e4c00743c928	Aliquot	Primary Tumor	c51ccff8-2502-40e1-b130-fe655c119169	0
- 6162f308-9e45-4bf7-a192-64a636bd36bd	Aliquot	Blood Derived Normal	3d92b872-a76a-49cd-9fd5-7993e78d2fb0	0
- d8cf1bbc-43e5-41b0-a9c7-bd58e88a2e8e	Aliquot	Primary Tumor	9b59ed95-e97f-4356-b976-e3fa0e9eee02	0
- b09465a0-6766-4401-8ab3-1f7b0ba892cd	Aliquot	Primary Tumor	6e3154d4-2ef6-403d-9de1-7b6233c4d505	0
- 9667b442-1eb3-4431-bece-f53abb42e5e6	Aliquot	Primary Tumor	da07da37-bde6-480a-a302-98683ae3931a	0
- 473c4d37-6639-45f0-a67a-8e34049d0b29	Aliquot	Blood Derived Normal	6394e00a-1f6f-4ea2-b885-373bbb59def9	0
- ff8ce081-3108-487c-afd1-a46bcae93fd2	Aliquot	Primary Tumor	ec3870c9-4930-4af7-b2eb-1e16c9ec9f14	0
- 610916cc-7c38-42e8-8b8d-591284520b3e	Aliquot	Blood Derived Normal	a8d81122-3f2a-43f4-bdc1-479cab37a19d	0
- 7166fd58-0cd4-41bd-9a06-dc48d9b4e6ca	Aliquot	Solid Tissue Normal	d4ffafdc-ee83-43df-aa3b-7326503c6438	0
- 3e27c976-6830-4deb-9456-5e3615bf7cb0	Aliquot	Primary Tumor	ed7084f8-060c-4780-8b35-a03a5eab9684	0
- 8ee5606a-20d7-43a6-a199-d18c295e4b1d	Aliquot	Blood Derived Normal	c51ccff8-2502-40e1-b130-fe655c119169	0
- eba48f21-c778-4331-97c5-e28b88cc0627	Aliquot	Blood Derived Normal	6bbbe263-3632-4567-912c-95bc9940a1dd	0
- 2df47d25-97d9-4d8b-bd00-01bdfe040ceb	Aliquot	Primary Tumor	5828401b-0901-4a73-9d0c-1e85d3431475	0
- 3aaa44ac-302b-430c-b503-d0de1f251a57	Aliquot	Blood Derived Normal	2c7ec330-261e-49c7-9424-6d83641dba6d	0
- 561be685-9ad0-44b4-8c4f-dfbdcfbf68d6	Aliquot	Blood Derived Normal	48e83a4c-c602-494a-80cd-e2f4b4dd701e	0
- f1730f32-f97d-49e7-beb7-593c8ca8a907	Aliquot	Primary Tumor	2b5ef82d-e137-43f6-bfef-b202f20ee187	0
- 22a01dd4-194d-4931-91a3-cfd5406147df	Aliquot	Solid Tissue Normal	98a9ce0e-4f02-4819-bc0c-c1a8d34e3db6	0
- fe39a0c2-56d9-445c-ab4b-744d4d21f8c2	Aliquot	Solid Tissue Normal	30fa311b-05a2-43e4-9edc-02b327898132	0
- f28f091d-5cd5-447f-b956-3ef7eb305fe2	Aliquot	Primary Tumor	f82d53b1-3df8-4249-a615-464c9f4e0a32	0
- 54a3aeec-d8b4-49fe-bf4a-8727ce1d8c06	Aliquot	Primary Tumor	f228ef91-ecfb-4d1e-8e6a-b43d2185270e	0
- 9447bfdb-8772-4a94-a7e5-9b95f205b262	Aliquot	Primary Tumor	8a5f2d7f-835c-4726-b238-f82d6a7f25bd	0
- 0f5b9970-388e-406b-ba7a-bad4b7724b53	Aliquot	Blood Derived Normal	5f69ca7d-f8e0-4f5b-9987-1e5c234eb759	0
- 4c90ef8d-c640-4c67-bafa-12fb155781aa	Aliquot	Blood Derived Normal	bf428d43-2da6-43fc-bd62-7cbff84e95ec	0
- 331c8a3c-a039-4af9-aec3-e6e050a27e23	Aliquot	Blood Derived Normal	ff52fa2f-bd12-4de0-9f5c-cd330ffb5fb3	0
- 0bc728e9-ef17-4595-b98a-4d83e59dfca9	Aliquot	Blood Derived Normal	3da2e90e-6450-4286-8c74-08dbecbfd788	0
- 7b1edb67-d4ef-43db-b35d-99054028f6bc	Aliquot	Blood Derived Normal	2919afa2-3fee-43bd-ae68-e70718e73608	0
- fa6e02fd-442a-4a16-8d8d-d85944432531	Aliquot	Blood Derived Normal	4d5d61c4-2e64-422e-aba6-ec098f40eeec	0
- dcf98acc-736b-4af6-bdca-a320a413165a	Aliquot	Primary Tumor	73f875cb-bcfc-43ba-ab97-4e94caf836d4	0
- 3f104f5f-f816-42cf-bdf5-65cbf9d7a5d4	Aliquot	Primary Tumor	829bed0c-c40d-44fd-aee8-6c7589db60f9	0
- 1613b958-7660-4968-b373-04b00f3f47c3	Aliquot	Primary Tumor	f4f81316-c99a-4a88-aa6c-e66fc5d60c53	0
- ad06d026-2957-43c1-9350-74ddc23917e4	Aliquot	Primary Tumor	f06c1ef4-bedd-4025-abf8-06f5e9c0821a	0
- f4a3d716-cd83-4012-91ec-ff5e45784c98	Aliquot	Primary Tumor	f8d8b417-5945-42a5-850a-fbc04b4f0e61	0
- e32b30c3-6ed3-42ce-ad17-69b26146f7e4	Aliquot	Blood Derived Normal	ac67d0df-7dc0-4a1a-8b47-beec9b94de86	0
- 8329fc61-dda7-4b68-8988-2f6c1214cc2c	Aliquot	Blood Derived Normal	a8c954b7-3077-4ff1-b311-d4b4bfa49786	0
- e3b6ef37-9e52-418b-816f-a2b670b1fda9	Aliquot	Primary Tumor	aca312ab-6dbd-4183-8b22-8f37834f3426	0
- 80ed0e60-9bf6-4407-9f9c-108672829690	Aliquot	Primary Tumor	8740555d-8bf0-40ba-b868-99eef27662a4	0
- fcb74e20-c07f-4d98-b7ce-06fe7e073d14	Aliquot	Blood Derived Normal	c362f6f9-4ce6-4659-8c36-4cd45c72fb03	0
- ae48940c-acd7-4556-ac88-e791eda0f5d0	Aliquot	Solid Tissue Normal	0fb599ce-5e10-4571-8160-4f5160791a3f	0
- bbb53cc1-7aaf-42c9-b4c9-dbaf6864f414	Aliquot	Blood Derived Normal	cd113dc4-915a-47d2-bce0-9dba915a9d29	0
- 62df5841-58c1-43a6-a145-848601f9209c	Aliquot	Primary Tumor	b7b61392-c085-4e28-892f-e9b6fe6ece41	0
- 1c45a477-5a37-40de-a023-e282662b95d5	Aliquot	Primary Tumor	f4e9a9f9-263c-4ced-a8fb-6cb0fb088983	0
- f6ecbcaa-aa62-4d04-afab-2d9e24ff0bbb	Aliquot	Solid Tissue Normal	56c88739-c076-42cc-a2cb-fd613ab567b5	0
- 67b19aa7-53d6-481f-9a70-6667a6dfd141	Aliquot	Blood Derived Normal	c024c4b6-0143-4071-9175-7435f1eaac58	0
- ce43974e-70a9-4f22-9686-f0462c597acb	Aliquot	Blood Derived Normal	d57d3254-d8f3-4ca2-8b31-790d3ac9a63d	0
- d6bb9600-d340-45e4-aac0-08db7c5ea4e8	Aliquot	Blood Derived Normal	2dee4bd8-b00e-4f8a-bfea-5d8d1a068202	0
- 076097b4-8ca9-433c-bd04-799c7e1da5f9	Aliquot	Blood Derived Normal	931b549f-b9f2-4e8d-83ed-ff663671883c	0
- 68397e1f-276f-4831-b395-7aec3cffaf4e	Aliquot	Blood Derived Normal	94d6675e-27ae-4f34-9d53-6e19238eb01d	0
- 998f424a-c098-4c2c-b258-03f0e4c0ea1d	Aliquot	Blood Derived Normal	666d8b0c-593f-4ec3-b16a-2dadbead8c32	0
- 4adefa84-9ffb-4efe-9a7f-bf1e307f6932	Aliquot	Solid Tissue Normal	73f875cb-bcfc-43ba-ab97-4e94caf836d4	0
- 50c8781c-f2c7-4eb3-beb6-322e4c08e79b	Aliquot	Primary Tumor	48f36fbe-356a-40af-b81f-8ea0b1369bab	0
- 0af96576-f308-4fec-bda0-f431f6531409	Aliquot	Primary Tumor	3f5270a2-3284-4523-bd81-54fc98c2b933	0
- 69ebe1ab-c416-4473-8d82-91b475b206d4	Aliquot	Blood Derived Normal	dc40cf49-b208-4f59-b5f0-cfbdd02970b2	0
- aaee15be-7d62-47c8-bd51-6468b83855e4	Aliquot	Primary Tumor	f5319fd5-beae-4ca8-8f42-45fca5e6a2d2	0
- 30f84a45-9998-47d3-87da-030f357d928e	Aliquot	Blood Derived Normal	7bc369b7-007b-4b10-bd92-5d326dabf675	0
- 16fc1662-ec00-4bfc-abf6-ce18b7ae0f4d	Aliquot	Blood Derived Normal	45a04209-8fac-4181-bba3-1437c8fd7f09	0
- 4b005f8d-1af2-4aff-87b6-de830251409b	Aliquot	Blood Derived Normal	a279d5aa-51f7-4e75-9e14-b206b97ec4bd	0
- d0674198-9352-413f-98ab-cce0fa8b47f6	Aliquot	Blood Derived Normal	b5b3871c-078c-46a7-ac50-ef916d4a6781	0
- b1de224d-ae13-4f56-813c-4326b207e7ac	Aliquot	Blood Derived Normal	355e84e7-0d50-4bc2-a481-dfece2f8c687	0
- 4be95b75-954e-4f4a-840e-f9fc6762bfc8	Aliquot	Blood Derived Normal	a468353e-0a96-4a4d-8aef-5140bf1bf952	0
- e4bf7fcc-99b3-4e83-8336-2caacc77a011	Aliquot	Blood Derived Normal	36b87d12-9f96-460f-a3b5-a4c08cbf5b07	0
- 305709c9-bf5c-4706-b377-8030d49361e7	Aliquot	Blood Derived Normal	ae739a4a-e319-4d87-8330-14f2fbc8839d	0
- e63c8077-ee5f-4ff5-a416-8f73b2675957	Aliquot	Primary Tumor	c03ae0f2-dde3-47e8-a046-ce85c86dd77d	0
- 8fc8adf0-d482-4acf-bdec-3b1ec93fa84c	Aliquot	Primary Tumor	0885eb03-de9f-46ba-9c53-fb69c67ab9f0	0
- 668c30db-01b0-478c-8a8a-864043eb6519	Aliquot	Blood Derived Normal	1d2c5f72-cdca-4cc8-8a96-2abe10207356	0
- 9db864a0-450d-4ef4-83ff-1a869ab80803	Aliquot	Blood Derived Normal	91e249a6-b0b0-487e-9fad-0e9f5798dcae	0
- 4ee4cc9c-82a2-4d65-9b90-7263e4dc6164	Aliquot	Primary Tumor	74602e83-3ee3-4ee7-b05a-135fbdddcc5c	0
- 87e1ffee-a8cd-4d75-937e-ed415cf43546	Aliquot	Primary Tumor	3acd8328-76f7-4f43-9660-394b95748c3d	0
- ed594b57-98b2-4fcf-b6a4-e507919e6b7d	Aliquot	Primary Tumor	355e84e7-0d50-4bc2-a481-dfece2f8c687	0
- 1673d1bf-6a1e-481b-a714-8ee9753c07ea	Aliquot	Blood Derived Normal	d17b1955-0565-46c1-a5a7-ecd41ac0286a	0
- ce0298b4-8456-4369-8916-c951b956dcc6	Aliquot	Primary Tumor	5a92ec4c-36ee-4588-aca2-e3303f29c7ad	0
- 63ce1033-5b0b-48a7-9a5c-3e0ac6cad45d	Aliquot	Blood Derived Normal	5e7a7629-800a-45c4-b4cb-314a853a1bec	0
- 42a1f7a6-b577-4000-9a4f-c6cd38462317	Aliquot	Blood Derived Normal	f9f136a5-3ccb-42b3-ba60-c667fbb0846d	0
- 64628bbc-a289-40e4-8bbc-ed53b7676771	Aliquot	Primary Tumor	720d77bc-58e3-42ee-aae7-5de586c2ac41	0
- c9708a4f-76b5-4eb5-9831-a1f069096578	Aliquot	Primary Tumor	2c48b1bf-4e49-4869-874b-f08787fa04b5	0
- f61e6c4e-baf6-48ca-aecd-0e3ca77aeeb0	Aliquot	Blood Derived Normal	a80d3ee7-60dd-49bb-b049-9335afc035f5	0
- 955a7101-36b0-4d1d-bd5b-0ab6e3adba5b	Aliquot	Primary Tumor	8e1ff72b-f1db-4bf9-a8d3-f422e25a65e1	0
- b4701be8-2c61-4a86-8220-6b3a3550b60e	Aliquot	Blood Derived Normal	6b3f53ab-00f4-4c45-9bb5-5c8adbc66084	0
- bcdd04ee-ff3e-4fa3-8115-4c94b0af9170	Aliquot	Primary Tumor	827caf2c-a94b-4eee-86b3-1155a16daf4a	0
- 47d4bed8-db46-45d2-8e56-de72205f011d	Aliquot	Primary Tumor	a8396f6d-53e2-4664-a3e2-df061d022108	0
- c9b96788-9d99-4be5-a458-9e3d2c8755ea	Aliquot	Blood Derived Normal	c8fab4a7-fd7e-4d5e-a330-18c7e148b9d0	0
- 3b4e02da-87be-46e2-b4bd-555ca1440808	Aliquot	Primary Tumor	79ec7468-9aaf-4bb0-94c7-72be4f497868	0
- fb3d2a6b-9f91-4cc4-8f42-129e41672023	Aliquot	Primary Tumor	8e5b1d47-7d92-4d28-8186-4176ada96672	0
- bb02213c-0f97-4cea-a808-094166184ac9	Aliquot	Blood Derived Normal	9b84601b-ee05-4c15-afe3-7bfa7ca5ffac	0
- 785ea44e-05df-43df-8acc-c0fda6852721	Aliquot	Blood Derived Normal	9a05aa6d-6215-4584-90fc-09a0371a19ed	0
- 5987d460-eb7f-49e5-b817-f5032359575a	Aliquot	Primary Tumor	4bc71292-60bb-4b63-86c1-0fe021083804	0
- c3c8c9d3-e3d6-45ea-b448-e1143892a190	Aliquot	Primary Tumor	e27c50e2-2a41-4f8c-9ef8-2bc51fb0c23e	0
- 0f9d2e65-a5bb-406e-926b-e7e7d2507d70	Aliquot	Blood Derived Normal	0885eb03-de9f-46ba-9c53-fb69c67ab9f0	0
- 39351351-11d3-499d-8fec-7bf34f38d3c5	Aliquot	Blood Derived Normal	df3abb97-c790-4ff6-a726-6645b3058d72	0
- aefe7099-96e0-481c-bbfe-1566024df395	Aliquot	Blood Derived Normal	59207bcd-f127-481f-b576-8716da7d7d97	0
- e807a5d4-8642-4757-a1e6-9fc58e6f5d65	Aliquot	Primary Tumor	b8fbfe87-e92c-4d54-a620-17b2dcde6d53	0
- 638655b9-baf3-4671-bf76-f5dd9fbab89d	Aliquot	Blood Derived Normal	f59b9c65-46e8-4cc3-aa71-8844f6c2273c	0
- dc7c3b1b-f5f0-414c-8b07-2338277264c3	Aliquot	Blood Derived Normal	00b16434-0b3a-4194-8714-74dccbebe06c	0
- 9aec7505-e824-49cf-a520-b4d090863d67	Aliquot	Solid Tissue Normal	89b995ba-d13a-461b-ade4-d791844c1a0c	0
- cdb78cfc-4a29-488a-b215-a4996b3ab873	Aliquot	Primary Tumor	36b87d12-9f96-460f-a3b5-a4c08cbf5b07	0
- 008659ce-78a0-4243-8cf4-bbfb8308e993	Aliquot	Primary Tumor	d05681cc-dffa-44d0-b6a1-0a99a4ce3be5	0
- af73b3d5-51db-4b4d-b56a-196c61830450	Aliquot	Primary Tumor	698ce9a9-6512-4fb8-a574-a26ee259414c	0
- 79e46606-ecb4-4a53-acaf-e9e46855fe4d	Aliquot	Primary Tumor	4e76de8e-cb0d-4b83-8ab4-53bc67a7a9d3	0
- 05454125-24ef-4c09-b1e9-71cd7a15a98e	Aliquot	Blood Derived Normal	dec99f86-622b-477f-a26a-98c954fb1f17	0
- f61d1174-470f-4318-9bd9-defe72f8afd2	Aliquot	Primary Tumor	a8c954b7-3077-4ff1-b311-d4b4bfa49786	0
- 263e1015-1061-4ad2-8f7e-ed430d2d9e80	Aliquot	Blood Derived Normal	11fb5853-8eeb-4ad8-825d-3eaaf3fa08d6	0
- 626f7f57-e6e8-4413-8a05-942c859a6d61	Aliquot	Blood Derived Normal	ea770d22-2cba-465c-9555-e0877dcecb9f	0
- ae721ffe-45da-4029-bcbd-6e218f607de2	Aliquot	Primary Tumor	71d14304-ccb0-4a4c-b935-8c014ca75fd0	0
- 0045d518-7b93-44b2-bb7b-dc11c85b3c93	Aliquot	Primary Tumor	897a2af4-55af-4245-8629-1a71b622c17e	0
- fa9f4535-3165-48c4-a3be-a76526deece3	Aliquot	Primary Tumor	70c6c3a0-b422-4541-a60f-355356a9a340	0
- fabbba2f-92b0-48b5-be7a-e4c9fc08b795	Aliquot	Blood Derived Normal	6641a298-1dbd-445d-a4ab-95ceb98e1427	0
- b2de10b8-8e9d-4cf0-bc63-b624df4eca9d	Aliquot	Primary Tumor	fc823ab7-9390-4c57-9883-3e32ee17e794	0
- d36ef053-e634-4711-9ee4-dac20b166856	Aliquot	Primary Tumor	a8573f49-9fed-4c85-9e1d-40abab7f86ec	0
- 231d6294-d947-400e-a0c1-15694c4839c9	Aliquot	Blood Derived Normal	9b5d36b2-8b46-48a4-afa7-0e1936f2d315	0
- 5050d3e5-3b45-4d06-b454-7ccd753837dc	Aliquot	Blood Derived Normal	a1e64294-1264-498d-b18b-c9b4c729c2f2	0
- 5f1c7f2a-40c5-45f3-8d16-a57db576d7a8	Aliquot	Primary Tumor	7d931c19-1fce-4409-8a9c-9c65631ccbac	0
- 0c9a5dbc-f7f3-43e7-83d1-77b9fb4b8b54	Aliquot	Primary Tumor	e2b33861-2247-413f-b2e5-9be3b604666c	0
- 3fa7c553-f043-4ce7-9587-bb7ffc8d4b65	Aliquot	Primary Tumor	acd5ceef-c5cf-4e95-9394-c50fdbc70c8d	0
- a31e4ea8-9af6-4430-845c-9eef051c1179	Aliquot	Blood Derived Normal	2648c3c9-9884-4a0c-96aa-61130cd289ea	0
- 5100841d-0d49-4d3b-8acc-9373b2fcb95a	Aliquot	Blood Derived Normal	eff14fed-8a21-41c5-8ed3-75346a06e44e	0
- 3c4dfdcc-2193-4780-bd67-716947ce87f2	Aliquot	Blood Derived Normal	03c66cf8-bc68-4ee1-a322-689a29b72262	0
- c97d9803-fce4-4921-bc37-6dbe062f09d4	Aliquot	Blood Derived Normal	79601d90-b198-4b94-b60f-4cff329c7a10	0
- 38604397-3014-4f48-9b92-dbdb45f28a33	Aliquot	Blood Derived Normal	5b12458b-f5d7-41de-a4e1-26d39dca9b17	0
- 8130ce33-1338-4bc9-b812-7060168d762a	Aliquot	Primary Tumor	bf428d43-2da6-43fc-bd62-7cbff84e95ec	0
- 729e845e-9b3f-47df-9400-07a81f3a5c12	Aliquot	Primary Tumor	adf3c2f7-d5f9-41c3-bd8c-7f9f1f22ff73	0
- aad0c72f-096f-4d7b-8cf7-46c5ab0939d5	Aliquot	Blood Derived Normal	743ffc51-d613-407f-b040-e99969c31802	0
- fcad0c26-dab3-4bf0-9ef6-a5be33131a61	Aliquot	Primary Tumor	f6935f67-5c62-4774-8346-711f36f3b547	0
- c35ccd5c-e37d-41c1-9ebf-b805bc3cfa63	Aliquot	Blood Derived Normal	c75bee57-d6da-4083-9be8-17c970b77fc7	0
- 56d3cf13-362a-4701-850e-bd8cf98ac9a4	Aliquot	Blood Derived Normal	1d7ffbe7-6139-412b-8739-8082a63a2b33	0
- c55ec8be-cd73-4275-8407-5814a1fc51d5	Aliquot	Primary Tumor	4a3d9efe-f24e-4135-8a70-e202651e7a81	0
- 5c9ec16d-4591-4e56-8326-9e7883d88483	Aliquot	Primary Tumor	3e71fa1c-855c-475a-9dd0-a314a3ecd48d	0
- bb9b1203-fc4a-40c9-867a-436a54c61cf3	Aliquot	Primary Tumor	854a481b-71a2-4f23-80aa-e91e9f4069b1	0
- 14d6a96e-cd7c-4429-adb8-2a6c9ddf22c3	Aliquot	Blood Derived Normal	3fa3cffe-40f1-4853-9cbb-54a99ffd6108	0
- 6e297e93-6cfe-43b1-aeb2-1151c6fe2a8a	Aliquot	Primary Tumor	d39d1a49-fcc0-4f2c-9338-df904e7f6a09	0
- 605429ab-6e57-4c37-a6f9-85ef92e057f5	Aliquot	Solid Tissue Normal	e377f873-c0d1-4810-9f3d-e551723858e1	0
- 57d5137e-6a41-4e03-a279-e4ee1cf06472	Aliquot	Blood Derived Normal	701991da-6deb-41df-b9cc-e5049a886b5b	0
- 9d1b2c85-05c5-4720-bbbc-07aaad25033e	Aliquot	Blood Derived Normal	9bf4e7bb-6aa9-4be8-a7c3-e630ecff4dce	0
- 34b3bfff-3049-4177-99a4-9ac6332a5ce9	Aliquot	Blood Derived Normal	a13a7252-de84-4950-9307-80fc8a6a668d	0
- fee0aa5b-cffd-48d4-bf3c-118855f4ecda	Aliquot	Blood Derived Normal	3e71fa1c-855c-475a-9dd0-a314a3ecd48d	0
- 32e768ca-262b-4887-831d-be38e2fbded6	Aliquot	Primary Tumor	cec1d2ff-36e6-497e-892c-b329724b4722	0
- 7720c12c-81ea-41fc-a13c-48fcc8d219b8	Aliquot	Blood Derived Normal	c4ebb2eb-e1f0-4490-80f3-5cf0c40a3091	0
- c1ed8374-a8ff-4d14-a886-ee50f37c0ac5	Aliquot	Primary Tumor	436b242c-ad5f-432e-a684-27bba4c1c8a2	0
- a820bb95-2a8f-46cf-b111-46f108dc789a	Aliquot	Blood Derived Normal	f8d8b417-5945-42a5-850a-fbc04b4f0e61	0
- a653276f-248d-4ffc-9198-d713cdcee5bd	Aliquot	Primary Tumor	7fc65e49-0401-4a36-8800-fd87b7927fc1	0
- 7132d9c7-5196-48c8-a3ce-fa2f34c7be74	Aliquot	Blood Derived Normal	804ee985-18dd-4f2d-a562-61b454601cdd	0
- d415be01-5bb2-4be0-9a02-9c70e461faa3	Aliquot	Primary Tumor	1f4ff2c7-3fbb-46a1-99cf-68d2c33c5175	0
- 10b99436-73aa-47f1-b44c-d6f893e133dc	Aliquot	Primary Tumor	bb8e6886-edc7-4127-a85b-c4f3769b6681	0
- 399a4aa1-42a8-47cc-85b8-eb319f9d6dea	Aliquot	Primary Tumor	ba0c9096-5f35-4f0a-ae98-ee1a695b55f0	0
- 853f7d71-27a4-4d1e-b104-ca23d4c7e575	Aliquot	Blood Derived Normal	afa7d9a2-3998-4182-bf63-54895ed2de37	0
- ad18700a-4894-4c51-9d92-68514c853b0c	Aliquot	Primary Tumor	108dee1e-b27d-4056-a167-261725f548c1	0
- dcb67253-4e94-409e-a5cf-5a86196c1877	Aliquot	Blood Derived Normal	37ec45fd-1c85-49cb-835e-fa7b2b8ce16f	0
- e8a17b3d-a5f6-48e8-b161-b9b6a528c3e6	Aliquot	Primary Tumor	4434864a-8a0d-488e-b9a7-6749719663e5	0
- 667ba573-9cd4-4916-8b54-d529c24cd63e	Aliquot	Primary Tumor	a279d5aa-51f7-4e75-9e14-b206b97ec4bd	0
- e152fd51-11d4-46c4-b803-1b79e8f6cf18	Aliquot	Blood Derived Normal	2c48b1bf-4e49-4869-874b-f08787fa04b5	0
- 342033de-29bc-49af-b78f-f05d7e303b22	Aliquot	Primary Tumor	68fc3693-0910-4ee8-8997-99c6333b65f4	0
- aaa16e66-2563-4c7c-8209-3e501185226e	Aliquot	Primary Tumor	bdd4fefa-512a-4720-9f9e-11eb3892fe3c	0
- 840aa1ee-fa15-4fc3-b292-886ab0dbfc06	Aliquot	Primary Tumor	30aba886-5152-4e25-b36f-6ce7009d419e	0
- f0042c94-9802-4593-9dd8-4352538c6bc7	Aliquot	Primary Tumor	df3abb97-c790-4ff6-a726-6645b3058d72	0
- 55773b06-5d25-4338-a0b2-943b79062d10	Aliquot	Blood Derived Normal	42fa9774-9471-4707-8f6f-8041b34c49e4	0
- 3667be24-0cb9-4641-85f0-8d65e011d511	Aliquot	Blood Derived Normal	570ddfb3-2721-42b6-9604-2de6b6090031	0
- 3a863bfc-2b84-4a57-8049-f41ebba5ab1c	Aliquot	Blood Derived Normal	4b9aa301-d2e3-47f3-b724-a34f420b2b6b	0
- a2aa9195-5cd4-4032-941e-90a1f724382c	Aliquot	Primary Tumor	f6c61a22-a711-416d-9e65-6a1b957e5b2e	0
- ecc4491e-2c9a-4a6e-90a1-a0251fcf69aa	Aliquot	Blood Derived Normal	922e5166-85f5-4365-9c09-f8bdc1722da6	0
- f032fb5f-6499-4cd4-82c5-fec6bdb5caad	Aliquot	Primary Tumor	abeb0894-862f-4035-a6d9-fe0ba61630a9	0
- 8b44f615-8f5d-4c2d-8c8b-8d48de8db586	Aliquot	Blood Derived Normal	f947b0bc-bdac-44e8-b5b9-ffae4147740a	0
- 6e7ac799-87c3-4d22-bad2-57f73e88124f	Aliquot	Blood Derived Normal	5089a8d2-a353-4150-8a6b-6478c5bb29bb	0
- bba1d69c-c2b1-4f84-82c8-b54699187c99	Aliquot	Blood Derived Normal	12d2b93e-a033-4b36-ae81-c15879eb40bd	0
- ed362be8-54d4-4532-9d4a-ad760592aef1	Aliquot	Primary Tumor	d57d3254-d8f3-4ca2-8b31-790d3ac9a63d	0
- c7014407-f794-4174-bf47-38a2745c06b8	Aliquot	Blood Derived Normal	92252560-5984-41f6-a4b5-a3aa8654c0c8	0
- 92b13aa2-eb12-433b-a744-c6f7d1d1e690	Aliquot	Blood Derived Normal	e90ab72a-4bbb-4c37-b48a-8a1a85d79d04	0
- 30eed465-db39-4e44-8663-e25e7d2dfe01	Aliquot	Primary Tumor	3ba3d23d-67e2-4f38-9951-f5cfa1131f9f	0
- 17d98e3b-65f0-4395-8fdd-11ce4ccfc917	Aliquot	Blood Derived Normal	8631bb5e-6d08-4c20-a85e-cb84f5dac290	0
- f4eca61d-ecdb-483b-bfe1-b1dfd5db648b	Aliquot	Solid Tissue Normal	7ce45134-5b1f-4ea7-ace9-7e463b034a43	0
- 3ab86bdb-3bc5-4a9e-a968-afb8b9633679	Aliquot	Blood Derived Normal	21a29827-7896-436d-ab52-e7edfc91e7d0	0
- 5f0e1221-01d3-44dc-a762-2084b3a42cc1	Aliquot	Primary Tumor	cd113dc4-915a-47d2-bce0-9dba915a9d29	0
- e30e3059-aeee-4637-94d2-78520add854e	Aliquot	Blood Derived Normal	7dc62c0f-b82d-417f-89a7-4cb984a9d304	0
- 5aff2614-4c95-4b26-85c4-4f0a97991d56	Aliquot	Blood Derived Normal	f3ec5bf3-97ae-4033-91a6-084a1aa152a4	0
- 0a313eac-afe7-4317-ae67-a2eba7cd821f	Aliquot	Primary Tumor	0fb599ce-5e10-4571-8160-4f5160791a3f	0
- ea11e1b5-ed5c-47f0-a320-9b8bffa66a4d	Aliquot	Blood Derived Normal	6ef0fc2d-f274-4253-bec5-6dbd55953d76	0
- ffdfc835-b6f2-4369-9f20-0c2b094020d0	Aliquot	Primary Tumor	7d0c6960-710f-42c7-889e-c3a7d4a30b3c	0
- 1ed46a80-9603-434b-a495-3b5698dd9be9	Aliquot	Blood Derived Normal	bb8e6886-edc7-4127-a85b-c4f3769b6681	0
- eae221e0-1a67-4302-a04a-10195507d23b	Aliquot	Primary Tumor	dc20ecf0-2807-4675-a7fd-8ead1cee7ea0	0
- 8190fde9-3acf-40d4-90c8-2344c571c55e	Aliquot	Solid Tissue Normal	a5c77ab6-6e98-4a3d-81c8-f3d5fabd31d2	0
- 488dd6cb-687e-4246-bd35-d45f3c5fadf1	Aliquot	Primary Tumor	9a05aa6d-6215-4584-90fc-09a0371a19ed	0
- caacdc42-537a-470f-b215-c0727d083e42	Aliquot	Blood Derived Normal	adbf5bda-e2dc-4b25-8fb9-96d89093f77d	0
- ad22411c-0db0-4ad6-8c80-4134cc51e7ed	Aliquot	Blood Derived Normal	0d498226-e22a-44a4-9ef8-1da8e83fa55b	0
- d8733559-f04a-4325-b92b-4508013a853b	Aliquot	Primary Tumor	03c66cf8-bc68-4ee1-a322-689a29b72262	0
- 517cb9af-54ec-4a7e-b093-16081dcfa7e1	Aliquot	Primary Tumor	931b549f-b9f2-4e8d-83ed-ff663671883c	0
- 2821a5f1-f23f-467c-aa21-b9a0f8d623d8	Aliquot	Blood Derived Normal	0c459149-0dfe-4206-b50b-db79180ebb57	0
- 38029fed-8935-4482-a4e6-d0be1258b2e0	Aliquot	Blood Derived Normal	7d0c6960-710f-42c7-889e-c3a7d4a30b3c	0
- ec655621-f470-4bca-ad72-e570cd3c3a42	Aliquot	Solid Tissue Normal	4434864a-8a0d-488e-b9a7-6749719663e5	0
- eda129be-4306-443e-a904-e4d5d91c9eb7	Aliquot	Blood Derived Normal	58c27028-f37c-4cf1-b134-bd9aec9bf170	0
- 521257bd-e4e2-4c76-8154-e87abb022203	Aliquot	Blood Derived Normal	bfb973eb-d42d-4900-a606-a381d2317555	0
- b1106f74-3476-405d-93ad-b718d7f393bc	Aliquot	Primary Tumor	38a2b705-d8a4-45ca-8bcd-96dbf93d8e4d	0
- e10b6bea-f2b0-4473-be35-709908f6f57b	Aliquot	Primary Tumor	f6040682-4999-4d71-abc2-354b473c6980	0
- 30cbe211-6ed8-49bd-b2da-428fd8c90f37	Aliquot	Primary Tumor	42fa9774-9471-4707-8f6f-8041b34c49e4	0
- a8ff080c-59c0-40d6-b8b1-4480719d7d17	Aliquot	Primary Tumor	75a7afb5-66d5-47e3-8a8a-3e3a1e749a96	0
- 7c56bd41-657a-4710-a03e-7fd4e035847b	Aliquot	Blood Derived Normal	f3e93819-a8f5-4d15-a416-3edd42aa52d1	0
- 02ca7fd5-cd78-4345-bbbf-2b803c6bdc01	Aliquot	Blood Derived Normal	a3cd3599-7c18-491d-be09-6fc7e526c9b1	0
- 316ecb66-2802-4972-9bdc-f11fd7f67801	Aliquot	Blood Derived Normal	e1c3d1bd-cf8f-4fa4-ac8e-bf9e54f7aad4	0
- d8b6ecad-0b33-446c-b7f5-6ad7a95ca260	Aliquot	Primary Tumor	bcc94953-ce79-428e-99c1-632e42c1b9bc	0
- 2c120cb6-8347-4d01-a96c-ff638871d08d	Aliquot	Primary Tumor	494a8495-8d10-4a8f-8664-f68ac339c889	0
- 800eb17e-206d-461a-8dad-15d3a09dfb9a	Aliquot	Blood Derived Normal	554a7381-46fd-4301-b91b-5af7f173c350	0
- f07d2982-6313-4e21-a0a1-cf713daff114	Aliquot	Primary Tumor	00f7f9d3-7a34-4a5b-9d19-38810dcabbba	0
- bbf7010e-343e-4a33-bf1f-91e5fa93eb6b	Aliquot	Primary Tumor	610603d0-43fb-4a4e-b368-d143e6c61802	0
- 1ff17ff8-6ebe-4775-bc2a-07db1eadb340	Aliquot	Solid Tissue Normal	8dc53431-44ab-485e-b4e6-c3d06509506d	0
- b3c65fbf-e781-4a0c-b76d-8a6c4535ccef	Aliquot	Solid Tissue Normal	18e79a01-07a2-4cd5-b700-71d41724e041	0
- 16d78baa-531a-4ec3-a6fa-d68143626080	Aliquot	Blood Derived Normal	3971a2f0-7263-4cda-aa01-9a2ebb2c2ff2	0
- 0c32797e-d804-4cab-a0c1-2aebeed8f037	Aliquot	Primary Tumor	9b5d36b2-8b46-48a4-afa7-0e1936f2d315	0
- 577739c4-abfc-466f-9bce-1bbb1f35040b	Aliquot	Blood Derived Normal	4fdc9f5a-7ba1-4f80-b3db-2b7cbe505217	0
- d441d979-16c2-4638-a963-550f1bffd4e8	Aliquot	Blood Derived Normal	ae3a0c92-148d-4f1c-8563-06ac1050f53e	0
- cf3e0850-c21c-4739-8085-7e278dded3cc	Aliquot	Solid Tissue Normal	000d566c-96c7-4f1c-b36e-fa2222467983	0
- c3644dc8-4a3a-4db5-868a-ac65f2772be0	Aliquot	Blood Derived Normal	610603d0-43fb-4a4e-b368-d143e6c61802	0
- f6fc7ff0-f510-4b66-b422-4e9a5c0552d6	Aliquot	Primary Tumor	5b12458b-f5d7-41de-a4e1-26d39dca9b17	0
- 0108ed61-8918-4ab9-b932-05cfd43ab22e	Aliquot	Primary Tumor	7466d120-6a6e-40a0-96d3-4979816d6278	0
- eabee59a-01ca-476c-970c-72f69b24f6f1	Aliquot	Primary Tumor	fd1aa612-df86-4d48-892d-2acebd76ea96	0
- 41815e8f-0332-4826-90c9-ee944f3887a0	Aliquot	Primary Tumor	907b64d6-a26a-4092-a247-ac9af444d1c7	0
- 99d703ae-a5d1-4dd9-a97a-8122c6a58b25	Aliquot	Primary Tumor	1583aea0-5d69-4165-9bef-d5bfdddf3a65	0
- 86ff7f1d-b776-4a67-9927-4071226f30f4	Aliquot	Primary Tumor	b6f54bdc-9b1b-4465-a6e3-f0524885e10e	0
- 5d4f8ba6-7ff3-40ec-af29-7b3450f813a2	Aliquot	Primary Tumor	490e84ed-3c02-4593-990e-ade5c109df44	0
- 1b6bdf28-2065-413f-b851-d6834173d5f0	Aliquot	Blood Derived Normal	270447ca-19ee-45a2-982e-032325dab05f	0
- cd75bca3-514a-46d7-9c45-64d7da925e78	Aliquot	Blood Derived Normal	444e78f7-1221-4882-ade2-7e45d828ea2a	0
- d0a01318-edcd-41e8-8be5-95fbc01e1e7e	Aliquot	Primary Tumor	deceb7df-6edc-41f0-99aa-c4ac7e764074	0
- 84029535-3038-490b-b904-910d79fce5c8	Aliquot	Blood Derived Normal	4e76de8e-cb0d-4b83-8ab4-53bc67a7a9d3	0
- 9221a776-a241-48a2-b486-98902a8628f8	Aliquot	Primary Tumor	181c6d37-9d8d-4ffa-827b-e3785450ff88	0
- 769e2ac9-a121-4b2a-a0fd-5f755b579811	Aliquot	Primary Tumor	6845076e-e940-4437-8618-81db4a447544	0
- d32f41fb-0744-4a62-81f6-0260c4920049	Aliquot	Primary Tumor	4fe004e5-49f9-4336-a690-6ebad512c813	0
- 2f8846f4-bd22-447a-b4c3-4fc9049b5a21	Aliquot	Blood Derived Normal	8a5f2d7f-835c-4726-b238-f82d6a7f25bd	0
- 99d7021e-f0da-44fb-8f6c-5bcd2c433a0e	Aliquot	Primary Tumor	30fa311b-05a2-43e4-9edc-02b327898132	0
- 7f00368f-9274-4a6d-a253-193feaac3ced	Aliquot	Blood Derived Normal	9938c4ad-748c-4086-9081-fac0aefad440	0
- 0ec36148-fac7-4583-b63e-6e055faa5d8c	Aliquot	Primary Tumor	929837f9-297a-47c0-ac9a-a142eef620d3	0
- 3b55bcae-8653-48b8-b552-b0368b47bac2	Aliquot	Blood Derived Normal	56df9de6-613d-44ce-8827-9213cc6c8b56	0
- 58fd9726-f7b9-4e5a-8e51-73a8971a1317	Aliquot	Blood Derived Normal	49197847-cc83-4ce1-8397-d09cea4c4928	0
- ac97df1b-05e5-4a00-a8b6-62d758397f3b	Aliquot	Primary Tumor	00f0f7dd-71de-4e4f-b4b5-df860324f2e8	0
- e5a23b9d-18a0-4cb4-8743-3d53fc3c45b4	Aliquot	Blood Derived Normal	1122fa92-0073-4f59-9880-3f1a34620758	0
- 2833ed55-763d-4ebc-a89b-3b4e255adbc1	Aliquot	Primary Tumor	9e48644f-d498-42b0-871b-d11f676241e2	0
- 97bc618f-218f-4eb3-a7f9-ad32524a0be0	Aliquot	Primary Tumor	b751083d-be6d-45da-be97-a6d41d8ebe97	0
- 4f907297-ae7b-4418-8f9c-44dec3b16e05	Aliquot	Primary Tumor	a7045324-cb44-4b37-bbaf-641642c1d903	0
- 4fd1a675-838a-423e-99c4-71af79e6b48e	Aliquot	Blood Derived Normal	1940166e-aedc-4dc5-90a5-609871f9f7da	0
- b68c5ec2-0875-4d77-b4b7-738d2b2f313c	Aliquot	Primary Tumor	be5411dc-3caa-4b25-9b94-ce463e8e52b4	0
- 8a89d72e-a967-40b5-a8eb-0d4ccd8615ce	Aliquot	Primary Tumor	922e5166-85f5-4365-9c09-f8bdc1722da6	0
- 18514ecc-f430-455b-8ee0-b9f5aff63989	Aliquot	Primary Tumor	e27bc39b-54f1-47b5-ac8f-3245dce690f4	0
- 10813632-d72a-449d-a4a1-0d0811d48ec5	Aliquot	Blood Derived Normal	91c0d161-2b59-4b7a-8c19-6d26dea31849	0
- e4ae4cc7-3295-4d4c-a51b-d65f5ad626d6	Aliquot	Blood Derived Normal	abeb0894-862f-4035-a6d9-fe0ba61630a9	0
- cec2fc20-36ef-4bd5-9496-d19a0ff4b6e1	Aliquot	Primary Tumor	69174712-af41-422d-952a-d8d0d16d7182	0
- ea3d3e0f-ff85-4f89-99b5-375033ec614a	Aliquot	Primary Tumor	91c0d161-2b59-4b7a-8c19-6d26dea31849	0
- c9650173-3de9-42ae-9cb3-0cc866860256	Aliquot	Primary Tumor	084ac674-f4cf-4a4a-a6a2-687c05c272ea	0
- 7b498228-7d17-4b2e-b815-123ebfe1f366	Aliquot	Blood Derived Normal	f82d53b1-3df8-4249-a615-464c9f4e0a32	0
- 2903d109-d1bb-4545-a90a-81a3d8d62406	Aliquot	Primary Tumor	28689d40-03e5-4e17-aba1-f2d571535eed	0
- 6a006949-56b7-4774-9768-6f384207ff48	Aliquot	Primary Tumor	e377f873-c0d1-4810-9f3d-e551723858e1	0
- e1e7d94f-1962-4438-b722-3d6d003eb6ea	Aliquot	Solid Tissue Normal	436b242c-ad5f-432e-a684-27bba4c1c8a2	0
- 942d7fa6-03b5-4661-9806-b535058fed63	Aliquot	Blood Derived Normal	53c43d14-2310-41e9-ac43-3cc298404338	0
- 79d05b35-8616-4147-af78-8bf33fa45499	Aliquot	Primary Tumor	fb447e0f-7cf0-49bf-8b15-aae932f8094d	0
- bdb0244b-1099-46e0-857e-35d6ae983c53	Aliquot	Primary Tumor	8bfac5b9-fa2b-4b6e-9537-e9d8a2f0d1dc	0
- b2e1507b-1fa5-4368-a706-2eee5e98d006	Aliquot	Solid Tissue Normal	73d4e806-2c15-4c9e-a978-106fb9494e82	0
- dfa92bb2-8190-4e63-a29b-ede8b316a0cb	Aliquot	Primary Tumor	21a29827-7896-436d-ab52-e7edfc91e7d0	0
- 98899bed-24c3-494b-83c6-27e994e986c1	Aliquot	Blood Derived Normal	f211f7a9-cf3b-432c-9ea0-1172cce14e9d	0
- 957baedd-a3e5-4cc3-84bc-d96a98047c96	Aliquot	Primary Tumor	942f1788-d977-4ac0-a177-659f9d4cd077	0
- 7a5f0491-82d8-49de-8420-fa14d8185bdc	Aliquot	Primary Tumor	4fdc9f5a-7ba1-4f80-b3db-2b7cbe505217	0
- ba2e9eb3-d530-49c4-ae78-d3069862fc71	Aliquot	Primary Tumor	17c0ce0f-8227-4119-9b39-ea8db18f5f4b	0
- 5d8deeb6-3e5f-422d-b7ff-d35db9198e0d	Aliquot	Blood Derived Normal	6755c231-355f-4cc3-85f1-6306c7f5d44b	0
- 68b542b2-f763-47c4-9df4-3f92060c8495	Aliquot	Primary Tumor	9b015929-99eb-4e74-8fbf-6b2e6d7f08e4	0
- e3e7e02b-0f70-4574-8d1c-63fd5b15d3bd	Aliquot	Blood Derived Normal	b8fbfe87-e92c-4d54-a620-17b2dcde6d53	0
- e0965003-39bc-46d9-83a7-7df655bdbf56	Aliquot	Blood Derived Normal	f16ce517-d51d-499a-a4c4-a6844fefa52c	0
- 0892efc4-b6f5-47e3-befe-b685ebb7d359	Aliquot	Blood Derived Normal	aa8b99fd-973f-465d-ae24-3421fe784687	0
- 62240b66-a483-4a6a-a55c-06b9734d523a	Aliquot	Blood Derived Normal	48f36fbe-356a-40af-b81f-8ea0b1369bab	0
- 166a3681-aabe-4ffd-ae66-5ceee10893bf	Aliquot	Blood Derived Normal	f06c1ef4-bedd-4025-abf8-06f5e9c0821a	0
- a9a3cde7-512a-4a9a-ba0c-3f630f015fb3	Aliquot	Primary Tumor	7c398299-d789-4185-adfa-194817877947	0
- ecd9e666-76cf-4984-a6b7-01764f387579	Aliquot	Blood Derived Normal	ce2b7e17-424e-4954-8a68-19d7f98d2e7e	0
- 365931c6-7328-42e9-919f-3b96847af1cc	Aliquot	Blood Derived Normal	f228ef91-ecfb-4d1e-8e6a-b43d2185270e	0
- 379f2694-a7e1-4f6f-98c1-aabaa42f883c	Aliquot	Primary Tumor	73d4e806-2c15-4c9e-a978-106fb9494e82	0
- ab4e6321-19ec-44d9-aa53-2391911d92d0	Aliquot	Primary Tumor	12d2b93e-a033-4b36-ae81-c15879eb40bd	0
- f73b4226-3788-4704-acae-67420da417dd	Aliquot	Blood Derived Normal	00f7f9d3-7a34-4a5b-9d19-38810dcabbba	0
- 71bae8ec-736d-4d84-8645-fbbd122caeec	Aliquot	Primary Tumor	79601d90-b198-4b94-b60f-4cff329c7a10	0
- 29a06cd9-5e37-41b7-954f-173a2ab44179	Aliquot	Primary Tumor	962dd3d5-8501-4658-8cb9-2424b476124c	0
- ac6a47f6-a38c-4f94-bac9-81fb034fb62d	Aliquot	Primary Tumor	5089a8d2-a353-4150-8a6b-6478c5bb29bb	0
- 03842b93-be03-4e34-a1c4-c29aa2f3a1ec	Aliquot	Solid Tissue Normal	dcf383d5-b25a-4ea9-a3f4-4d7ea5ddd9ef	0
- 2e51da70-984c-491f-a9eb-1bbb34f01a49	Aliquot	Primary Tumor	6641a298-1dbd-445d-a4ab-95ceb98e1427	0
- 087237e9-564b-46b8-8f1d-8de3406314b1	Aliquot	Primary Tumor	f16ce517-d51d-499a-a4c4-a6844fefa52c	0
- 5c810244-da67-425d-8315-da8c34d6a16f	Aliquot	Solid Tissue Normal	df7bbd9c-0b35-4855-acde-46f4956f4df1	0
- 86a0580e-36fc-4afd-ae47-966d6b1dc108	Aliquot	Primary Tumor	3fc9e3b4-8bc5-4bf8-bff6-dd90346b83a1	0
- ba24c391-5c1e-47ed-a058-142c8e1feeee	Aliquot	Primary Tumor	a3cd3599-7c18-491d-be09-6fc7e526c9b1	0
- d2f45990-6e87-46f9-893c-8db4e8eec983	Aliquot	Primary Tumor	f9f136a5-3ccb-42b3-ba60-c667fbb0846d	0
- 00d07ccd-92c1-4e36-9ccc-4dae23baa878	Aliquot	Blood Derived Normal	208a75b3-407c-4c5a-8938-3691547b6887	0
- 74e478ae-4fd2-454f-a0d1-0d2d37527fb8	Aliquot	Primary Tumor	cf70909e-5143-47ae-b8ca-c3ae6ace7be2	0
- 45a165ad-d560-4ed7-87ac-056436c3d192	Aliquot	Blood Derived Normal	827caf2c-a94b-4eee-86b3-1155a16daf4a	0
- d15683ba-3e40-4447-bca8-760f87c6c438	Aliquot	Blood Derived Normal	75d22d59-dec8-4f59-86c8-36b5e9f4fb0d	0
- f7dc706c-fd50-4f2b-8b98-db4e3e844012	Aliquot	Blood Derived Normal	929837f9-297a-47c0-ac9a-a142eef620d3	0
- 0b87ca7d-24d1-4192-8562-96b302bb907f	Aliquot	Primary Tumor	7ce45134-5b1f-4ea7-ace9-7e463b034a43	0
- c66f09bd-db15-4633-aeba-4f579345c6d0	Aliquot	Blood Derived Normal	2b5ef82d-e137-43f6-bfef-b202f20ee187	0
- 10812a81-93f3-4eb6-967f-b415d2263f0e	Aliquot	Primary Tumor	6394e00a-1f6f-4ea2-b885-373bbb59def9	0
- 01ba16d8-9bb6-47e4-a32c-887197f7b36d	Aliquot	Primary Tumor	ab540819-9531-4e99-868a-751649f25e6a	0
- d76bd858-d1bd-40a1-9abf-4015860fd89b	Aliquot	Blood Derived Normal	7c398299-d789-4185-adfa-194817877947	0
- 8630a7bf-bde9-4726-ac4d-8641b8365de9	Aliquot	Blood Derived Normal	fcbd7b29-12da-44c8-b241-1388d1b15684	0
- dd83711f-fea0-42e2-93ca-58faed54db89	Aliquot	Blood Derived Normal	5a92ec4c-36ee-4588-aca2-e3303f29c7ad	0
- b82d7dc1-f6b3-4474-93bd-9bfbefe30139	Aliquot	Primary Tumor	ce3585d3-7388-4d05-84c8-64e0883003b3	0
- 5d9192ed-c94c-472c-b614-fc31cc044d3b	Aliquot	Primary Tumor	105e12bf-4f39-4d7a-870f-fbc329ee210a	0
- cf6e6dd2-52d7-488b-8552-3e174d19744f	Aliquot	Primary Tumor	30f623a3-dae7-41da-ab10-8786d094209e	0
- 0d12cfa6-26d0-40cd-9278-2fc8f1f81f08	Aliquot	Blood Derived Normal	39a5aebe-acad-4141-aa5a-66228c4049f8	0
- a4f80437-b585-4146-b6e0-9e8e44fef3da	Aliquot	Primary Tumor	df4a7caa-6289-4157-8cb4-6ce8784e7506	0
- e8c4b6f6-86d6-48a2-bbfb-7b8da1493669	Aliquot	Primary Tumor	5a790086-4887-4d2b-9c28-0fdd5dd1f1fb	0
- bd4e531f-404d-4daa-8842-9718b657a281	Aliquot	Blood Derived Normal	c3fd52fe-bdc2-4cca-91c7-590a192f80ed	0
- a5c0313c-ca6b-401e-b90c-7d321d458a31	Aliquot	Blood Derived Normal	b7b61392-c085-4e28-892f-e9b6fe6ece41	0
- 6a9df8aa-9487-4bf5-b8a5-a16e2f28eaaf	Aliquot	Primary Tumor	89afdebe-456e-4128-8902-1001876a2106	0
- e6bd9212-3027-4fd0-a68c-8eba98159fa7	Aliquot	Primary Tumor	007f9081-5093-4323-b4f8-cd510bf20705	0
- 97303517-3824-482e-b245-cd3da03be6f1	Aliquot	Primary Tumor	2eccaabe-0783-4596-b674-d59846373a1d	0
- 34e9198a-0d9e-4624-9f78-4b09ec5f2a6c	Aliquot	Blood Derived Normal	2d70eacc-d0c3-4121-bd1a-a47d68ecede5	0
- 0d562f3c-4786-477f-9073-26c5f8413d52	Aliquot	Primary Tumor	daa9292e-8012-4aa2-8221-ad65fb1c7b78	0
- 61396ff0-5975-4cf6-9142-ce0349096ebc	Aliquot	Primary Tumor	351239db-52d3-4ab5-bd4f-8feaa6701ba1	0
- fac8ffea-e7f8-41d3-889f-dd24cf5dcd64	Aliquot	Primary Tumor	2dee4bd8-b00e-4f8a-bfea-5d8d1a068202	0
- 26e0ebbb-acc0-42da-8ba0-893de310f978	Aliquot	Primary Tumor	93cf60a7-1d61-4c1c-8dce-221289800b0c	0
- a5b84007-f6ea-43a8-92a8-cf0172b85790	Aliquot	Primary Tumor	0b5ed938-6ab8-4e76-8558-1d86f3a90dfa	0
- 2e17d22b-df41-4ea2-afd3-edce529c9a20	Aliquot	Solid Tissue Normal	629855ea-551e-456c-b421-83b9a4eb3269	0
- 792c5d3f-768a-4630-9cb3-6fbbacf5e964	Aliquot	Primary Tumor	06c9eb11-6018-4015-9fbe-b46886b2c3e0	0
- c3e0e54f-67a2-4cc7-9b98-51cd1fc1c318	Aliquot	Blood Derived Normal	7eea6fd7-733c-44eb-b4b7-50bb3a2628a0	0
- 5ee5825f-1688-49df-a83b-26ca8288c2a4	Aliquot	Primary Tumor	3e290dc6-aba3-4135-b844-3e8c4cc8a25f	1
- 574a6e8b-f27d-4fe5-8d21-6d0857077ac5	Aliquot	Blood Derived Normal	ead15a1b-726a-46aa-9005-a22f4b89d011	0
- 64835121-88ee-417e-b978-5e0eafc615b8	Aliquot	Blood Derived Normal	2d350c73-2a0b-4a3c-8d30-c6fcf6c3ffba	0
- 18fadec2-995f-42b3-9f32-ac72d2670608	Aliquot	Primary Tumor	eb715348-7c5c-4e95-bac8-05604bdda2da	0
- 293f781c-c2c7-479b-b1a6-5f951a2c5e5a	Aliquot	Primary Tumor	23e56e08-e11d-4e83-88a8-1254675b3af8	0
- 8a62da06-7d92-47d9-86fe-07676e6ac836	Aliquot	Blood Derived Normal	159b47b2-dc7d-4856-9a00-454e27301e23	0
- 463bc174-d782-4e0f-b8ab-e424b330c7f7	Aliquot	Primary Tumor	dec99f86-622b-477f-a26a-98c954fb1f17	0
- fc3cdabd-8915-4d8e-99f6-84a7fa9bd27a	Aliquot	Primary Tumor	c024c4b6-0143-4071-9175-7435f1eaac58	0
- 8994a220-e271-46ea-b68f-28388545c317	Aliquot	Solid Tissue Normal	716eb429-d7af-4d4f-bd8d-afcff1a323ee	0
- aca8551c-6477-4cd2-a7d0-72b093c56a69	Aliquot	Blood Derived Normal	eb80244a-5f20-49a8-8f73-e92c14395895	0
- 678b42ec-7932-47a8-98df-39f5d25b7562	Aliquot	Primary Tumor	ca076cfd-c628-4af2-837c-37617429adb9	0
- 28436e84-7985-4676-a36c-4b18f064db9a	Aliquot	Primary Tumor	eec48399-5660-4b25-8d34-191b54315c72	0
- d4a89263-a535-44dc-b2d4-86405c5a3191	Aliquot	Primary Tumor	a5c77ab6-6e98-4a3d-81c8-f3d5fabd31d2	0
- 8bc5e0ab-5177-49f7-8b17-e7782996202d	Aliquot	Primary Tumor	969399cd-47b6-4c0f-8939-3860be3014f9	0
- f07e44d4-d773-4542-abd8-921540b147bb	Aliquot	Blood Derived Normal	cccdd4a2-ebf0-482d-b71c-9fe44414eec6	0
- 50b1e243-b45a-42a1-8692-b7ae5d51250f	Aliquot	Solid Tissue Normal	261c3d74-706e-4751-bd15-8f3c1a402ff0	0
- fb1f3dbb-8353-4bfc-b0eb-5da03492262e	Aliquot	Blood Derived Normal	42b7d14f-09e5-4d91-bb98-5fe35907a6a9	0
- 7f1ca00a-84ba-4b26-a1a5-4d83c363ac69	Aliquot	Primary Tumor	10fbe481-f111-4f88-ae45-4d67cb265567	0
- 609e8c56-485a-4a1d-aa5d-ab4781c39cc7	Aliquot	Blood Derived Normal	ff49e0f9-4007-4761-845e-b676b0fc9646	0
- 23c4ade3-dc70-4bd0-95f0-c7be9eec4d99	Aliquot	Blood Derived Normal	c46022f8-b122-4367-836b-ec1ae641a87d	0
- 845e0bb4-122b-47a9-b106-a8e658bec473	Aliquot	Blood Derived Normal	f0f637b5-de40-4853-b54b-08468d45b195	0
- c58837d2-3931-4d77-87bd-24dbb7517c19	Aliquot	Primary Tumor	f3e93819-a8f5-4d15-a416-3edd42aa52d1	0
- 7ff2571a-0e33-4ec6-aba7-e9a5843005b6	Aliquot	Metastatic	e0dfc37a-4a2e-4353-9673-241b100b3467	0
- fb32ee2b-3ed2-4a8b-a7ed-89ef4bef7661	Aliquot	Primary Tumor	4048c139-1329-4e6a-8d2f-c0aa104a68ee	0
- c8746255-e8ec-4692-8a09-0a6438f5efa6	Aliquot	Primary Tumor	c506fae4-7c0a-4705-8e80-5bcc122a8a32	0
- f8799b1d-3e1e-4d2a-ac5c-63509cd01c8b	Aliquot	Primary Tumor	d07d20f4-dd65-4ffc-add4-01f350ca7b65	0
- 23c04493-58ff-4af4-a2df-9dbdd52d4e48	Aliquot	Blood Derived Normal	8bfac5b9-fa2b-4b6e-9537-e9d8a2f0d1dc	0
- 9815ad1d-4855-4da4-839c-ffcf705347d3	Aliquot	Blood Derived Normal	33283111-9a2f-4d5e-92a5-3435846404f7	0
- fde485ee-fc50-4398-a1f7-06e84028479a	Aliquot	Blood Derived Normal	9357e8eb-1ce5-4c0f-a668-e5e7f3031d6c	0
- 362152fc-c864-446f-b73d-3bd9926755b8	Aliquot	Blood Derived Normal	d843996c-0f17-4482-8466-9f6144981b8a	0
- a8d17ab3-05e9-4f09-a76b-c5740ee14f41	Aliquot	Blood Derived Normal	f00b4a22-c327-4fbb-a9a3-4418c13e2a48	0
- 90d86eaa-de07-46a6-aa08-8906f255ae65	Aliquot	Primary Tumor	9044098b-415d-4893-a682-3636f6b2b2db	0
- f337b49f-54b4-4a3f-9b2e-075249ea8f13	Aliquot	Blood Derived Normal	105e12bf-4f39-4d7a-870f-fbc329ee210a	0
- b8efa698-2592-447e-b038-3b4da4ebf6de	Aliquot	Solid Tissue Normal	854a481b-71a2-4f23-80aa-e91e9f4069b1	0
- a57c0f87-eec2-4a38-998d-294959df3d34	Aliquot	Blood Derived Normal	d6974db6-2bd3-4082-b48e-9c60f7fe3a1f	0
- b4db6bb2-71f8-44d8-a00f-6d87d1deb7ba	Aliquot	Primary Tumor	5277f041-f9fb-47c2-83f3-65ad230dd40a	0
- 6660b8f2-95ae-4689-a6e0-ed2edba45ccf	Aliquot	Blood Derived Normal	2eccaabe-0783-4596-b674-d59846373a1d	0
- 8340e524-5498-4243-b80f-416915f3604c	Aliquot	Primary Tumor	bea84d33-3286-44e2-9595-893c34a01f58	0
- 9b2182a4-8ac1-4d66-be12-cdd906a100a2	Aliquot	Primary Tumor	2def2a53-d2e8-46f0-8b07-f32dbf1833a4	0
- 68e09db6-a35c-43fc-ac1f-c5b66bb3ae2b	Aliquot	Primary Tumor	c4c1b5be-a0e7-4968-92de-7f34c71207fb	0
- bb8583d6-621a-4f59-87af-0a72dd30e1a6	Aliquot	Blood Derived Normal	aae0fca8-99e9-4fde-a2e9-b0ea500737f8	0
- 434c8d21-e732-4485-a382-84e8abf8bdb5	Aliquot	Primary Tumor	717c0fd3-527b-4d5e-a9ab-0f141fcc84e8	0
- df551c39-d578-49ea-8e80-24c14dbb340d	Aliquot	Blood Derived Normal	ea953ce5-7082-41ff-8e38-760fe4100414	0
- 1a1706aa-9a73-4b24-b51d-56d3764ea665	Aliquot	Primary Tumor	25d70934-01a5-45a2-9960-68d3058b6965	0
- 51db8439-c35f-472e-baf0-8e6e22833c39	Aliquot	Primary Tumor	ac67d0df-7dc0-4a1a-8b47-beec9b94de86	0
- 2ef588a2-879b-49c7-b880-227f72467804	Aliquot	Blood Derived Normal	181c6d37-9d8d-4ffa-827b-e3785450ff88	0
- 50f0645a-3e19-4a87-b182-a77e3ca3eab6	Aliquot	Primary Tumor	9357e8eb-1ce5-4c0f-a668-e5e7f3031d6c	0
- 4ca66d58-c6b9-4c71-b209-aa0a52690c09	Aliquot	Blood Derived Normal	aa405b5f-f75d-486a-96f3-1df7add18193	0
- f1e42f84-82bb-4e9a-9093-d8dc73dc6653	Aliquot	Blood Derived Normal	89a297be-ebb5-4b9f-8eda-0e548d14ad91	0
- dd8c6e47-fb57-4114-ab7a-9c49e5ff0613	Aliquot	Primary Tumor	1d2c5f72-cdca-4cc8-8a96-2abe10207356	0
- 9dce7b79-9898-4034-bf5a-463e3eba9f39	Aliquot	Primary Tumor	9a8caef5-6543-4391-8a55-4999035693c5	0
- 96a30919-cafe-43b9-9f46-226a8a38d246	Aliquot	Primary Tumor	618272c0-c2ed-4bfb-bb4b-404f0987f822	0
- 5d447810-0a8c-4047-90aa-835f4f42134d	Aliquot	Blood Derived Normal	c506fae4-7c0a-4705-8e80-5bcc122a8a32	0
- 812bc9a9-75fc-4ab0-99d7-8e2d45c17f4c	Aliquot	Blood Derived Normal	12f225d0-cbff-44eb-9183-bacc7f33b090	0
- 37744749-dd3a-43dc-b690-4270748f7885	Aliquot	Blood Derived Normal	d4dc7c5c-45b3-4741-b0c1-fee477da2ef4	0
- b436546f-99a3-4f71-b1aa-8653fe9471ec	Aliquot	Primary Tumor	0af98331-9305-41e9-af55-30390016d65e	0
- 14a14273-2596-4f11-82ef-cdfa397cb9a3	Aliquot	Blood Derived Normal	305b0b57-5952-43c7-9063-7bcd954eb44d	0
- 5fb0dad4-c9d6-4c38-9d1e-ee258dc133cb	Aliquot	Primary Tumor	13ce70a8-785c-4b59-b073-41922cb201f9	0
- 94207d64-f627-4ce4-b463-6ea128d2ad79	Aliquot	Blood Derived Normal	1170f449-dfb5-417a-a89b-b2229a2785db	0
- 447d759f-3770-49ac-8ff4-80ede8b435cd	Aliquot	Primary Tumor	6ef0fc2d-f274-4253-bec5-6dbd55953d76	0
- da45f3a1-439a-45b0-8e3d-9761899018a9	Aliquot	Primary Tumor	f8b98552-ae2a-4609-9929-7864485b3c51	0
- 58fdfbae-715d-4b84-9c40-5f5823a79bef	Aliquot	Primary Tumor	a8d81122-3f2a-43f4-bdc1-479cab37a19d	0
- 8df8a2b1-72de-4a9c-a20d-f659cefe1ed4	Aliquot	Primary Tumor	db2779f6-8fe2-48c3-988b-81db1815a678	0
- 4f11c4f9-f9a5-424a-b0cb-8bf2f444e04a	Aliquot	Blood Derived Normal	969399cd-47b6-4c0f-8939-3860be3014f9	0
- 59cd7fc8-c912-417b-9d55-f0b4918823bb	Aliquot	Primary Tumor	86b82965-b19b-4285-b1a5-51a5d5267103	0
- b63f37c1-b80c-44ba-9d98-1e621ee926d9	Aliquot	Primary Tumor	3f3128c9-1072-443c-b6ae-8b63166fa9a4	0
- f10cbfd4-a508-4061-a2b0-767db51dc211	Aliquot	Blood Derived Normal	5dd69c3e-9a3d-450c-9f10-10b4d6daeeba	0
- 3c1be2ab-1f84-46dc-b166-4d703d0e8ffa	Aliquot	Primary Tumor	b3bf57d4-e31a-4740-b438-fa826fb79550	0
- efe07af2-72d9-48b9-885c-8e7ca3760457	Aliquot	Blood Derived Normal	06c9eb11-6018-4015-9fbe-b46886b2c3e0	0
- 9f5e6063-d19e-4f56-b3f9-5c2260d3bfc9	Aliquot	Primary Tumor	e5e4d3b6-8e58-4dcf-8f67-a00e656a8e27	0
- 757ae720-46cc-4388-a24f-5c8ab52e12f4	Aliquot	Blood Derived Normal	a608bf0e-a932-4541-8439-2ffb9f6294b0	0
- 80182c4a-c41d-454a-bd5a-62ba971b8050	Aliquot	Blood Derived Normal	f4f81316-c99a-4a88-aa6c-e66fc5d60c53	0
- 4c074125-47a4-4533-a8f6-a96d06f5e5b7	Aliquot	Blood Derived Normal	5a4d8694-947d-45e9-9a21-6de0f63837f0	0
- 5e0102ae-f348-417d-b442-b660a411fd1a	Aliquot	Primary Tumor	12f225d0-cbff-44eb-9183-bacc7f33b090	0
- 9e26e7c1-58ba-4e1d-b9bc-bdac163f4834	Aliquot	Blood Derived Normal	db4793dc-cd45-4b81-93ce-8322031c2aa3	0
- 9b13b9bb-48e7-4bb4-81d0-3ce62ee0e536	Aliquot	Blood Derived Normal	cfcf057a-00fe-4603-a720-586712b75803	0
- 924c20dd-38c1-48a7-83c6-fd1bdffda680	Aliquot	Primary Tumor	dee02265-d8dd-4379-ae08-72d72b03a570	0
- 5fd313ed-de0b-435e-864c-1169b729acaf	Aliquot	Primary Tumor	24d7d4d8-f5c1-4d71-80e0-72a429fc9dbd	0
- 5a1f1c7e-8d3b-4323-a37d-767b65089dbf	Aliquot	Primary Tumor	3de1a86b-aaeb-4f0d-9f32-1fda924198d7	0
- 4756e8c9-7e46-469b-9b86-7683252186f5	Aliquot	Blood Derived Normal	eb715348-7c5c-4e95-bac8-05604bdda2da	0
- cd23f776-bd81-4c83-b0a2-6657ac9fd76d	Aliquot	Primary Tumor	e8f39c9e-0f1a-401c-9055-762b52bc77c7	0
- c1021edb-96b3-4849-9d2f-23a76cf0dd31	Aliquot	Blood Derived Normal	b2bcc97f-03a6-409a-8b91-78221cb10d7f	0
- 82e2c88f-f5dd-441d-8a01-80d89c3f693d	Aliquot	Primary Tumor	56829c8d-7bb7-4aac-999f-b1353db4915d	0
- a12577d4-bd62-4861-8ff9-5a105aefd37d	Aliquot	Primary Tumor	d7e22af5-88aa-4a83-985c-1d346dff652d	0
- 291dc91d-9f58-4a35-8a15-ebbc601c6bdb	Aliquot	Blood Derived Normal	69174712-af41-422d-952a-d8d0d16d7182	0
- c93901da-ca45-4879-a901-09753461f051	Aliquot	Blood Derived Normal	daa9292e-8012-4aa2-8221-ad65fb1c7b78	0
- b8daddf3-4dbc-47b1-b5bf-777c46131bb8	Aliquot	Blood Derived Normal	79ec7468-9aaf-4bb0-94c7-72be4f497868	0
- 737965eb-4771-4559-b50a-0a8a12278942	Aliquot	Primary Tumor	e6cbf99d-4a10-4c11-9ac2-eb26ef57331f	0
- e77da017-5dc6-4e32-9568-755e4ee9b533	Aliquot	Blood Derived Normal	23e56e08-e11d-4e83-88a8-1254675b3af8	0
- 87c4609d-4743-435b-8e1c-b5187a750224	Aliquot	Solid Tissue Normal	ecf9f8be-7830-4626-8617-694c68ef4074	0
- a6bcbcc8-3e2b-454f-933d-cf8a793858c6	Aliquot	Blood Derived Normal	13ce70a8-785c-4b59-b073-41922cb201f9	0
- 764d600c-bbe7-4996-8f5d-4ec9a3adc6af	Aliquot	Blood Derived Normal	eec48399-5660-4b25-8d34-191b54315c72	0
- 0c6efb93-b45f-4607-a8cf-c8b24859ad5d	Aliquot	Blood Derived Normal	25d70934-01a5-45a2-9960-68d3058b6965	0
- c0472d02-3ce9-46a1-a7af-29b75e27cb95	Aliquot	Blood Derived Normal	9b59ed95-e97f-4356-b976-e3fa0e9eee02	0
- 8f375497-1993-42be-aae3-0c55638053e7	Aliquot	Primary Tumor	53c43d14-2310-41e9-ac43-3cc298404338	0
- 11afac2e-9d8e-455c-8276-8cb5bdce0537	Aliquot	Primary Tumor	2c7ec330-261e-49c7-9424-6d83641dba6d	0
- e0bbf450-eb07-4a04-bfb5-5d1a5e885209	Aliquot	Blood Derived Normal	897a2af4-55af-4245-8629-1a71b622c17e	0
- 45c03982-3401-4737-b89c-b3a16aa6a7f4	Aliquot	Primary Tumor	d7763066-fb06-4519-9188-5de7dd12fdb7	0
- de2a74cb-41dc-42b1-831b-160074fee3b9	Aliquot	Primary Tumor	56c88739-c076-42cc-a2cb-fd613ab567b5	0
- 597e4011-ea99-4356-b1d9-8cfe35db7c3b	Aliquot	Primary Tumor	da5b0169-e4f4-4674-b348-220af03ff4b5	0
- e92edf41-954e-46d6-b1ec-63e2d070f16f	Aliquot	Primary Tumor	f4e17ba1-f14f-480e-8fe3-415909fc320a	0
- fc787cb2-b174-4f58-b4db-22eb3d987661	Aliquot	Blood Derived Normal	e82a04cf-e81e-43c6-9cd9-0e29fa0f00ae	0
- 93783be5-df68-4487-ac57-940bf725cbbd	Aliquot	Blood Derived Normal	fd50ff41-ec9d-4db1-a673-36ba0ca1eac8	0
- dfd72dae-c8b6-4f2c-aedc-173dff182937	Aliquot	Blood Derived Normal	aca312ab-6dbd-4183-8b22-8f37834f3426	0
- 5b812ff8-df95-4cb8-994f-3781ffaa7283	Aliquot	Primary Tumor	5e2ff1e6-87bc-4b91-a959-f0f553af4e27	0
- 05c383c1-ef34-477c-b518-2b48a62f2443	Aliquot	Blood Derived Normal	c28f931f-5ab2-4899-9fe9-54024f082d92	0
- 14d30fae-711c-4b77-a452-4fd8eb1c039c	Aliquot	Blood Derived Normal	c03ae0f2-dde3-47e8-a046-ce85c86dd77d	0
- d84f00dc-8c0d-4a2a-99e3-836a59aba5b7	Aliquot	Blood Derived Normal	a8396f6d-53e2-4664-a3e2-df061d022108	0
- d3e100b0-9027-432d-9ab6-2690e7753289	Aliquot	Primary Tumor	93e78f4c-e74b-4675-8d2c-d641fa25d8f2	0
- 1bd30acf-01c3-4c96-a016-63e8dce66217	Aliquot	Primary Tumor	e1c3d1bd-cf8f-4fa4-ac8e-bf9e54f7aad4	0
- 89d2e3cb-1a54-4f5b-93e9-e2ce8cb8074c	Aliquot	Primary Tumor	a186c956-6756-4339-9793-494fe9b80c94	0
- 955bd0b6-b0f9-4092-9509-d09a7c632fd1	Aliquot	Blood Derived Normal	f97fed28-fdf3-4c82-8b6d-1015848b80dc	0
- 3953b74a-6ac2-443c-9c61-be6894c76d92	Aliquot	Primary Tumor	554a7381-46fd-4301-b91b-5af7f173c350	0
- a537ec83-4cbe-4ddc-9116-39468c6bd4bb	Aliquot	Blood Derived Normal	07ccb4e9-a2a9-4bfd-97bd-13873b01977a	0
- 1f4dae7e-36da-4014-a9df-9907ad1f7af8	Aliquot	Primary Tumor	42b7d14f-09e5-4d91-bb98-5fe35907a6a9	0
- 456a9fb1-804b-413e-ab74-dd30d4e6954e	Aliquot	Primary Tumor	4ef24cca-976b-4c2f-8810-4339967da570	0
- c17cad55-fb48-4813-8f26-083d3ece8ffa	Aliquot	Primary Tumor	8631bb5e-6d08-4c20-a85e-cb84f5dac290	0
- 110f12ed-ca50-4832-bba5-acdccedd3746	Aliquot	Blood Derived Normal	03c15d06-b81e-433c-9de4-906cba91539f	0
- da75b98c-dc27-4169-b36b-136c6fbd2afe	Aliquot	Primary Tumor	a08fd0a6-a89a-4adb-b641-d4c1238abb71	0
- d31caea4-427d-4b58-8a66-08aa09f6d2ea	Aliquot	Primary Tumor	9f802576-1e98-496c-bda4-4b1dd2e411c8	0
- 581be6cf-9778-49c3-9c77-1316eaa78929	Aliquot	Primary Tumor	18e79a01-07a2-4cd5-b700-71d41724e041	0
- 0c0aa301-47a5-4e4f-bba7-2d4928ad174f	Aliquot	Primary Tumor	b2bcc97f-03a6-409a-8b91-78221cb10d7f	0
- 66199aec-eed9-46c6-bbb4-e5048ee23e00	Aliquot	Blood Derived Normal	0b5ed938-6ab8-4e76-8558-1d86f3a90dfa	0
- 64b492d0-73c0-4de0-bad1-5ef62275b035	Aliquot	Primary Tumor	ae3a0c92-148d-4f1c-8563-06ac1050f53e	0
- d7ad26f0-ee2d-4a35-9f25-c860af727cbd	Aliquot	Blood Derived Normal	bdd4fefa-512a-4720-9f9e-11eb3892fe3c	0
- d47e6a60-b436-4ee5-b201-819ac01c600b	Aliquot	Solid Tissue Normal	7315bb0a-96a1-45ab-a704-b084d237cf5c	0
- 818ac005-a711-4c39-a06c-d103c59def26	Aliquot	Primary Tumor	3fa83688-1724-42cb-a600-472e4c500e89	0
- 292347c6-bf93-4cea-a220-25a1054e259c	Aliquot	Primary Tumor	6433f001-db5c-476b-83c7-23f4c5397ae9	0
- b4f0563c-2660-42eb-aa93-bbe35d095334	Aliquot	Primary Tumor	88705b03-aa27-45c5-bef0-bb697799f9df	0
- ecef180f-ebad-4421-8489-69ff5a12d716	Aliquot	Blood Derived Normal	db2779f6-8fe2-48c3-988b-81db1815a678	0
- 637ce92c-479a-4333-a272-a3bc97468267	Aliquot	Primary Tumor	d843996c-0f17-4482-8466-9f6144981b8a	0
- 81a818c2-0b58-46fa-a0a7-6f7cf020ba45	Aliquot	Primary Tumor	1ea3b879-5451-49fb-b930-16e9b5627f18	0
- 71680fa7-bf45-4381-828f-0cc1f73a13c6	Aliquot	Primary Tumor	1170f449-dfb5-417a-a89b-b2229a2785db	0
- a1af817f-0d34-41c4-95e5-d61b174e3c6a	Aliquot	Solid Tissue Normal	f4e9a9f9-263c-4ced-a8fb-6cb0fb088983	0
- 9e9272d1-8ef5-42c5-933e-c466a8f22479	Aliquot	Primary Tumor	89a297be-ebb5-4b9f-8eda-0e548d14ad91	0
- 6f555699-002c-43d7-b5ef-22deebbae2a5	Aliquot	Primary Tumor	629855ea-551e-456c-b421-83b9a4eb3269	0
- 12feb794-20b1-44b1-9c4f-fc995dad737f	Aliquot	Blood Derived Normal	c7912ca7-11e1-4cb8-902a-9d6cb23fd344	0
- 53b1cab7-43d1-4643-ac22-c93696c913ee	Aliquot	Blood Derived Normal	942f1788-d977-4ac0-a177-659f9d4cd077	0
- fe227d04-2285-41ff-b5b8-421a317a61c7	Aliquot	Primary Tumor	e82a04cf-e81e-43c6-9cd9-0e29fa0f00ae	0
- 5b85059c-7e9e-4d42-a942-12cd919eea93	Aliquot	Primary Tumor	10271d9c-9b9c-4b5f-a845-a0f1bd03af51	0
- c5de444a-73e7-4ab5-a966-7865d0d139ec	Aliquot	Blood Derived Normal	f98366df-9616-41c0-a6b8-ec92dca7177a	0
- 7756bd88-7802-41a3-abcb-aed3b0481164	Aliquot	Blood Derived Normal	1ea3b879-5451-49fb-b930-16e9b5627f18	0
- 1befde85-bf60-46a5-88b0-f6319b14a2fe	Aliquot	Primary Tumor	92f45022-ee76-418d-8f9e-c3509efda0c0	0
- 9b4b6723-8e0e-4e98-a726-c023723e08b1	Aliquot	Blood Derived Normal	214884ef-a932-4fc3-b6ff-16ce5164da3e	0
- ac89aa0d-1731-4467-9eb3-57726a089b7f	Aliquot	Blood Derived Normal	92f45022-ee76-418d-8f9e-c3509efda0c0	0
- fc6d5463-8229-4c14-b625-910f36daf247	Aliquot	Primary Tumor	08f11bdd-d665-45ab-b1a2-5485d91922c2	0
- 65e172e5-0c3a-46a6-9a66-78f0c77d8f7f	Aliquot	Primary Tumor	73b7d4bc-6b56-4ae8-be7f-074745563bee	0
- 90b319c1-a436-4ade-bade-62393163aeaf	Aliquot	Primary Tumor	159b47b2-dc7d-4856-9a00-454e27301e23	0
- 7fb84b2b-2982-40fd-81c4-64892a963f04	Aliquot	Primary Tumor	df7bbd9c-0b35-4855-acde-46f4956f4df1	0
- 8522e5d6-2758-432a-a023-6e6dc07e9893	Aliquot	Primary Tumor	9a8e27c9-614b-491f-913d-429dfc4e2c4d	0
- 36aca1a7-bdad-4b88-88b7-6c6f7bd62490	Aliquot	Primary Tumor	f7fc3f2e-c70e-460d-b34d-bb2ea423a0ae	0
- b4a3672a-baa0-4d94-aad4-c88dfc3d357f	Aliquot	Primary Tumor	07ccb4e9-a2a9-4bfd-97bd-13873b01977a	0
- 52d06f71-3337-45f9-9f4b-ffc975c73870	Aliquot	Primary Tumor	f16ce517-d51d-499a-a4c4-a6844fefa52c	1
- bc4c0fab-2cb2-4203-a0ed-c5fef2446f5e	Aliquot	Primary Tumor	eb80244a-5f20-49a8-8f73-e92c14395895	0
- 5281e78d-70d2-4c86-9c6f-9f73b6a45b9e	Aliquot	Blood Derived Normal	13a63fd0-6c8c-4707-9135-8052f454d1ac	0
- 9586dcd1-086c-4204-b6f8-2fd2965f1c22	Aliquot	Blood Derived Normal	a08fd0a6-a89a-4adb-b641-d4c1238abb71	0
- da36622f-b6d4-427f-b233-ed97fc76abc5	Aliquot	Primary Tumor	67cd72e2-a4cf-48e4-943e-406c252f056a	0
- 13b7e087-b8c9-4aca-82d5-bad335e8c8ac	Aliquot	Primary Tumor	deb57bd8-545f-477a-9a86-6bc6db257270	0
- e4ea4c81-9106-43af-b2ce-2352d6fd4978	Aliquot	Primary Tumor	8990ce28-c671-4487-8dda-864f0675bbb3	0
- 4734b728-d63b-4669-988d-eca6c1abb0f6	Aliquot	Blood Derived Normal	a3a4a518-2dac-4846-9476-1aa7e0c1fb5e	0
- 6773ad95-6d11-4f51-8b2b-5cc5ef4057ea	Aliquot	Blood Derived Normal	89c150cf-f60c-4f11-8f3e-384b0e0902f9	0
- a6cf8216-0d6d-4835-b09e-04ee0ae4841c	Aliquot	Blood Derived Normal	186d7f36-4e93-4ab2-bc23-95d5cd296656	0
- 61f27ebd-983d-453c-973f-2a30696c9729	Aliquot	Primary Tumor	d4ffafdc-ee83-43df-aa3b-7326503c6438	0
- b784d464-ed48-4b7e-ae31-b3fe20d63594	Aliquot	Primary Tumor	f97fed28-fdf3-4c82-8b6d-1015848b80dc	0
- da5750e6-fb1c-4bd9-9fc7-fa93504b0690	Aliquot	Primary Tumor	aa8b99fd-973f-465d-ae24-3421fe784687	0
- fd4e4ca0-0447-4148-8ee3-323010c60f2b	Aliquot	Primary Tumor	5a4d8694-947d-45e9-9a21-6de0f63837f0	0
- 61d23977-669f-4308-8e10-682b9c3c969d	Aliquot	Blood Derived Normal	7466d120-6a6e-40a0-96d3-4979816d6278	0
- 087a7f17-690b-460f-a9ce-ab90d316a64c	Aliquot	Primary Tumor	4b9aa301-d2e3-47f3-b724-a34f420b2b6b	0
- d1e9fad6-a37e-4dd5-8011-6cff3fa8fd57	Aliquot	Blood Derived Normal	6a5af80e-07ad-4cd3-aaab-5db1090835d9	0
- a73d17ac-6872-4b3d-a945-212f2a20d843	Aliquot	Blood Derived Normal	dc20ecf0-2807-4675-a7fd-8ead1cee7ea0	0
- 344706a8-f56a-4d3b-b7f9-97eb0aa3924d	Aliquot	Primary Tumor	39a5aebe-acad-4141-aa5a-66228c4049f8	0
- 1161c64b-4a41-4fce-a9d4-73d4f091c044	Aliquot	Primary Tumor	338fe754-fc4a-4294-ba15-42d4c7c9ac10	0
- 71f9ca33-4f59-47fa-98b2-6074451c14a4	Aliquot	Primary Tumor	d44d4bcb-beb1-4464-acd2-9972751f5018	0
- 4aeba7a2-387f-41b0-ba7d-24d6c0c96b22	Aliquot	Primary Tumor	adbf5bda-e2dc-4b25-8fb9-96d89093f77d	0
- c6995bd6-51d1-4786-9c0a-e4aebe984d5f	Aliquot	Blood Derived Normal	28689d40-03e5-4e17-aba1-f2d571535eed	0
- dcaa1a41-14fc-43fa-b8d5-fe4b38c53b26	Aliquot	Primary Tumor	f7238e82-a394-4a7c-8514-6241d0aa17e3	0
- 15291a8d-12a8-4092-914c-995dbb9b607b	Aliquot	Blood Derived Normal	0afa0e02-daae-47e6-9ccb-9de8e4feb73c	0
- 3dfed002-b5bd-4fb8-abad-1fcd74db1b68	Aliquot	Primary Tumor	00b16434-0b3a-4194-8714-74dccbebe06c	0
- 4992a5df-2ae7-4480-99ab-b908b3cdf96e	Aliquot	Blood Derived Normal	ecade538-f882-4f29-a363-7acb89fd0576	0
- 7f3b9e81-6a08-4d69-9cfa-8a6b2debb441	Aliquot	Primary Tumor	bf462e14-f9e8-4531-905d-1fb59d9088cb	0
- a4d93fb9-005b-4fc2-9c1d-409da6817ba8	Aliquot	Primary Tumor	256f5bcf-10a9-47be-b265-cfa707d24097	0
- 9a7279b2-607d-41b8-bee0-226b1ae34c08	Aliquot	Solid Tissue Normal	70c6c3a0-b422-4541-a60f-355356a9a340	0
- 9c46bdf0-625f-4d00-ae75-b9e83d2fe3ea	Aliquot	Primary Tumor	d1b31524-8034-4fce-b14e-1cef33c26ca5	0
- 880022c4-45e7-4c49-92a2-231924b36310	Aliquot	Primary Tumor	931feb14-3f69-41c1-8435-5fd4fb775bdf	0
- 6ee4d1f0-da1d-4650-9d06-7f1bc0b11407	Aliquot	Blood Derived Normal	c606918f-e8c0-4019-ad6f-47d5cd7615c4	0
- 5b3c1e73-475c-4b3b-a49a-0f11810c5223	Aliquot	Solid Tissue Normal	f6c61a22-a711-416d-9e65-6a1b957e5b2e	0
- b5f978ce-bc06-49da-99f3-b9064fdbe024	Aliquot	Primary Tumor	e833ad67-2cb3-414c-b15e-28f49479e2ef	0
- ccf76f57-aae5-4baf-a1cc-56a0a59c143b	Aliquot	Blood Derived Normal	ed7084f8-060c-4780-8b35-a03a5eab9684	0
- 8d1a3e2a-d051-4c36-89a2-dcf617cc1ea3	Aliquot	Blood Derived Normal	5d66ac77-1543-488b-a68f-665811bec67a	0
- 05ab92d0-9cba-4cd0-9f18-31dd0ef37394	Aliquot	Solid Tissue Normal	6e3154d4-2ef6-403d-9de1-7b6233c4d505	0
- dbd87a78-31e4-4495-bd8c-2ac34aea261e	Aliquot	Blood Derived Normal	083cc988-19a5-49b4-97c0-4e7bcc5d5c08	0
- 89d60af8-dd60-4b74-88f5-779f6e026865	Aliquot	Blood Derived Normal	26eefaa1-1666-4ce1-8cf4-f6fabff81fd2	0
- ae7020ae-a05c-4600-8e4f-566529e96967	Aliquot	Blood Derived Normal	00dda860-53c3-4ab2-8294-73e291adf9d2	0
- 5c27050c-aef0-4f06-b6c3-fedca13d658a	Aliquot	Primary Tumor	58c27028-f37c-4cf1-b134-bd9aec9bf170	0
- 3b8bec14-e3b8-4447-a11a-96144843d4c1	Aliquot	Solid Tissue Normal	aaeb1d59-d6ce-4422-9639-f1e83c002d84	0
- 5f6e7113-43b8-499c-bbaf-652990f11d43	Aliquot	Primary Tumor	083cc988-19a5-49b4-97c0-4e7bcc5d5c08	0
- b340dd39-ff48-4c98-82af-93c100df68eb	Aliquot	Primary Tumor	f0f637b5-de40-4853-b54b-08468d45b195	0
- 1f35d13e-3184-4b59-a41b-85912d6c2749	Aliquot	Primary Tumor	7efc26b2-eff9-4f1e-9f4b-f26af072c84a	0
- defe4c4d-743a-4352-8020-f614ba5bfe2d	Aliquot	Primary Tumor	2a51e1c2-8a8f-4df3-bcc6-7df94a47d94d	0
- 8c34b0c6-72f2-4a77-a188-e4148283941d	Aliquot	Blood Derived Normal	bcc94953-ce79-428e-99c1-632e42c1b9bc	0
- 9a41f5ef-4649-44de-883f-c7c0c4ee5de4	Aliquot	Blood Derived Normal	d07d20f4-dd65-4ffc-add4-01f350ca7b65	0
- 4a1b4f8f-a455-4055-bc01-504f65df35b8	Aliquot	Blood Derived Normal	cec1d2ff-36e6-497e-892c-b329724b4722	0
- bf511245-3f97-49f0-9422-c646fa25dba0	Aliquot	Blood Derived Normal	da5b0169-e4f4-4674-b348-220af03ff4b5	0
- 1237363b-46ba-4359-9af8-bd84098f47c1	Aliquot	Primary Tumor	91e249a6-b0b0-487e-9fad-0e9f5798dcae	1
- ab318624-db9d-41d8-b7b8-34712434f28f	Aliquot	Primary Tumor	59207bcd-f127-481f-b576-8716da7d7d97	0
- c2f36eb3-3972-4616-84d6-c570b24881f2	Aliquot	Blood Derived Normal	dc16f348-a49f-4958-a3ff-bc40e18df2bd	0
- 906935a6-9e29-4146-a7a0-d60f2507e774	Aliquot	Blood Derived Normal	c3a509c6-35a6-4d17-a9fd-0aa8884b33a0	0
- e71e87aa-f13b-4617-9571-e24be01192e1	Aliquot	Primary Tumor	ae739a4a-e319-4d87-8330-14f2fbc8839d	0
- 46642782-ebe5-4fd1-8991-d0ee682f5ab5	Aliquot	Blood Derived Normal	e0ff90e5-e6c3-4fb5-9512-6f09a891378b	0
- aa7b8960-9246-483f-a43b-9366501ee804	Aliquot	Blood Derived Normal	8e1ff72b-f1db-4bf9-a8d3-f422e25a65e1	0
- 18ee8074-9dce-4718-bedf-7f58f009bffb	Aliquot	Primary Tumor	b1bdaf2d-7d84-4409-9427-5390150bb96d	0
- b4377528-6017-41d2-ae39-1f280a2294ad	Aliquot	Primary Tumor	2b35c119-cdc1-49e2-8229-ca5cde9e63d0	0
- f79ad5e5-cf51-49cb-aafb-2c6ab3448ecc	Aliquot	Solid Tissue Normal	8990ce28-c671-4487-8dda-864f0675bbb3	0
- 0caf5af2-ae80-4f39-ac6f-c2dbc2e8b820	Aliquot	Primary Tumor	c3a509c6-35a6-4d17-a9fd-0aa8884b33a0	0
- 48663fd9-664b-4ba1-a992-df8b0bc460e8	Aliquot	Solid Tissue Normal	17916c4e-febe-48c6-b475-ad29397425e8	0
- feca02f5-4ac6-4bff-8de2-4256809ab640	Aliquot	Blood Derived Normal	0af98331-9305-41e9-af55-30390016d65e	0
- 18346a75-5c68-44ad-94d2-2c935cb2b87a	Aliquot	Primary Tumor	3a6e0fd1-6e06-4002-9d1a-88edf7944567	0
- d75f9a49-dfc3-493b-b9dd-4940d9803cfd	Aliquot	Solid Tissue Normal	3acd8328-76f7-4f43-9660-394b95748c3d	0
- 993b5404-5434-45a7-8e8b-e099c11884bd	Aliquot	Primary Tumor	4f9f1fce-d96e-407b-a873-56129985aece	0
- 8a20984a-dea3-4ed4-a100-2b1d193eb825	Aliquot	Primary Tumor	2f231b79-84bc-4256-bf26-7ce64083d438	0
- 600ca654-1eb6-4434-bba1-210e230b973a	Aliquot	Blood Derived Normal	d4ff9f1a-1d35-4ad6-9a36-059547081c7e	0
- 67324969-d5d7-4ae7-b8f7-26b11d6c0439	Aliquot	Primary Tumor	c606918f-e8c0-4019-ad6f-47d5cd7615c4	0
- f54442d1-80fa-4678-ac94-c3ad03bc37fb	Aliquot	Primary Tumor	87959988-bb25-47ee-afc1-9af92592bbe7	0
- b330d9da-504a-4dfe-b696-ceebe0369ede	Aliquot	Blood Derived Normal	4bc71292-60bb-4b63-86c1-0fe021083804	0
- 4bfa7723-1fe3-42f2-8575-70305679ac12	Aliquot	Primary Tumor	93d10d8b-5f98-4d2c-8af3-11471385d4d4	0
- fa166681-7b67-4137-822c-f90e30c628f9	Aliquot	Primary Tumor	9519be01-d78d-462c-8a95-34149538afeb	0
- 7e2e1f2f-9929-485e-8b8f-cb092a7e3b1c	Aliquot	Solid Tissue Normal	108dee1e-b27d-4056-a167-261725f548c1	0
- d96380bd-80d2-4c64-ae3f-6f886936204e	Aliquot	Primary Tumor	3e290dc6-aba3-4135-b844-3e8c4cc8a25f	0
- 2c4f634f-c147-49c3-b5d3-77175dc269cb	Aliquot	Blood Derived Normal	68fc3693-0910-4ee8-8997-99c6333b65f4	0
- f7be9369-def7-4cc9-8caa-9d546dc7c0df	Aliquot	Blood Derived Normal	607fd22b-f281-431b-848e-ae01e69567e2	0
- 12e7e0e3-0619-4659-ac66-f999415ad396	Aliquot	Blood Derived Normal	f6381367-142c-45d0-92b3-c1727d1813ce	0
- ba42b097-f2e5-46f4-b7fe-1209b3d5af9b	Aliquot	Blood Derived Normal	4f9f1fce-d96e-407b-a873-56129985aece	0
- 21e0de1c-8cdc-4b26-ba3f-e13f863af312	Aliquot	Primary Tumor	5d66ac77-1543-488b-a68f-665811bec67a	0
- 470a25cd-eea8-4ca6-b91c-86e36397135a	Aliquot	Primary Tumor	b5268f49-2710-4d17-a78b-4a05412e8375	0
- bab99ce8-a7bc-4637-9322-032ea79b8c23	Aliquot	Blood Derived Normal	6845076e-e940-4437-8618-81db4a447544	0
- ef3312fd-0ef1-4d54-9cea-4bf59a6ebf85	Aliquot	Blood Derived Normal	fb447e0f-7cf0-49bf-8b15-aae932f8094d	0
- 090a3fe0-0591-40bd-80fc-485baf11cc56	Aliquot	Primary Tumor	9d499039-37ca-4300-ae95-04bbe007c0d2	0
+ 379affa6-98e2-459e-ac52-5ce57f69e2dd		aae0fca8-99e9-4fde-a2e9-b0ea500737f8	
+ 951bf391-e24b-41f8-ba79-ba1ba44d09a8		a6d467cf-6783-4885-8de5-95d32e922500	
+ 0fe4914b-4eed-4620-bd08-4a854ee94df6		f6743ff8-542e-4fde-8ff2-4878fcabffda	
+ 8e0af26e-760e-4842-8e0f-c073f3b67fc8		00e41e6a-9fe7-44f9-978b-7b05b179506a	
+ 046e13f7-4c6e-4ee1-97c8-8adf4fa21c42		29bd2c05-254b-4bb2-ae32-5b328f772441	
+ b8c79fa3-a242-4536-90de-33daeb65c445		a13a7252-de84-4950-9307-80fc8a6a668d	
+ 5c82813e-861d-4893-bc6c-9cc3c0dba6c3		88705b03-aa27-45c5-bef0-bb697799f9df	
+ e3c8391f-2734-44a4-b1d4-729d7637f6d6		9044098b-415d-4893-a682-3636f6b2b2db	
+ 406a543f-c14a-4f78-bf50-77ea7e9a8ede		0e747c7e-3621-4d88-847c-86811655d908	
+ f519e32d-0ee8-4f58-975c-3d717fb4e774		8c0d361f-eaab-4768-90f2-b7a610e2bbb1	
+ 0a1f24ca-9ea6-45b4-aae1-2174a9670065		f4478172-7727-4680-9934-da755ab1825c	
+ 03fd3a9c-8dae-4e30-9439-2c509bcaae9c		256f5bcf-10a9-47be-b265-cfa707d24097	
+ 50f0a6a4-1453-4dc2-b963-53a6075ce4cd		c46022f8-b122-4367-836b-ec1ae641a87d	
+ 335eea2f-41a0-419e-9da3-316bb8514aa2		301c4c32-bc66-4328-8dcf-fe3dd66fbde2	
+ 954243c2-9440-4e7f-950d-ab48dfe1b570		e0ff90e5-e6c3-4fb5-9512-6f09a891378b	
+ 0b92342c-e2a3-4f38-9ed1-bd7f1aac35f7		93e78f4c-e74b-4675-8d2c-d641fa25d8f2	
+ e1eef67e-8d86-427e-bf5b-6cf34a01b998		da5b0169-e4f4-4674-b348-220af03ff4b5	
+ 91e00401-e16e-4067-ae4d-28fce0a0425e		0f01ec33-00a8-4188-a8f0-e90d46ad9bc7	
+ 109b048e-6856-44d8-a162-3d4c46493327		b751083d-be6d-45da-be97-a6d41d8ebe97	
+ 1977a26b-0d18-495c-8a57-ac73a2953e90		71d14304-ccb0-4a4c-b935-8c014ca75fd0	
+ 4e25c1b9-c691-44c5-bc32-85ddca3e1196		701991da-6deb-41df-b9cc-e5049a886b5b	
+ cff41f62-8849-4654-807b-f02b1b04ba18		ecade538-f882-4f29-a363-7acb89fd0576	
+ fab25240-6b31-4570-b1dc-8e37d42997d0		8cc7679d-b963-4b45-b3f8-dcf80ea6cc71	
+ 79086298-47f2-4553-bf73-fc0572aebf2e		7eea6fd7-733c-44eb-b4b7-50bb3a2628a0	
+ c866d486-7422-4b92-89e2-f77933384d64		7315bb0a-96a1-45ab-a704-b084d237cf5c	
+ e288a257-57d7-4ddb-b99e-aff289bcc4be		1bcb1132-a9fc-4f03-bbed-abaf80c7a24a	
+ 94ff6d8f-9403-4266-a6a8-0c264a0116fd		deb57bd8-545f-477a-9a86-6bc6db257270	
+ 80c2ed07-50fd-43ca-98d2-af4ed0fa6c87		74de01bd-30d9-45fc-841d-ed1c0d7446ba	
+ f07b8ebf-6f30-4011-b595-5571f05c364b		8dc53431-44ab-485e-b4e6-c3d06509506d	
+ c977d3c1-60f0-4987-b74d-d523a17f3784		208a75b3-407c-4c5a-8938-3691547b6887	
+ 112415c3-8cea-4608-9f55-c5714ac77390		e2b33861-2247-413f-b2e5-9be3b604666c	
+ 0b70f94f-f1c7-406b-b91b-3293c29e666b		b7c8ca4c-8d9c-4c5b-99ee-2fcebe4f70e6	
+ 71c317f6-14a3-48e0-a4b2-d53d72060ff3		35243518-b086-4d76-a336-8c61a14f9ded	
+ 5c2da700-8b1e-4ca3-8960-f8f0028ca0d8		3de1a86b-aaeb-4f0d-9f32-1fda924198d7	
+ 5d6e5f5b-51e4-47f3-835d-ea897c775d3a		73b7d4bc-6b56-4ae8-be7f-074745563bee	
+ 436a93af-a810-4d2e-aaea-b63735c080c4		89afdebe-456e-4128-8902-1001876a2106	
+ d5048e04-2519-42cc-8990-41612b2ad528		607200f5-df80-4f5d-90fb-fdc455a7415b	
+ 85714546-69c0-468e-b38a-3e0e886d44c7		f25bae1a-8627-46a8-87af-07f82773c68a	
+ cf03c931-271d-477f-ba45-74d7d52ae213		df3362cb-0f6b-412e-8af4-c5606526be17	
+ 57c67ced-cab5-4e66-a6b8-04c020bd4a3e		45a04209-8fac-4181-bba3-1437c8fd7f09	
+ b1c94201-9a51-43a9-8d6c-75e8f0ef7420		19cf56b2-a85b-43e7-971f-5680b9b1a67a	
+ 59d383d8-c1ee-4cf7-b802-0a75b257e576		3ba3d23d-67e2-4f38-9951-f5cfa1131f9f	
+ 7657dad4-c2db-417a-a77c-4de308ef3f61		29bd2c05-254b-4bb2-ae32-5b328f772441	
+ 81dd038c-ba90-481c-90dc-c89b3048fc99		0f01ec33-00a8-4188-a8f0-e90d46ad9bc7	
+ ac240fae-de3a-4831-af2d-0047fca54825		3971a2f0-7263-4cda-aa01-9a2ebb2c2ff2	
+ 3bbac3a7-c057-4b25-acbe-f195ef6045ff		fd50ff41-ec9d-4db1-a673-36ba0ca1eac8	
+ 56f5e8ae-b53a-4a02-9e21-a2a03f384dc5		2d350c73-2a0b-4a3c-8d30-c6fcf6c3ffba	
+ b63236ea-caa8-44c1-ba56-d36c6c394c23		b5268f49-2710-4d17-a78b-4a05412e8375	
+ 7a8a6772-4da4-4461-adcf-094b84fed702		007f9081-5093-4323-b4f8-cd510bf20705	
+ 7b5c45f2-39e1-4da3-af33-4b8f35de09c7		9a8caef5-6543-4391-8a55-4999035693c5	
+ 21a67a0f-4f96-4d09-b462-3e06269d787c		5277f041-f9fb-47c2-83f3-65ad230dd40a	
+ c18a4706-70cf-463a-be68-fffa9c36c5d6		5e7a7629-800a-45c4-b4cb-314a853a1bec	
+ b4a89182-c17c-42a8-af9e-4fcc861e336c		214884ef-a932-4fc3-b6ff-16ce5164da3e	
+ fe51bd58-bb0e-41cd-aeee-4bf7aa9579a2		8cc7679d-b963-4b45-b3f8-dcf80ea6cc71	
+ 67cdd8c3-0dbd-4b0d-87c3-49c9e86c24f6		f25bae1a-8627-46a8-87af-07f82773c68a	
+ 48f40308-4306-49e9-95a2-2f3d5430bb1c		5447a0e0-80ca-40fb-8233-504fde51f22c	
+ aeaabd2b-588d-4ab0-a18d-66fe3cf89520		0e747c7e-3621-4d88-847c-86811655d908	
+ 8d1ae986-87cd-496a-956f-5dfe60cea2e7		9d499039-37ca-4300-ae95-04bbe007c0d2	
+ 258a8d92-ed5a-4028-a93f-28b61fa48dec		f4aebd64-a356-4c05-b847-6dd28cf26339	
+ 6726ba39-e6c1-4bce-9c82-f6eaef773988		d17b1955-0565-46c1-a5a7-ecd41ac0286a	
+ e67df746-03cd-41aa-a469-93b419fa7143		5d8c9b90-8d40-4cdd-900d-03681bc2d2a6	
+ 10d212ad-7a3d-4bb9-849e-3bcf4fcdf741		fcbd7b29-12da-44c8-b241-1388d1b15684	
+ 282f9df5-390b-4f67-a898-44746b337dc6		1cbaa137-c3b0-46a2-9b23-208682c2a438	
+ b4ade944-957e-4ec1-a880-e330b8de3980		490e84ed-3c02-4593-990e-ade5c109df44	
+ 3471f90f-e293-45d1-a6cf-4927be485fd9		a608bf0e-a932-4541-8439-2ffb9f6294b0	
+ 91c131c3-f705-4867-8a15-2661ef72a6c1		3fa83688-1724-42cb-a600-472e4c500e89	
+ 80ac0a78-2ebc-488d-a0db-c2fda0b57966		f4aebd64-a356-4c05-b847-6dd28cf26339	
+ 264de6e7-6977-404f-94eb-1bfbedd5a1e7		7d931c19-1fce-4409-8a9c-9c65631ccbac	
+ 12e9a8b5-35d2-401b-aa04-653ab14c2331		d8f56d75-51ab-4a86-a502-c86e1dcd1eff	
+ c0c3acfc-b0cc-41e0-833d-928662350c68		2648c3c9-9884-4a0c-96aa-61130cd289ea	
+ d26a95e2-53bc-4bf8-8b58-3fe3899d106e		931feb14-3f69-41c1-8435-5fd4fb775bdf	
+ c37c3d52-109b-4aa9-91af-4599adb223f0		dc16f348-a49f-4958-a3ff-bc40e18df2bd	
+ 6c224cf4-f1e6-4aa3-b08b-8d28cac6b2f6		ead15a1b-726a-46aa-9005-a22f4b89d011	
+ 5f191346-ea91-4227-861e-18f4cd4ecc5f		9b015929-99eb-4e74-8fbf-6b2e6d7f08e4	
+ e7d643e8-1bc8-4a0d-af31-ca9f06243547		c75bee57-d6da-4083-9be8-17c970b77fc7	
+ 2cacf700-84ab-4917-8c2e-0f38205063dd		b6f54bdc-9b1b-4465-a6e3-f0524885e10e	
+ 78928ca5-e8a3-4c7c-a8ca-a0e5801870f9		4045f40b-d42a-4598-9ee2-0d371a776d3f	
+ 9e145950-4c73-4ca2-a9a7-1e915b9268ec		da07da37-bde6-480a-a302-98683ae3931a	
+ e45d5e62-ce70-466d-b4b3-620d70c95651		27953774-e97b-48e7-b966-1ec1e9c830b4	
+ 0c8cd31c-0194-4b85-bb50-ba9f14c78b19		e8f39c9e-0f1a-401c-9055-762b52bc77c7	
+ ac932a61-4c1c-4987-96e1-97364aca3e20		bf462e14-f9e8-4531-905d-1fb59d9088cb	
+ 686d289d-fcb7-456e-833f-11f3b2d5a361		a1e64294-1264-498d-b18b-c9b4c729c2f2	
+ 2f1be801-cd94-47b5-90b7-e2aea915e66b		00f0f7dd-71de-4e4f-b4b5-df860324f2e8	
+ 3ec7131a-d645-47a5-baa3-10b19f243846		64bf32c9-9466-404a-a147-e7a0b9e91e34	
+ 49224380-bffd-4048-93a7-fb4b19285c35		c28f931f-5ab2-4899-9fe9-54024f082d92	
+ bd88704d-1edf-4179-a293-d9823e1d7945		a7045324-cb44-4b37-bbaf-641642c1d903	
+ 3a578d0f-5710-413d-a40a-e75f63e7042a		18b8ad7f-0f39-4853-ae13-5b13aa5e6f7d	
+ 9b19febe-309d-4958-8102-f0fc7490dabb		fca0331b-8096-40e8-b292-d438370c37c9	
+ 1ed242e5-cb06-4cb6-b21f-fef81d717693		348c2bf3-2146-4990-9adf-fa6968b4f072	
+ 79088904-66c8-4761-858f-bab16dbf915d		1bc21d56-299d-40bc-b9c8-c74db990611e	
+ 4fb4b9c0-ff21-4077-8c20-0e3acc8d0b39		6b3f53ab-00f4-4c45-9bb5-5c8adbc66084	
+ 12dd9452-9a7b-4193-85c7-573b088b1979		582d1177-73b0-4a9c-8505-70d6b402bd01	
+ d500dcf5-dcd0-4372-b69e-011974798a94		661dc657-d2b3-44fa-b859-2c4ee42b0046	
+ 4d2a435f-5ae8-4a20-be13-cf9208534cd2		17c0ce0f-8227-4119-9b39-ea8db18f5f4b	
+ 997549f6-8dde-4b4a-b477-609a535b301f		d1fd7be0-6daa-4f1f-a198-3dca7a797e49	
+ 58adc8fa-3f18-4834-b1b5-d45667de6d78		305b0b57-5952-43c7-9063-7bcd954eb44d	
+ 7a3512f7-1306-483f-a744-ffefce67c8d2		433d1441-6d5b-4455-a731-65f172bb016d	
+ ce4c568d-84ca-4819-a08b-7dca4ad7fc1a		39303e7c-5baf-479d-a112-d8f03a18c621	
+ 72ce9985-5383-41a0-a73d-5284713c9bba		aeec3005-25d7-45fc-a9ff-014d57960216	
+ 8486179b-1f5d-4f30-9d89-0672c1e73383		30aba886-5152-4e25-b36f-6ce7009d419e	
+ d19f8f3a-2084-4991-b2d4-e42c6747adc5		11882dac-3ba3-40fa-8af4-174cba77881a	
+ 955a0861-eff0-463b-908c-a108ddb4b971		84a5d5fc-7350-4846-a1bc-8bfadbcff8dc	
+ 573b63e8-ecb6-4c86-932a-fd674800d592		698ce9a9-6512-4fb8-a574-a26ee259414c	
+ 8fae14ec-5bd1-4057-a5f4-a7ce7e45e5f3		433d1441-6d5b-4455-a731-65f172bb016d	
+ 8fe17b0c-48f1-4379-8572-d415746ee01b		33283111-9a2f-4d5e-92a5-3435846404f7	
+ 316e21f4-9c3d-41d4-aafd-5fb3c3743ba2		1f4ff2c7-3fbb-46a1-99cf-68d2c33c5175	
+ d074f30a-3b97-4e7d-a291-576c573768e9		e9a4c770-665f-454b-81f7-b8ae3f1e154e	
+ ce7b01a1-f923-4ed8-a350-eaf02a60ac73		5e3d0e50-afb4-4d2d-b4d9-5f320c573ba3	
+ 479abe86-78d2-4955-b8f3-03be4c2709c5		0aad0abd-750a-400d-a34f-491da996d46c	
+ c2bdbfc0-d13e-4d0f-904b-05c033a72b77		1d7ffbe7-6139-412b-8739-8082a63a2b33	
+ a8f14eb8-6c49-4824-95e3-5d14cfe55729		e9a4c770-665f-454b-81f7-b8ae3f1e154e	
+ af2ce051-08ef-4359-a67b-359a82b9e6a9		ba0c9096-5f35-4f0a-ae98-ee1a695b55f0	
+ 532ff1cc-59ff-4078-a917-5e3934db4cc7		b424b73a-2dfa-473f-ab56-ab382cd1cdef	
+ 83d97b01-92e2-41d7-acca-2d96a560970b		661dc657-d2b3-44fa-b859-2c4ee42b0046	
+ 557d13df-5e0a-415f-847d-60d0b16f88c0		fb7e9935-32a2-422b-8004-88b827a686c2	
+ 40ec64e3-ca43-4bac-8a1a-62f299e29f7c		4ef24cca-976b-4c2f-8810-4339967da570	
+ 05a8fbba-61ac-42a4-b375-87f3a671446b		928c48a0-68ee-4e28-ae83-9832e52850ca	
+ 3cea7ce0-744e-4962-ac48-f1944c48e13f		d4ff9f1a-1d35-4ad6-9a36-059547081c7e	
+ 1a7ebb7c-bb87-4bc6-8d42-00dffd9591e1		f211f7a9-cf3b-432c-9ea0-1172cce14e9d	
+ 476829e1-ad0a-4621-9ec5-7e20e881c540		f4e17ba1-f14f-480e-8fe3-415909fc320a	
+ 78cd4d11-912a-4d29-b702-b04b9ad5528f		b5b3871c-078c-46a7-ac50-ef916d4a6781	
+ b153654d-dc6f-4409-afb3-30fd935ea8b5		e4a755e3-4938-4321-b5a9-27a445036791	
+ 61e0c2ed-204a-4bd3-b9fa-441029d8780d		1426b4bf-f4a5-477c-bbbb-e0e656549764	
+ 291c97ad-143c-40b6-9405-7b75ab8e23e4		b0669eec-6a1a-4618-ae23-ae0f9e9c266c	
+ 9ddf3f3e-d1b5-40c9-8781-91fc7ad54cb3		c3fd52fe-bdc2-4cca-91c7-590a192f80ed	
+ ba8e7248-e06a-4817-8199-d0a3a52e0a5f		341940fc-dd2a-485c-a359-d5e5edb22312	
+ 10f30605-2413-49d7-a9e7-042fb7c2c336		4db62b98-abd4-4a7c-9fce-8bbda2aec8a3	
+ 1e35e6a7-5860-4968-a711-6d0875c29465		c7912ca7-11e1-4cb8-902a-9d6cb23fd344	
+ 2e305204-80d3-4c7c-b416-3ceb01e18ae0		e833ad67-2cb3-414c-b15e-28f49479e2ef	
+ f255429b-c98f-4c60-ad83-3b67ddb553c5		88658b66-f293-4aff-9e33-05abfafd3b43	
+ 8ccb9a1a-8f45-44c1-9650-b90ebf475a2c		607fd22b-f281-431b-848e-ae01e69567e2	
+ b01429d0-5689-4988-9b04-c5c9173cc5a5		5e3d0e50-afb4-4d2d-b4d9-5f320c573ba3	
+ 9d04bc84-6f8d-4ff3-8044-44e342859531		0afa0e02-daae-47e6-9ccb-9de8e4feb73c	
+ e883ecaa-298d-48b8-929a-0ce5fb7b476b		3a6e0fd1-6e06-4002-9d1a-88edf7944567	
+ c8565d71-27c7-400a-bd9b-97fd79a7e8e7		0730216b-c201-443c-9092-81e23fd13c6c	
+ 3615236e-5eaf-49d1-b864-d08c3bd3e65c		494a8495-8d10-4a8f-8664-f68ac339c889	
+ fdeb9e4e-d715-4565-9cb4-40525a0575ad		5dc7e186-7e01-4a54-8ae8-350dace2297b	
+ 04ded7a3-d7f2-43a0-9124-6e5a89a0013c		56353d9c-9578-4d62-9dcd-92d800efdea0	
+ 644108d8-dcc6-4d2d-85c0-ba6ac153cc9b		89c150cf-f60c-4f11-8f3e-384b0e0902f9	
+ 35af79db-a9a4-4373-b07e-bb3a09a0b870		a7b76662-8380-4f35-9307-99c0acacb904	
+ 0e96e352-8a8f-4960-ad33-d64018480ff1		721e76d0-4b1d-4e78-adb8-1344b8030062	
+ 0a005527-1b2e-4204-8474-df49da92cb18		b1bdaf2d-7d84-4409-9427-5390150bb96d	
+ 19093082-7365-4b1e-aeea-9a7203bf78a3		c4ebb2eb-e1f0-4490-80f3-5cf0c40a3091	
+ 4b3d6c97-dfa9-4531-b8b6-7d195c52e25b		e0dfc37a-4a2e-4353-9673-241b100b3467	
+ f59ccc77-35be-4949-8994-517c407d30fd		39303e7c-5baf-479d-a112-d8f03a18c621	
+ b5232ee2-18b3-4257-8a61-5d460b11ee7e		cecf4ee9-7610-4f47-a825-7fde8233b75d	
+ 40596942-42c7-4514-8bf8-a5290015cfd8		dcf383d5-b25a-4ea9-a3f4-4d7ea5ddd9ef	
+ 1b8d7af8-3100-4f69-9f2c-4916afd1298b		f5319fd5-beae-4ca8-8f42-45fca5e6a2d2	
+ 38ab93fd-6d00-4329-92f0-ca4d05d80a11		1583aea0-5d69-4165-9bef-d5bfdddf3a65	
+ c2e3ac0f-09b3-4b5b-96a0-837dd9188192		5313a055-c2d7-4cbd-a8c1-57ac85912d89	
+ 14569e23-59ef-4c2a-abdc-0c162bdfc721		56df9de6-613d-44ce-8827-9213cc6c8b56	
+ f5949750-2444-4081-ad78-05d4614f4467		db4793dc-cd45-4b81-93ce-8322031c2aa3	
+ 8636a67d-a41b-4d6d-ad70-2f28e9aeda6e		f6935f67-5c62-4774-8346-711f36f3b547	
+ 88958ce2-ad68-4691-967e-716477ec338a		56353d9c-9578-4d62-9dcd-92d800efdea0	
+ 63c1090d-e690-4db4-a8ed-fc1c352eb9e9		5d8c9b90-8d40-4cdd-900d-03681bc2d2a6	
+ c62fbae9-4356-4b26-8b3f-daf9c77e3a62		f3aa40b9-7b4d-465a-b7c9-591aebdb56c2	
+ 381e0605-cb54-4ef9-96da-4b9f3ce37cff		3fa3cffe-40f1-4853-9cbb-54a99ffd6108	
+ fab0baa4-2ef4-46d7-a5c1-33592870967f		8df0c1e8-966c-4f46-ad15-fae9e745a32e	
+ 1d5ce82e-de92-420b-abab-003d7bee208e		dffc3917-bf06-4c3d-b03a-ca54fe5c2e79	
+ e1b169c3-44e0-43e5-9ee3-2df7a678a5ea		dc40cf49-b208-4f59-b5f0-cfbdd02970b2	
+ 0192d529-7340-45d8-a5f0-249cbb11ca19		f6381367-142c-45d0-92b3-c1727d1813ce	
+ f746f8be-5ee1-4d6c-9d56-acab7b56ab3b		2f231b79-84bc-4256-bf26-7ce64083d438	
+ 59fb4f93-39cd-4c19-8932-4e6c7609ea75		23ebc73d-be3b-42f8-9390-bf18a21afc5c	
+ a320937d-7093-4543-b6a9-f0b8137d1255		d112136d-34fa-426e-b432-4d1e4286adf8	
+ 84da4992-73f8-4179-bc14-13735496a930		d1b31524-8034-4fce-b14e-1cef33c26ca5	
+ 96d81c6a-b658-42f7-8102-6ff08f9ba464		4a3d9efe-f24e-4135-8a70-e202651e7a81	
+ ba0467ad-64f1-43df-81e1-529e66e6e6fe		bea84d33-3286-44e2-9595-893c34a01f58	
+ 993197fc-ba4c-466d-9cc2-e08c74cd8f45		9f751c9d-ad41-4f02-b7f8-12423857d418	
+ c0222802-6dcc-4ec8-a7de-cb26d52f09ee		47abcd03-c6ff-4777-ac26-f880474092ff	
+ c00991ab-7597-4eaf-9574-ef30295beeb9		e457eb5d-120e-41f4-8455-2ed8d534ff02	
+ d917fdbc-60b4-4913-8359-0ed1fce972f3		7c40c747-5000-4f66-aab5-c53fb96337cb	
+ e3bf64ed-fc4c-48cf-bc4a-ade574edd020		7dc62c0f-b82d-417f-89a7-4cb984a9d304	
+ 68eadfba-d2ec-47a5-9ae8-cbbf066962e8		f00b4a22-c327-4fbb-a9a3-4418c13e2a48	
+ 21323ad5-08ed-4261-a1cd-8a5f1457829e		5828401b-0901-4a73-9d0c-1e85d3431475	
+ a04c6e0d-2d89-46bc-abf3-4e1af709f68a		c362f6f9-4ce6-4659-8c36-4cd45c72fb03	
+ 860c80f6-64b2-4089-87ee-8d64a6eba17b		c8fab4a7-fd7e-4d5e-a330-18c7e148b9d0	
+ df9acd7f-8875-4113-aba6-e89844ca6a43		ed73f136-42e8-4100-b432-d10370d07e8b	
+ 4e69e7f2-9350-438e-b4c0-66d28d1681a3		0d498226-e22a-44a4-9ef8-1da8e83fa55b	
+ 88471574-de05-44b5-a205-0a9a7a09c8a7		ab378ad0-1881-403f-9e85-d6f97e7b7c81	
+ 9da3aab7-ebaa-437d-baab-a11571b586d6		d6974db6-2bd3-4082-b48e-9c60f7fe3a1f	
+ 7030b035-d4d9-42fc-ba42-79f3f9d30308		ff49e0f9-4007-4761-845e-b676b0fc9646	
+ 4aace255-a8e8-4e86-a431-b957c4f80e8d		88c87cce-4361-499c-9e3a-e9d9040af2db	
+ 67774a5a-071c-4f47-93de-783d4e514308		ab378ad0-1881-403f-9e85-d6f97e7b7c81	
+ d7b480d0-6d85-42ff-9c69-04d1d9fca8f9		e27bc39b-54f1-47b5-ac8f-3245dce690f4	
+ 0958a78b-72c4-4579-8811-b61a2b1178de		88658b66-f293-4aff-9e33-05abfafd3b43	
+ 663c2f26-4e49-4752-bde5-fb5e9229daf9		8ad78c4f-c84c-4f9e-88c9-42a05eb65498	
+ 7303f9fe-88bb-48ba-b9b4-ebf9e4770c1c		91e249a6-b0b0-487e-9fad-0e9f5798dcae	
+ 85328a4c-38dc-48a7-8eed-1b4b4ad9e060		5a468990-d76d-4c67-8437-62689b593ae2	
+ 75bec014-53c0-49e0-88d8-fcd261d22ec1		4048c139-1329-4e6a-8d2f-c0aa104a68ee	
+ cbec5e2a-4b00-4c72-ab57-6594b7901be0		f3aa40b9-7b4d-465a-b7c9-591aebdb56c2	
+ 76733f2c-8d48-477e-87df-d407287e2cbe		3da2e90e-6450-4286-8c74-08dbecbfd788	
+ 9ac76378-8ea0-4911-b4f2-043db4179a44		4fe004e5-49f9-4336-a690-6ebad512c813	
+ aee1ef24-f3b6-446c-8ea1-d1d713c501db		6433f001-db5c-476b-83c7-23f4c5397ae9	
+ 3a8cd4b7-4379-4fcc-b252-6c053077a0d8		d4f4ddc1-cfd7-4c57-ade6-4f32cb7ffd85	
+ 7273e5ac-35e8-4188-bc14-ee745c353554		69fc0351-6496-46b5-be22-25b80c1dc4cc	
+ 25c002f7-e972-421a-b32d-7dd675d81931		aa252f78-ebf3-42f9-86af-bb6e57345706	
+ 148f3b38-a40b-4815-a3b4-d00c41470ae4		9a8e27c9-614b-491f-913d-429dfc4e2c4d	
+ 5303fe3d-a1df-4e49-9fe3-94d7daf30ab1		1a8a887e-b9f0-42f5-8dce-4e58cb13844b	
+ 77aa04fb-bbf6-4d20-b6c2-e9d4647bf6f6		582d1177-73b0-4a9c-8505-70d6b402bd01	
+ 62d82fd8-e94f-4dae-a171-a8eab417bc41		64bf32c9-9466-404a-a147-e7a0b9e91e34	
+ 1d53564b-d57c-4616-8950-9277fe4e08e5		d7763066-fb06-4519-9188-5de7dd12fdb7	
+ ba7eb48d-9486-45fc-9728-4ceeb9bdca09		87959988-bb25-47ee-afc1-9af92592bbe7	
+ a82201da-16d7-42b1-860d-3d11fd33f502		9bf4e7bb-6aa9-4be8-a7c3-e630ecff4dce	
+ 5a091da3-c073-477b-9381-2ca4d27d82f3		2d70eacc-d0c3-4121-bd1a-a47d68ecede5	
+ f3030247-7910-4915-95bc-2409d9976413		74de01bd-30d9-45fc-841d-ed1c0d7446ba	
+ e6df7e9e-c584-4526-afb2-fa4b5199b174		5e15dcc7-932e-4d9a-a765-bd5ff1cd7aea	
+ 87d9162b-d9e0-48d2-817d-7a3fd2ab5cfe		3d6abc44-d094-4250-8dfc-347ae9c741f2	
+ 0156e439-a6b4-401c-bd6b-021244bea9dc		00e41e6a-9fe7-44f9-978b-7b05b179506a	
+ c91139ac-56d3-49cd-852b-9732dfb3e77e		a80d3ee7-60dd-49bb-b049-9335afc035f5	
+ a792ba94-7862-4a44-9d3f-fbc56914f409		3f3128c9-1072-443c-b6ae-8b63166fa9a4	
+ ff201859-353a-48ec-80f0-4efbd0274515		11882dac-3ba3-40fa-8af4-174cba77881a	
+ 4bbff9a5-b19a-4c1c-ae0f-dba68d92e01c		907b64d6-a26a-4092-a247-ac9af444d1c7	
+ 3d8fd88e-7661-4504-aa5b-a45bb03b8ee1		ab540819-9531-4e99-868a-751649f25e6a	
+ 072e5acd-3329-42b8-9aec-d6166ac61e35		721e76d0-4b1d-4e78-adb8-1344b8030062	
+ c2fe33a1-6c76-42e6-9708-e7ea911d2f85		dffc3917-bf06-4c3d-b03a-ca54fe5c2e79	
+ 259386a0-60a4-4990-a3c3-36b9bab40927		ce2b7e17-424e-4954-8a68-19d7f98d2e7e	
+ 2c1166ce-10f5-4e3d-93b6-bfdf96fddc4e		301c4c32-bc66-4328-8dcf-fe3dd66fbde2	
+ ece936c5-0f53-4010-9e99-8091c679d15b		3e290dc6-aba3-4135-b844-3e8c4cc8a25f	
+ fdd3c350-9cd0-45f3-a822-6174c4edfba0		ea953ce5-7082-41ff-8e38-760fe4100414	
+ 8beb42cb-e084-42a5-89a2-8cf1f0810a67		df3362cb-0f6b-412e-8af4-c5606526be17	
+ 093d9856-cabb-4d96-8609-b309430a7078		e6cbf99d-4a10-4c11-9ac2-eb26ef57331f	
+ b134ed52-c6fa-45eb-a4af-1d84cbf013d8		0730216b-c201-443c-9092-81e23fd13c6c	
+ e3a32f56-a8b5-40ca-a15b-7714da6f0ac7		47abcd03-c6ff-4777-ac26-f880474092ff	
+ da29cb88-e7bf-476d-be89-e6799c619a46		1940166e-aedc-4dc5-90a5-609871f9f7da	
+ d7211918-5718-4053-bdf8-ec5b69c3c95e		186d7f36-4e93-4ab2-bc23-95d5cd296656	
+ b6d5714c-04e4-4c50-aa90-47f20ab06b71		6f4c1006-519d-4b16-8c96-690c63bea0b6	
+ ecf06be2-7f7e-4833-a200-287d4835fec1		2a51e1c2-8a8f-4df3-bcc6-7df94a47d94d	
+ ca1ffaa2-c4dc-463c-953f-f22025a0922a		fe7b283c-9cf4-4be2-8a3a-251a81a8d78f	
+ 3b14c841-4ca0-49a9-b938-de2ebbea8bdf		b3bf57d4-e31a-4740-b438-fa826fb79550	
+ abe6e709-1d51-4e6b-92a2-7e5c49b553ab		24d7d4d8-f5c1-4d71-80e0-72a429fc9dbd	
+ bebc84b6-9179-420b-8207-858b999e8c0c		261c3d74-706e-4751-bd15-8f3c1a402ff0	
+ 508c5ad2-f778-4997-84bb-f8a060fc3286		94d6675e-27ae-4f34-9d53-6e19238eb01d	
+ afbadcf2-d858-478b-adda-23f04631ad78		74c7dd37-7ff5-47ac-aeb7-14202871b6f1	
+ 3333fa05-d0eb-46bb-91af-2492f5b84e23		aa1a3a43-2f9c-456c-ba74-81c29b9801cb	
+ 058daa8b-f3ee-4992-b05e-91c13d9945ec		e4a755e3-4938-4321-b5a9-27a445036791	
+ e584de7a-84e8-4844-baec-3e5c0e6fbb9d		fb7e9935-32a2-422b-8004-88b827a686c2	
+ 42430570-8b50-44a2-88bc-57b1aab9fad7		743ffc51-d613-407f-b040-e99969c31802	
+ d0e157eb-2d83-4028-9d45-cea626e62e21		341940fc-dd2a-485c-a359-d5e5edb22312	
+ d624f520-0cf2-479f-a434-493117b54ed0		fcf64b55-5c4f-4d82-ac6a-4713d01143cb	
+ 77d692db-a5c0-4d14-926a-d2f81943505a		df4a7caa-6289-4157-8cb4-6ce8784e7506	
+ 23a6d650-d249-4674-a652-4669df3e3d64		d39d1a49-fcc0-4f2c-9338-df904e7f6a09	
+ def273a4-201d-40ba-81ca-df45a7320547		5447a0e0-80ca-40fb-8233-504fde51f22c	
+ 852a3a94-37d0-4e43-a01a-648fec2868c3		7efc26b2-eff9-4f1e-9f4b-f26af072c84a	
+ 1da444be-497e-4cd9-96a8-1643c6f3d878		98240f19-bca7-4001-8aa2-4d790c7c4c53	
+ 23c3b771-9882-4554-9725-6aefa7245627		14c2819b-9afc-4c89-849f-530e289d55bf	
+ 3c8b1c7e-e15b-49d4-b5bb-4f4a05e92f20		2b35c119-cdc1-49e2-8229-ca5cde9e63d0	
+ c0c289a5-6e6d-434b-834d-6d462e5108c6		1426b4bf-f4a5-477c-bbbb-e0e656549764	
+ 3ec3e955-a945-47a2-917e-9a042e66e800		9519be01-d78d-462c-8a95-34149538afeb	
+ 30158a14-c275-4022-a8d7-5c2f2df1e740		eff14fed-8a21-41c5-8ed3-75346a06e44e	
+ eafb824c-0e84-48ec-886f-8c499ac06f94		f6743ff8-542e-4fde-8ff2-4878fcabffda	
+ 59ffc3d4-1659-40c8-89fe-d48475608509		1cbaa137-c3b0-46a2-9b23-208682c2a438	
+ 286b7dd0-24eb-48eb-b0f0-f9171d52b85a		10271d9c-9b9c-4b5f-a845-a0f1bd03af51	
+ 9eec79fd-cca8-4d92-bda0-c4d392cfa575		7c40c747-5000-4f66-aab5-c53fb96337cb	
+ 814a1d39-a0af-491b-bb21-8afa1dd84729		5e15dcc7-932e-4d9a-a765-bd5ff1cd7aea	
+ 84819ecf-df76-4072-96dc-6a298f4b3b0c		8e5b1d47-7d92-4d28-8186-4176ada96672	
+ fcc3c66f-f4b0-4cbc-add4-9f14713ef0eb		ed73f136-42e8-4100-b432-d10370d07e8b	
+ d4794705-4c1b-44dc-9a70-ee6671ee7c62		30f623a3-dae7-41da-ab10-8786d094209e	
+ eb55b533-2220-4d8f-acd7-7ac806c1d861		432f15ba-7401-4827-83a5-3eaafaaa4bea	
+ ea6da482-f7f1-4a1a-8380-b96418427d42		f7fc3f2e-c70e-460d-b34d-bb2ea423a0ae	
+ 22868fe7-004f-48cc-ac4e-975a7ec1b9f9		03c15d06-b81e-433c-9de4-906cba91539f	
+ c23cbbc8-b66c-4e06-8c99-00590b5ece18		84a5d5fc-7350-4846-a1bc-8bfadbcff8dc	
+ 485bddad-e180-4a6e-ae2c-bf6336fa9bd2		084ac674-f4cf-4a4a-a6a2-687c05c272ea	
+ 11c34a2d-0b7e-42d7-964b-b4882815490c		cccdd4a2-ebf0-482d-b71c-9fe44414eec6	
+ 88a3d315-6079-4be1-a83c-19e11c463b95		f59b9c65-46e8-4cc3-aa71-8844f6c2273c	
+ 002a3041-247d-4cf6-b81a-a4e04857e872		351239db-52d3-4ab5-bd4f-8feaa6701ba1	
+ 496d38bb-e8f5-491c-943c-01739cc4a0e8		e90ab72a-4bbb-4c37-b48a-8a1a85d79d04	
+ b47c9044-6b22-4de5-bb95-8f1114d63b96		49197847-cc83-4ce1-8397-d09cea4c4928	
+ 275b578d-a786-4fdc-a995-5ab0505d68ee		bd18dd01-d894-4bdd-9ce2-e25705a52a57	
+ 46d69be0-f87a-48cd-8096-675fec8dea31		74602e83-3ee3-4ee7-b05a-135fbdddcc5c	
+ ce3a5af9-17c9-4195-8da2-1bee4bac3cac		be5411dc-3caa-4b25-9b94-ce463e8e52b4	
+ 4194550d-f14a-484d-85d6-a2a15cd7a2ad		ca076cfd-c628-4af2-837c-37617429adb9	
+ 69ff5580-dfde-4556-8960-ff3975b593be		3d6abc44-d094-4250-8dfc-347ae9c741f2	
+ cb7197cc-fc88-47ec-918b-d942f90df5cf		432f15ba-7401-4827-83a5-3eaafaaa4bea	
+ 4452049f-29f1-46b3-92c6-41ebe5c50439		f8a42feb-fbc9-4a13-bad5-1dcefca2a9bf	
+ 727485ca-631f-41a3-8f98-7450503b45f0		3f5270a2-3284-4523-bd81-54fc98c2b933	
+ 8a82ccc3-d5f6-4647-9699-604814692936		25c669b3-4d4a-4142-a403-677be8522875	
+ 5318522e-d56a-4eb2-88ae-b76fcf183a78		3fae5b76-9e22-4eab-a7fc-13139b2b97c4	
+ 5fcb803a-2051-46ce-bd29-cc6ad5825bcd		acd5ceef-c5cf-4e95-9394-c50fdbc70c8d	
+ 381043c4-b863-489e-9b3d-6c3551c2c4b1		666d8b0c-593f-4ec3-b16a-2dadbead8c32	
+ 8691e950-9a7a-48e2-aa6b-63e4efc353a5		2270d09e-a8be-4b7d-9520-a4bb1cd053c0	
+ 1d2cf02e-fd49-43d8-b55f-b3a799069f5b		d5c43a14-21ab-4178-ae33-2d8b7baa256f	
+ 9f150d1e-e7b6-4c8b-a4bd-2b2d5c80b088		4c197d76-daf6-474d-b561-ded42905f52a	
+ 19f982b5-db69-440a-815e-c90a923179c8		a468353e-0a96-4a4d-8aef-5140bf1bf952	
+ 914ddd96-a9b1-469b-8114-ed57c1184729		37ec45fd-1c85-49cb-835e-fa7b2b8ce16f	
+ 478b235e-7e7f-4dbb-810b-44a50240b359		7bc369b7-007b-4b10-bd92-5d326dabf675	
+ ddc422e4-87e2-4fc0-b56b-ddc2d6a92f58		5dd69c3e-9a3d-450c-9f10-10b4d6daeeba	
+ 8285618d-a4b6-4641-b39e-18b2d8a40bcc		607200f5-df80-4f5d-90fb-fdc455a7415b	
+ 96303eed-b939-4980-b0c6-c64f4c0c6bf1		9938c4ad-748c-4086-9081-fac0aefad440	
+ ef22c980-b6f4-4ffc-a877-20515c382c67		f8b98552-ae2a-4609-9929-7864485b3c51	
+ 0f1a5b46-d751-426a-917c-fac53a697f81		27953774-e97b-48e7-b966-1ec1e9c830b4	
+ 06941061-7bb1-4dce-9bf7-c107d90e0017		35243518-b086-4d76-a336-8c61a14f9ded	
+ f691ec8f-d3dd-4385-bc02-c29254d37c37		d8f56d75-51ab-4a86-a502-c86e1dcd1eff	
+ ee88d86f-4fbf-43b7-ad6b-aeebad71c27a		0aad0abd-750a-400d-a34f-491da996d46c	
+ 68f54bda-df0c-4b1e-a81e-9d90763711ac		d33074f0-5f88-4995-9439-76068a9f4836	
+ 085bf8ec-1841-4a4b-81c2-3ea1da79c1ed		67cd72e2-a4cf-48e4-943e-406c252f056a	
+ aea8eed7-1e59-4888-b285-e5aa3d73cbd9		6bbbe263-3632-4567-912c-95bc9940a1dd	
+ 9e272bea-9193-4c10-a802-f7e18b2937a3		c039014f-821c-43d6-9d3c-914f9c8d98fa	
+ 95b6d4db-b129-4065-a0d4-923c41a0d7b7		00dda860-53c3-4ab2-8294-73e291adf9d2	
+ 686e0817-587f-49c3-b654-8141a09dd79b		717c0fd3-527b-4d5e-a9ab-0f141fcc84e8	
+ e6ab50da-966a-4429-95c9-36e22d269e25		8ad78c4f-c84c-4f9e-88c9-42a05eb65498	
+ 4fbdfb5d-faed-48d4-a2e3-daea6ac7e9b1		fadd80e3-8087-4494-a8f0-1caa92acbb67	
+ ab1b5fbe-db21-4790-94c3-f56579040952		1e3c1d8f-b3c9-47be-89e4-22e6b16ed2ae	
+ 4526e2b2-d20d-4290-baf5-8d331fce6902		ea770d22-2cba-465c-9555-e0877dcecb9f	
+ 7dccc1c4-8cb2-47b1-8383-93623cc51068		1a8a887e-b9f0-42f5-8dce-4e58cb13844b	
+ 416fc29a-c168-4848-9a78-5edde11e4cd7		9e48644f-d498-42b0-871b-d11f676241e2	
+ 340cfd1e-1582-4ee4-99b3-49e6249c4fa2		bfb973eb-d42d-4900-a606-a381d2317555	
+ 0799b439-9364-4606-a024-7f100a249f53		aa252f78-ebf3-42f9-86af-bb6e57345706	
+ 87158802-66e8-4c56-9f08-3cb5033e6cb4		4db62b98-abd4-4a7c-9fce-8bbda2aec8a3	
+ 9c425266-08aa-46b4-b0b1-6c33962b10da		18b8ad7f-0f39-4853-ae13-5b13aa5e6f7d	
+ f4de8976-c5ea-45ef-b7c7-38d5fd10cd0b		75d22d59-dec8-4f59-86c8-36b5e9f4fb0d	
+ b4bf3137-c8ca-4491-bbfc-3d864e521faf		1fd06207-54e0-4aba-819c-c7f671871f39	
+ a78aaabf-765f-422c-80b1-597ef3a0c26d		338fe754-fc4a-4294-ba15-42d4c7c9ac10	
+ 423b7b92-135d-40ff-9db4-37afd44f6094		26eefaa1-1666-4ce1-8cf4-f6fabff81fd2	
+ 906dec9a-0452-40a1-8563-163ca6be1abf		ebe711e4-45af-4082-bdf6-b0f7ac899b3e	
+ 97b6959f-ca52-42a1-900a-bb2174e31c17		48e83a4c-c602-494a-80cd-e2f4b4dd701e	
+ a3cec60f-0430-4c8a-b14c-1fec64f3e1ac		08f11bdd-d665-45ab-b1a2-5485d91922c2	
+ 89ca12c1-faae-41ce-9e9d-26c63aec6dc9		1bcb1132-a9fc-4f03-bbed-abaf80c7a24a	
+ 50308439-7f7d-4b92-8264-c59f4afcedb9		720d77bc-58e3-42ee-aae7-5de586c2ac41	
+ 6bde582d-6c64-4529-9771-e7f9df342b04		25c669b3-4d4a-4142-a403-677be8522875	
+ 8dc89778-02e1-41c1-9b74-554f60f86c4d		e35336e1-e358-493f-9beb-276b5fc6685a	
+ ff736958-09d1-4cb7-9fa5-5955bde500ff		d05681cc-dffa-44d0-b6a1-0a99a4ce3be5	
+ ebc70303-3561-4cf6-a274-8c83d1d5f9bd		c039014f-821c-43d6-9d3c-914f9c8d98fa	
+ 78522869-eb0b-4497-b8bf-45437235c7c2		98a9ce0e-4f02-4819-bc0c-c1a8d34e3db6	
+ c0828412-45cb-4358-b5e6-d0e1543d9cf0		9c8447ac-5b26-4558-8bfd-f0e7046c1fb9	
+ bc0e886d-8203-4ef9-b1b2-ca28644c13d0		b7c8ca4c-8d9c-4c5b-99ee-2fcebe4f70e6	
+ f4abc737-dce4-4f3a-bcf4-f826187389e8		afa7d9a2-3998-4182-bf63-54895ed2de37	
+ b384da3b-69cc-4f3a-a804-090440fa25f6		9fe9cbae-37b9-4030-a204-4502760f5dab	
+ 41fda2e7-df7b-464a-b1d4-9aac99195bd9		24e5d323-f3d4-4add-9a29-79e77ced357c	
+ 8a582e00-aad2-4360-868a-9ab8fa301eaa		aa405b5f-f75d-486a-96f3-1df7add18193	
+ d89e8265-9112-4d3b-b195-61d6a4ab09f3		ff52fa2f-bd12-4de0-9f5c-cd330ffb5fb3	
+ c1987c4d-84f8-4464-93ad-7e53fd4a6a11		928c48a0-68ee-4e28-ae83-9832e52850ca	
+ def5beb7-82b8-4e1d-b7ba-6af748d690cb		9c8447ac-5b26-4558-8bfd-f0e7046c1fb9	
+ a7e479c1-0527-4958-9741-e038dcfc931f		5a790086-4887-4d2b-9c28-0fdd5dd1f1fb	
+ ddec5241-9e83-475b-80aa-fc72dd813f38		4c197d76-daf6-474d-b561-ded42905f52a	
+ 13d967a8-324f-4f11-a766-db89703af761		f7238e82-a394-4a7c-8514-6241d0aa17e3	
+ e1fc4226-40ce-43b7-b92e-aa7cecd0cf4d		11fb5853-8eeb-4ad8-825d-3eaaf3fa08d6	
+ de77175f-808b-4fb9-9413-5e99254a9325		5f69ca7d-f8e0-4f5b-9987-1e5c234eb759	
+ 93f8b7dd-abc6-4e05-b850-16523635aa29		fadd80e3-8087-4494-a8f0-1caa92acbb67	
+ 38d44b16-89f5-4293-842e-0c7da7c23487		f3ec5bf3-97ae-4033-91a6-084a1aa152a4	
+ bc2626e6-65db-4905-97c5-46d61ea9e208		cfcf057a-00fe-4603-a720-586712b75803	
+ e536fb66-cd30-4a00-9c66-ca13be6fe4b1		f8a42feb-fbc9-4a13-bad5-1dcefca2a9bf	
+ 441ada11-8a1f-40e6-8c6e-6ba3b7c22b4b		8c0d361f-eaab-4768-90f2-b7a610e2bbb1	
+ 300a9b2e-8abd-4a19-a4fc-b5e4b266e1df		4045f40b-d42a-4598-9ee2-0d371a776d3f	
+ b941d9f4-c0bf-4f8c-8360-2d69964f2e8a		7fc65e49-0401-4a36-8800-fd87b7927fc1	
+ 4637e5f8-e2cb-48ac-8f87-ef89e3c37574		f98366df-9616-41c0-a6b8-ec92dca7177a	
+ 040ca048-b608-4268-968c-2d436e9293cd		618272c0-c2ed-4bfb-bb4b-404f0987f822	
+ c1ed251d-bf15-4ec0-af02-0dc5e856907e		6a5af80e-07ad-4cd3-aaab-5db1090835d9	
+ a1004109-c2d6-4bb6-8dc9-d41d46ba165a		56829c8d-7bb7-4aac-999f-b1353db4915d	
+ 1e2392d3-82f0-4f1e-b949-a0a634c87743		bd18dd01-d894-4bdd-9ce2-e25705a52a57	
+ 52f7bad1-8f6c-459c-8919-247d1e7189ea		2919afa2-3fee-43bd-ae68-e70718e73608	
+ fbf89ede-4235-406f-a233-efba91664605		24e5d323-f3d4-4add-9a29-79e77ced357c	
+ 50901c39-beb1-4a69-a21b-7ea825f55510		8740555d-8bf0-40ba-b868-99eef27662a4	
+ 462042a6-0a40-476a-9ccd-aa55722888da		3d92b872-a76a-49cd-9fd5-7993e78d2fb0	
+ ea80f854-fec4-4811-9bec-038808522568		e35336e1-e358-493f-9beb-276b5fc6685a	
+ d67abdf6-e826-413f-b727-c871fac872c0		40ebeb10-7390-44fc-9ef2-80d40d251018	
+ 02ec6811-5ee2-4ebc-9a00-dc60ca0e4bbd		cf70909e-5143-47ae-b8ca-c3ae6ace7be2	
+ 13d07794-c0fa-4070-9dcd-9cee45840284		5dc7e186-7e01-4a54-8ae8-350dace2297b	
+ 1695b0a1-b764-4797-83d5-4fcfed8fb4a7		aa1a3a43-2f9c-456c-ba74-81c29b9801cb	
+ a72932e7-2901-4401-8f43-07c9a529e422		aeec3005-25d7-45fc-a9ff-014d57960216	
+ f10f7adf-7754-44c5-97cf-66a7b5138f24		2def2a53-d2e8-46f0-8b07-f32dbf1833a4	
+ 85790f6e-85d7-4f6a-8784-4900d2364873		adf3c2f7-d5f9-41c3-bd8c-7f9f1f22ff73	
+ aedb9142-7769-4ca6-b652-f7b81ce8166e		5e2ff1e6-87bc-4b91-a959-f0f553af4e27	
+ ff40c43c-8061-4654-8af7-8200b006260c		b424b73a-2dfa-473f-ab56-ab382cd1cdef	
+ 5029ad2a-780b-4be9-920c-ee48da8e2f42		88c87cce-4361-499c-9e3a-e9d9040af2db	
+ 31956c72-63ea-4756-9bbd-b80357634619		23ebc73d-be3b-42f8-9390-bf18a21afc5c	
+ b981708f-4f68-41ff-9f80-20bb1d64d4fc		b182bda9-3d9f-4958-96eb-bd6cc441830c	
+ 2ea55808-8cd1-4b76-b8ae-1463d5cf3587		a3a4a518-2dac-4846-9476-1aa7e0c1fb5e	
+ 1c5be2f0-5804-4689-903c-022227fc964e		ce3585d3-7388-4d05-84c8-64e0883003b3	
+ dc7970c4-93d3-4646-9de0-8fd9c5d420d8		486d225f-eca6-499b-a142-dd86137b22e4	
+ 3aac36e8-fe99-4218-9fb8-dba6dd6ea066		a8573f49-9fed-4c85-9e1d-40abab7f86ec	
+ 6b34e884-089c-4069-97e8-1cf89b756557		a186c956-6756-4339-9793-494fe9b80c94	
+ e26ab21d-ac72-4d81-b54d-2b6673106efc		40ebeb10-7390-44fc-9ef2-80d40d251018	
+ f3aa6d62-dfca-43e4-8c16-a07c4a3ad3e9		fcf64b55-5c4f-4d82-ac6a-4713d01143cb	
+ 838d6528-8be3-48aa-887b-614a711bddf4		c4c1b5be-a0e7-4968-92de-7f34c71207fb	
+ 3f8f11c1-ad41-4a60-9cd0-6df43a1c0ceb		2270d09e-a8be-4b7d-9520-a4bb1cd053c0	
+ 3f76caec-6872-4f66-a84d-5c31c5cc24c5		9fe9cbae-37b9-4030-a204-4502760f5dab	
+ f6c01a65-6505-4d90-a07f-9c7285b4cf58		dee02265-d8dd-4379-ae08-72d72b03a570	
+ 9f08b1b0-9eae-4d97-9b23-360221f7428c		fe7b283c-9cf4-4be2-8a3a-251a81a8d78f	
+ 1a90833f-1b9b-4585-8e45-807709fcf434		75a7afb5-66d5-47e3-8a8a-3e3a1e749a96	
+ f5e215fa-ef1d-4663-badb-152039afcbad		6f4c1006-519d-4b16-8c96-690c63bea0b6	
+ 640ab7e7-1e44-444d-b470-196a000a9958		d4f4ddc1-cfd7-4c57-ade6-4f32cb7ffd85	
+ 4a5fc1cb-2338-4eaf-a5d6-24a29c0b0f5f		ef974c39-8bac-486b-a395-9d1283e08028	
+ db974012-6d0c-44c3-ae87-e0f05d96abdc		f4478172-7727-4680-9934-da755ab1825c	
+ 22aff19c-f5e8-4648-b758-b92784cd8cdf		aaeb1d59-d6ce-4422-9639-f1e83c002d84	
+ 30a0b8d5-11a9-4367-9979-d2c6906f30cc		e5e4d3b6-8e58-4dcf-8f67-a00e656a8e27	
+ 75dbdfe2-f446-463e-847c-885759682c43		1fd06207-54e0-4aba-819c-c7f671871f39	
+ f1ea82ad-41dd-4c0e-9328-73dd0548d125		fd1aa612-df86-4d48-892d-2acebd76ea96	
+ 0b05122e-49c2-470c-94e2-c5d5199dfa3e		c5f8c89c-ef69-42f4-9b37-5b552fccdf4b	
+ c0926845-d8fd-48d3-bad4-797a1580d339		ef974c39-8bac-486b-a395-9d1283e08028	
+ 3570cce7-c785-454a-a9bf-95415cc61ddf		14c2819b-9afc-4c89-849f-530e289d55bf	
+ 23762450-360d-4930-b53b-611e0041327a		716eb429-d7af-4d4f-bd8d-afcff1a323ee	
+ 695fd2d7-9426-45e1-81f0-79fbdf6ba0bf		962dd3d5-8501-4658-8cb9-2424b476124c	
+ ca1f9f2e-7a09-4e2d-bb99-c881a34a8da2		1122fa92-0073-4f59-9880-3f1a34620758	
+ d259fcfd-635d-4ba9-9b74-ba6a211a00c5		8df0c1e8-966c-4f46-ad15-fae9e745a32e	
+ 478f8c5f-260a-4d8a-a4f2-a07a8931f6a1		e0dfc37a-4a2e-4353-9673-241b100b3467	
+ 3f2fdbd9-19b0-41e2-87f3-ebc0f5fa5215		a76bcd1f-e47f-4dc5-a97a-4c4f00032191	
+ d1652a02-f1e2-4504-bc26-0bc6d272c104		89b995ba-d13a-461b-ade4-d791844c1a0c	
+ 8b462258-f66d-4893-a6f8-245278d1ce9d		829bed0c-c40d-44fd-aee8-6c7589db60f9	
+ 2bc4dea1-1dc2-4e7f-931b-4634ab147d2d		13a63fd0-6c8c-4707-9135-8052f454d1ac	
+ 2fc15245-4b29-4381-929e-2e40cf170982		fca0331b-8096-40e8-b292-d438370c37c9	
+ ef4b8185-9003-4a49-ab6c-84a5c0037837		5a468990-d76d-4c67-8437-62689b593ae2	
+ 9e0f93cb-4c8a-4ac0-849d-2956c14fd8f8		d112136d-34fa-426e-b432-4d1e4286adf8	
+ 9f0ddd3a-9a58-4c8e-b5c0-756fac4c0c69		9f802576-1e98-496c-bda4-4b1dd2e411c8	
+ 942a31bd-5417-43df-bc54-b74f9d8745ce		a76bcd1f-e47f-4dc5-a97a-4c4f00032191	
+ b7b750a0-fdaa-42a2-b583-989423ec1b45		deceb7df-6edc-41f0-99aa-c4ac7e764074	
+ 26425bd7-6764-40d8-bfc9-fe8738359cc2		98240f19-bca7-4001-8aa2-4d790c7c4c53	
+ 7f5954b3-ce60-414b-bd40-f46175ba19c4		d1fd7be0-6daa-4f1f-a198-3dca7a797e49	
+ e54ecf05-37ff-4c12-8ea9-5c8f2ce9b32f		348c2bf3-2146-4990-9adf-fa6968b4f072	
+ d498facd-d3ad-4e75-87a2-bea5253d9f1f		e27c50e2-2a41-4f8c-9ef8-2bc51fb0c23e	
+ e552db18-3b5e-43c6-a1b7-ab78d3f2404c		a7b76662-8380-4f35-9307-99c0acacb904	
+ 6d995ea6-3c34-4bbb-a828-25f95800d404		b182bda9-3d9f-4958-96eb-bd6cc441830c	
+ 323679ff-5644-4826-9486-a60ba6b0431f		000d566c-96c7-4f1c-b36e-fa2222467983	
+ e4906782-9697-4813-942b-94c2b8463d5c		4d5d61c4-2e64-422e-aba6-ec098f40eeec	
+ e25c2cff-eb3c-4e65-8ecd-4e2bf1395062		86b82965-b19b-4285-b1a5-51a5d5267103	
+ f8e39928-9a59-4e5a-ba1e-f22910129528		3fc9e3b4-8bc5-4bf8-bff6-dd90346b83a1	
+ cf4265c8-5f60-4f71-8ade-cb73044fa524		74c7dd37-7ff5-47ac-aeb7-14202871b6f1	
+ 6d784e6d-e22b-41f0-9ea2-154445f6fe64		d44d4bcb-beb1-4464-acd2-9972751f5018	
+ b42d70e0-8083-4d69-a63f-2ae7331dd8f5		19cf56b2-a85b-43e7-971f-5680b9b1a67a	
+ 4b775aa7-c03d-4cb8-8eb1-7dfe3aa2417a		93cf60a7-1d61-4c1c-8dce-221289800b0c	
+ aea9dfa9-b503-4f82-9fed-5b88c43074f8		6755c231-355f-4cc3-85f1-6306c7f5d44b	
+ 75d67b53-8534-402e-b082-1b75ec2aff1e		0c459149-0dfe-4206-b50b-db79180ebb57	
+ dfdee3c3-dfff-4ca8-9750-946c41e688ee		d4dc7c5c-45b3-4741-b0c1-fee477da2ef4	
+ 7f76a7b4-1889-4550-a4d1-3c3a0d1a526d		9f751c9d-ad41-4f02-b7f8-12423857d418	
+ dffce40a-683f-46ab-9b42-d6d7b8ab9692		b47791ba-85fd-41d0-ac1f-b6fa06f18e96	
+ 62488eee-4473-454e-89d3-7102d7c34977		e457eb5d-120e-41f4-8455-2ed8d534ff02	
+ 150b111d-aeb3-40fb-aa1f-cd991db33ece		a6d467cf-6783-4885-8de5-95d32e922500	
+ ee4e1c2b-7911-4e58-a5c2-5211c8d6ef54		38a2b705-d8a4-45ca-8bcd-96dbf93d8e4d	
+ 61a6c1de-8124-49df-af36-5bfb52d1b004		c5f8c89c-ef69-42f4-9b37-5b552fccdf4b	
+ 47da9ef1-cc95-44f3-8566-406eb118835a		ec3870c9-4930-4af7-b2eb-1e16c9ec9f14	
+ 7a94aed7-03d7-463d-bb87-bca2994f297d		ecf9f8be-7830-4626-8617-694c68ef4074	
+ 6e891ad9-b0bd-4fd7-9de1-33f5b0b1d241		ebe711e4-45af-4082-bdf6-b0f7ac899b3e	
+ 91fc452e-167f-4e2d-968d-2bf477a75cdd		b47791ba-85fd-41d0-ac1f-b6fa06f18e96	
+ 1610fca4-8d42-4e49-8bac-0e2f2d6bd7c4		570ddfb3-2721-42b6-9604-2de6b6090031	
+ 184256e3-08e8-423a-bb1e-fbcf52d671d7		d33074f0-5f88-4995-9439-76068a9f4836	
+ 046c8e49-c295-4b2f-ad1a-da6cb0958544		3fae5b76-9e22-4eab-a7fc-13139b2b97c4	
+ 35d8332c-f08f-40f6-9484-3b17a3081894		93d10d8b-5f98-4d2c-8af3-11471385d4d4	
+ fc1ad195-6261-4275-bed6-8d52f2622b1a		cecf4ee9-7610-4f47-a825-7fde8233b75d	
+ 981257f9-1967-453d-8bd8-723f254f32c6		486d225f-eca6-499b-a142-dd86137b22e4	
+ f34aa0a2-b38e-4ace-9e89-354122af4010		d7e22af5-88aa-4a83-985c-1d346dff652d	
+ 40748368-1c04-420d-b21a-6a2a78ad0c6b		5313a055-c2d7-4cbd-a8c1-57ac85912d89	
+ c359bee4-8d3a-4855-a6b6-1e09aefd2b2e		10fbe481-f111-4f88-ae45-4d67cb265567	
+ f65af285-c62e-40df-9f49-f0812e33dcfa		d5c43a14-21ab-4178-ae33-2d8b7baa256f	
+ 9454b4b6-985f-4e62-bbe9-1e61cf2e786b		69fc0351-6496-46b5-be22-25b80c1dc4cc	
+ deaa52ae-c93d-44dd-a41e-2d3b8efb7f6d		f6040682-4999-4d71-abc2-354b473c6980	
+ 6b09169a-4356-4d2b-a82b-0ac0e7bceb74		fc823ab7-9390-4c57-9883-3e32ee17e794	
+ 4302b78b-6ed4-42e0-b730-520da1966483		17916c4e-febe-48c6-b475-ad29397425e8	
+ 082edbc7-1c72-4487-8603-5f20dd332ac3		1e3c1d8f-b3c9-47be-89e4-22e6b16ed2ae	
+ aaf38195-2e17-457f-bb4c-a8a44fc5e877		804ee985-18dd-4f2d-a562-61b454601cdd	
+ b2e52658-fe9d-4212-b9e5-eedc1dff76f3		b0669eec-6a1a-4618-ae23-ae0f9e9c266c	
+ 5cba5884-4340-40e8-a83c-7377f5436f29		444e78f7-1221-4882-ade2-7e45d828ea2a	
+ c7373089-17c1-4809-b236-dec22225a3f0		270447ca-19ee-45a2-982e-032325dab05f	
+ 9689cb33-8ac9-4ee5-800d-3900769988af		f947b0bc-bdac-44e8-b5b9-ffae4147740a	
+ fd03be72-06ff-46b7-920e-533ae0988028		92252560-5984-41f6-a4b5-a3aa8654c0c8	
+ 109ba14b-307b-4a23-b09d-643fa235d0ff		9b84601b-ee05-4c15-afe3-7bfa7ca5ffac	
+ c1f91d47-7072-4b9c-8a23-b7a46ad211a1		1bc21d56-299d-40bc-b9c8-c74db990611e	
+ b8483a81-abcb-43d1-abea-e4c00743c928		c51ccff8-2502-40e1-b130-fe655c119169	
+ 6162f308-9e45-4bf7-a192-64a636bd36bd		3d92b872-a76a-49cd-9fd5-7993e78d2fb0	
+ d8cf1bbc-43e5-41b0-a9c7-bd58e88a2e8e		9b59ed95-e97f-4356-b976-e3fa0e9eee02	
+ b09465a0-6766-4401-8ab3-1f7b0ba892cd		6e3154d4-2ef6-403d-9de1-7b6233c4d505	
+ 9667b442-1eb3-4431-bece-f53abb42e5e6		da07da37-bde6-480a-a302-98683ae3931a	
+ 473c4d37-6639-45f0-a67a-8e34049d0b29		6394e00a-1f6f-4ea2-b885-373bbb59def9	
+ ff8ce081-3108-487c-afd1-a46bcae93fd2		ec3870c9-4930-4af7-b2eb-1e16c9ec9f14	
+ 610916cc-7c38-42e8-8b8d-591284520b3e		a8d81122-3f2a-43f4-bdc1-479cab37a19d	
+ 7166fd58-0cd4-41bd-9a06-dc48d9b4e6ca		d4ffafdc-ee83-43df-aa3b-7326503c6438	
+ 3e27c976-6830-4deb-9456-5e3615bf7cb0		ed7084f8-060c-4780-8b35-a03a5eab9684	
+ 8ee5606a-20d7-43a6-a199-d18c295e4b1d		c51ccff8-2502-40e1-b130-fe655c119169	
+ eba48f21-c778-4331-97c5-e28b88cc0627		6bbbe263-3632-4567-912c-95bc9940a1dd	
+ 2df47d25-97d9-4d8b-bd00-01bdfe040ceb		5828401b-0901-4a73-9d0c-1e85d3431475	
+ 3aaa44ac-302b-430c-b503-d0de1f251a57		2c7ec330-261e-49c7-9424-6d83641dba6d	
+ 561be685-9ad0-44b4-8c4f-dfbdcfbf68d6		48e83a4c-c602-494a-80cd-e2f4b4dd701e	
+ f1730f32-f97d-49e7-beb7-593c8ca8a907		2b5ef82d-e137-43f6-bfef-b202f20ee187	
+ 22a01dd4-194d-4931-91a3-cfd5406147df		98a9ce0e-4f02-4819-bc0c-c1a8d34e3db6	
+ fe39a0c2-56d9-445c-ab4b-744d4d21f8c2		30fa311b-05a2-43e4-9edc-02b327898132	
+ f28f091d-5cd5-447f-b956-3ef7eb305fe2		f82d53b1-3df8-4249-a615-464c9f4e0a32	
+ 54a3aeec-d8b4-49fe-bf4a-8727ce1d8c06		f228ef91-ecfb-4d1e-8e6a-b43d2185270e	
+ 9447bfdb-8772-4a94-a7e5-9b95f205b262		8a5f2d7f-835c-4726-b238-f82d6a7f25bd	
+ 0f5b9970-388e-406b-ba7a-bad4b7724b53		5f69ca7d-f8e0-4f5b-9987-1e5c234eb759	
+ 4c90ef8d-c640-4c67-bafa-12fb155781aa		bf428d43-2da6-43fc-bd62-7cbff84e95ec	
+ 331c8a3c-a039-4af9-aec3-e6e050a27e23		ff52fa2f-bd12-4de0-9f5c-cd330ffb5fb3	
+ 0bc728e9-ef17-4595-b98a-4d83e59dfca9		3da2e90e-6450-4286-8c74-08dbecbfd788	
+ 7b1edb67-d4ef-43db-b35d-99054028f6bc		2919afa2-3fee-43bd-ae68-e70718e73608	
+ fa6e02fd-442a-4a16-8d8d-d85944432531		4d5d61c4-2e64-422e-aba6-ec098f40eeec	
+ dcf98acc-736b-4af6-bdca-a320a413165a		73f875cb-bcfc-43ba-ab97-4e94caf836d4	
+ 3f104f5f-f816-42cf-bdf5-65cbf9d7a5d4		829bed0c-c40d-44fd-aee8-6c7589db60f9	
+ 1613b958-7660-4968-b373-04b00f3f47c3		f4f81316-c99a-4a88-aa6c-e66fc5d60c53	
+ ad06d026-2957-43c1-9350-74ddc23917e4		f06c1ef4-bedd-4025-abf8-06f5e9c0821a	
+ f4a3d716-cd83-4012-91ec-ff5e45784c98		f8d8b417-5945-42a5-850a-fbc04b4f0e61	
+ e32b30c3-6ed3-42ce-ad17-69b26146f7e4		ac67d0df-7dc0-4a1a-8b47-beec9b94de86	
+ 8329fc61-dda7-4b68-8988-2f6c1214cc2c		a8c954b7-3077-4ff1-b311-d4b4bfa49786	
+ e3b6ef37-9e52-418b-816f-a2b670b1fda9		aca312ab-6dbd-4183-8b22-8f37834f3426	
+ 80ed0e60-9bf6-4407-9f9c-108672829690		8740555d-8bf0-40ba-b868-99eef27662a4	
+ fcb74e20-c07f-4d98-b7ce-06fe7e073d14		c362f6f9-4ce6-4659-8c36-4cd45c72fb03	
+ ae48940c-acd7-4556-ac88-e791eda0f5d0		0fb599ce-5e10-4571-8160-4f5160791a3f	
+ bbb53cc1-7aaf-42c9-b4c9-dbaf6864f414		cd113dc4-915a-47d2-bce0-9dba915a9d29	
+ 62df5841-58c1-43a6-a145-848601f9209c		b7b61392-c085-4e28-892f-e9b6fe6ece41	
+ 1c45a477-5a37-40de-a023-e282662b95d5		f4e9a9f9-263c-4ced-a8fb-6cb0fb088983	
+ f6ecbcaa-aa62-4d04-afab-2d9e24ff0bbb		56c88739-c076-42cc-a2cb-fd613ab567b5	
+ 67b19aa7-53d6-481f-9a70-6667a6dfd141		c024c4b6-0143-4071-9175-7435f1eaac58	
+ ce43974e-70a9-4f22-9686-f0462c597acb		d57d3254-d8f3-4ca2-8b31-790d3ac9a63d	
+ d6bb9600-d340-45e4-aac0-08db7c5ea4e8		2dee4bd8-b00e-4f8a-bfea-5d8d1a068202	
+ 076097b4-8ca9-433c-bd04-799c7e1da5f9		931b549f-b9f2-4e8d-83ed-ff663671883c	
+ 68397e1f-276f-4831-b395-7aec3cffaf4e		94d6675e-27ae-4f34-9d53-6e19238eb01d	
+ 998f424a-c098-4c2c-b258-03f0e4c0ea1d		666d8b0c-593f-4ec3-b16a-2dadbead8c32	
+ 4adefa84-9ffb-4efe-9a7f-bf1e307f6932		73f875cb-bcfc-43ba-ab97-4e94caf836d4	
+ 50c8781c-f2c7-4eb3-beb6-322e4c08e79b		48f36fbe-356a-40af-b81f-8ea0b1369bab	
+ 0af96576-f308-4fec-bda0-f431f6531409		3f5270a2-3284-4523-bd81-54fc98c2b933	
+ 69ebe1ab-c416-4473-8d82-91b475b206d4		dc40cf49-b208-4f59-b5f0-cfbdd02970b2	
+ aaee15be-7d62-47c8-bd51-6468b83855e4		f5319fd5-beae-4ca8-8f42-45fca5e6a2d2	
+ 30f84a45-9998-47d3-87da-030f357d928e		7bc369b7-007b-4b10-bd92-5d326dabf675	
+ 16fc1662-ec00-4bfc-abf6-ce18b7ae0f4d		45a04209-8fac-4181-bba3-1437c8fd7f09	
+ 4b005f8d-1af2-4aff-87b6-de830251409b		a279d5aa-51f7-4e75-9e14-b206b97ec4bd	
+ d0674198-9352-413f-98ab-cce0fa8b47f6		b5b3871c-078c-46a7-ac50-ef916d4a6781	
+ b1de224d-ae13-4f56-813c-4326b207e7ac		355e84e7-0d50-4bc2-a481-dfece2f8c687	
+ 4be95b75-954e-4f4a-840e-f9fc6762bfc8		a468353e-0a96-4a4d-8aef-5140bf1bf952	
+ e4bf7fcc-99b3-4e83-8336-2caacc77a011		36b87d12-9f96-460f-a3b5-a4c08cbf5b07	
+ 305709c9-bf5c-4706-b377-8030d49361e7		ae739a4a-e319-4d87-8330-14f2fbc8839d	
+ e63c8077-ee5f-4ff5-a416-8f73b2675957		c03ae0f2-dde3-47e8-a046-ce85c86dd77d	
+ 8fc8adf0-d482-4acf-bdec-3b1ec93fa84c		0885eb03-de9f-46ba-9c53-fb69c67ab9f0	
+ 668c30db-01b0-478c-8a8a-864043eb6519		1d2c5f72-cdca-4cc8-8a96-2abe10207356	
+ 9db864a0-450d-4ef4-83ff-1a869ab80803		91e249a6-b0b0-487e-9fad-0e9f5798dcae	
+ 4ee4cc9c-82a2-4d65-9b90-7263e4dc6164		74602e83-3ee3-4ee7-b05a-135fbdddcc5c	
+ 87e1ffee-a8cd-4d75-937e-ed415cf43546		3acd8328-76f7-4f43-9660-394b95748c3d	
+ ed594b57-98b2-4fcf-b6a4-e507919e6b7d		355e84e7-0d50-4bc2-a481-dfece2f8c687	
+ 1673d1bf-6a1e-481b-a714-8ee9753c07ea		d17b1955-0565-46c1-a5a7-ecd41ac0286a	
+ ce0298b4-8456-4369-8916-c951b956dcc6		5a92ec4c-36ee-4588-aca2-e3303f29c7ad	
+ 63ce1033-5b0b-48a7-9a5c-3e0ac6cad45d		5e7a7629-800a-45c4-b4cb-314a853a1bec	
+ 42a1f7a6-b577-4000-9a4f-c6cd38462317		f9f136a5-3ccb-42b3-ba60-c667fbb0846d	
+ 64628bbc-a289-40e4-8bbc-ed53b7676771		720d77bc-58e3-42ee-aae7-5de586c2ac41	
+ c9708a4f-76b5-4eb5-9831-a1f069096578		2c48b1bf-4e49-4869-874b-f08787fa04b5	
+ f61e6c4e-baf6-48ca-aecd-0e3ca77aeeb0		a80d3ee7-60dd-49bb-b049-9335afc035f5	
+ 955a7101-36b0-4d1d-bd5b-0ab6e3adba5b		8e1ff72b-f1db-4bf9-a8d3-f422e25a65e1	
+ b4701be8-2c61-4a86-8220-6b3a3550b60e		6b3f53ab-00f4-4c45-9bb5-5c8adbc66084	
+ bcdd04ee-ff3e-4fa3-8115-4c94b0af9170		827caf2c-a94b-4eee-86b3-1155a16daf4a	
+ 47d4bed8-db46-45d2-8e56-de72205f011d		a8396f6d-53e2-4664-a3e2-df061d022108	
+ c9b96788-9d99-4be5-a458-9e3d2c8755ea		c8fab4a7-fd7e-4d5e-a330-18c7e148b9d0	
+ 3b4e02da-87be-46e2-b4bd-555ca1440808		79ec7468-9aaf-4bb0-94c7-72be4f497868	
+ fb3d2a6b-9f91-4cc4-8f42-129e41672023		8e5b1d47-7d92-4d28-8186-4176ada96672	
+ bb02213c-0f97-4cea-a808-094166184ac9		9b84601b-ee05-4c15-afe3-7bfa7ca5ffac	
+ 785ea44e-05df-43df-8acc-c0fda6852721		9a05aa6d-6215-4584-90fc-09a0371a19ed	
+ 5987d460-eb7f-49e5-b817-f5032359575a		4bc71292-60bb-4b63-86c1-0fe021083804	
+ c3c8c9d3-e3d6-45ea-b448-e1143892a190		e27c50e2-2a41-4f8c-9ef8-2bc51fb0c23e	
+ 0f9d2e65-a5bb-406e-926b-e7e7d2507d70		0885eb03-de9f-46ba-9c53-fb69c67ab9f0	
+ 39351351-11d3-499d-8fec-7bf34f38d3c5		df3abb97-c790-4ff6-a726-6645b3058d72	
+ aefe7099-96e0-481c-bbfe-1566024df395		59207bcd-f127-481f-b576-8716da7d7d97	
+ e807a5d4-8642-4757-a1e6-9fc58e6f5d65		b8fbfe87-e92c-4d54-a620-17b2dcde6d53	
+ 638655b9-baf3-4671-bf76-f5dd9fbab89d		f59b9c65-46e8-4cc3-aa71-8844f6c2273c	
+ dc7c3b1b-f5f0-414c-8b07-2338277264c3		00b16434-0b3a-4194-8714-74dccbebe06c	
+ 9aec7505-e824-49cf-a520-b4d090863d67		89b995ba-d13a-461b-ade4-d791844c1a0c	
+ cdb78cfc-4a29-488a-b215-a4996b3ab873		36b87d12-9f96-460f-a3b5-a4c08cbf5b07	
+ 008659ce-78a0-4243-8cf4-bbfb8308e993		d05681cc-dffa-44d0-b6a1-0a99a4ce3be5	
+ af73b3d5-51db-4b4d-b56a-196c61830450		698ce9a9-6512-4fb8-a574-a26ee259414c	
+ 79e46606-ecb4-4a53-acaf-e9e46855fe4d		4e76de8e-cb0d-4b83-8ab4-53bc67a7a9d3	
+ 05454125-24ef-4c09-b1e9-71cd7a15a98e		dec99f86-622b-477f-a26a-98c954fb1f17	
+ f61d1174-470f-4318-9bd9-defe72f8afd2		a8c954b7-3077-4ff1-b311-d4b4bfa49786	
+ 263e1015-1061-4ad2-8f7e-ed430d2d9e80		11fb5853-8eeb-4ad8-825d-3eaaf3fa08d6	
+ 626f7f57-e6e8-4413-8a05-942c859a6d61		ea770d22-2cba-465c-9555-e0877dcecb9f	
+ ae721ffe-45da-4029-bcbd-6e218f607de2		71d14304-ccb0-4a4c-b935-8c014ca75fd0	
+ 0045d518-7b93-44b2-bb7b-dc11c85b3c93		897a2af4-55af-4245-8629-1a71b622c17e	
+ fa9f4535-3165-48c4-a3be-a76526deece3		70c6c3a0-b422-4541-a60f-355356a9a340	
+ fabbba2f-92b0-48b5-be7a-e4c9fc08b795		6641a298-1dbd-445d-a4ab-95ceb98e1427	
+ b2de10b8-8e9d-4cf0-bc63-b624df4eca9d		fc823ab7-9390-4c57-9883-3e32ee17e794	
+ d36ef053-e634-4711-9ee4-dac20b166856		a8573f49-9fed-4c85-9e1d-40abab7f86ec	
+ 231d6294-d947-400e-a0c1-15694c4839c9		9b5d36b2-8b46-48a4-afa7-0e1936f2d315	
+ 5050d3e5-3b45-4d06-b454-7ccd753837dc		a1e64294-1264-498d-b18b-c9b4c729c2f2	
+ 5f1c7f2a-40c5-45f3-8d16-a57db576d7a8		7d931c19-1fce-4409-8a9c-9c65631ccbac	
+ 0c9a5dbc-f7f3-43e7-83d1-77b9fb4b8b54		e2b33861-2247-413f-b2e5-9be3b604666c	
+ 3fa7c553-f043-4ce7-9587-bb7ffc8d4b65		acd5ceef-c5cf-4e95-9394-c50fdbc70c8d	
+ a31e4ea8-9af6-4430-845c-9eef051c1179		2648c3c9-9884-4a0c-96aa-61130cd289ea	
+ 5100841d-0d49-4d3b-8acc-9373b2fcb95a		eff14fed-8a21-41c5-8ed3-75346a06e44e	
+ 3c4dfdcc-2193-4780-bd67-716947ce87f2		03c66cf8-bc68-4ee1-a322-689a29b72262	
+ c97d9803-fce4-4921-bc37-6dbe062f09d4		79601d90-b198-4b94-b60f-4cff329c7a10	
+ 38604397-3014-4f48-9b92-dbdb45f28a33		5b12458b-f5d7-41de-a4e1-26d39dca9b17	
+ 8130ce33-1338-4bc9-b812-7060168d762a		bf428d43-2da6-43fc-bd62-7cbff84e95ec	
+ 729e845e-9b3f-47df-9400-07a81f3a5c12		adf3c2f7-d5f9-41c3-bd8c-7f9f1f22ff73	
+ aad0c72f-096f-4d7b-8cf7-46c5ab0939d5		743ffc51-d613-407f-b040-e99969c31802	
+ fcad0c26-dab3-4bf0-9ef6-a5be33131a61		f6935f67-5c62-4774-8346-711f36f3b547	
+ c35ccd5c-e37d-41c1-9ebf-b805bc3cfa63		c75bee57-d6da-4083-9be8-17c970b77fc7	
+ 56d3cf13-362a-4701-850e-bd8cf98ac9a4		1d7ffbe7-6139-412b-8739-8082a63a2b33	
+ c55ec8be-cd73-4275-8407-5814a1fc51d5		4a3d9efe-f24e-4135-8a70-e202651e7a81	
+ 5c9ec16d-4591-4e56-8326-9e7883d88483		3e71fa1c-855c-475a-9dd0-a314a3ecd48d	
+ bb9b1203-fc4a-40c9-867a-436a54c61cf3		854a481b-71a2-4f23-80aa-e91e9f4069b1	
+ 14d6a96e-cd7c-4429-adb8-2a6c9ddf22c3		3fa3cffe-40f1-4853-9cbb-54a99ffd6108	
+ 6e297e93-6cfe-43b1-aeb2-1151c6fe2a8a		d39d1a49-fcc0-4f2c-9338-df904e7f6a09	
+ 605429ab-6e57-4c37-a6f9-85ef92e057f5		e377f873-c0d1-4810-9f3d-e551723858e1	
+ 57d5137e-6a41-4e03-a279-e4ee1cf06472		701991da-6deb-41df-b9cc-e5049a886b5b	
+ 9d1b2c85-05c5-4720-bbbc-07aaad25033e		9bf4e7bb-6aa9-4be8-a7c3-e630ecff4dce	
+ 34b3bfff-3049-4177-99a4-9ac6332a5ce9		a13a7252-de84-4950-9307-80fc8a6a668d	
+ fee0aa5b-cffd-48d4-bf3c-118855f4ecda		3e71fa1c-855c-475a-9dd0-a314a3ecd48d	
+ 32e768ca-262b-4887-831d-be38e2fbded6		cec1d2ff-36e6-497e-892c-b329724b4722	
+ 7720c12c-81ea-41fc-a13c-48fcc8d219b8		c4ebb2eb-e1f0-4490-80f3-5cf0c40a3091	
+ c1ed8374-a8ff-4d14-a886-ee50f37c0ac5		436b242c-ad5f-432e-a684-27bba4c1c8a2	
+ a820bb95-2a8f-46cf-b111-46f108dc789a		f8d8b417-5945-42a5-850a-fbc04b4f0e61	
+ a653276f-248d-4ffc-9198-d713cdcee5bd		7fc65e49-0401-4a36-8800-fd87b7927fc1	
+ 7132d9c7-5196-48c8-a3ce-fa2f34c7be74		804ee985-18dd-4f2d-a562-61b454601cdd	
+ d415be01-5bb2-4be0-9a02-9c70e461faa3		1f4ff2c7-3fbb-46a1-99cf-68d2c33c5175	
+ 10b99436-73aa-47f1-b44c-d6f893e133dc		bb8e6886-edc7-4127-a85b-c4f3769b6681	
+ 399a4aa1-42a8-47cc-85b8-eb319f9d6dea		ba0c9096-5f35-4f0a-ae98-ee1a695b55f0	
+ 853f7d71-27a4-4d1e-b104-ca23d4c7e575		afa7d9a2-3998-4182-bf63-54895ed2de37	
+ ad18700a-4894-4c51-9d92-68514c853b0c		108dee1e-b27d-4056-a167-261725f548c1	
+ dcb67253-4e94-409e-a5cf-5a86196c1877		37ec45fd-1c85-49cb-835e-fa7b2b8ce16f	
+ e8a17b3d-a5f6-48e8-b161-b9b6a528c3e6		4434864a-8a0d-488e-b9a7-6749719663e5	
+ 667ba573-9cd4-4916-8b54-d529c24cd63e		a279d5aa-51f7-4e75-9e14-b206b97ec4bd	
+ e152fd51-11d4-46c4-b803-1b79e8f6cf18		2c48b1bf-4e49-4869-874b-f08787fa04b5	
+ 342033de-29bc-49af-b78f-f05d7e303b22		68fc3693-0910-4ee8-8997-99c6333b65f4	
+ aaa16e66-2563-4c7c-8209-3e501185226e		bdd4fefa-512a-4720-9f9e-11eb3892fe3c	
+ 840aa1ee-fa15-4fc3-b292-886ab0dbfc06		30aba886-5152-4e25-b36f-6ce7009d419e	
+ f0042c94-9802-4593-9dd8-4352538c6bc7		df3abb97-c790-4ff6-a726-6645b3058d72	
+ 55773b06-5d25-4338-a0b2-943b79062d10		42fa9774-9471-4707-8f6f-8041b34c49e4	
+ 3667be24-0cb9-4641-85f0-8d65e011d511		570ddfb3-2721-42b6-9604-2de6b6090031	
+ 3a863bfc-2b84-4a57-8049-f41ebba5ab1c		4b9aa301-d2e3-47f3-b724-a34f420b2b6b	
+ a2aa9195-5cd4-4032-941e-90a1f724382c		f6c61a22-a711-416d-9e65-6a1b957e5b2e	
+ ecc4491e-2c9a-4a6e-90a1-a0251fcf69aa		922e5166-85f5-4365-9c09-f8bdc1722da6	
+ f032fb5f-6499-4cd4-82c5-fec6bdb5caad		abeb0894-862f-4035-a6d9-fe0ba61630a9	
+ 8b44f615-8f5d-4c2d-8c8b-8d48de8db586		f947b0bc-bdac-44e8-b5b9-ffae4147740a	
+ 6e7ac799-87c3-4d22-bad2-57f73e88124f		5089a8d2-a353-4150-8a6b-6478c5bb29bb	
+ bba1d69c-c2b1-4f84-82c8-b54699187c99		12d2b93e-a033-4b36-ae81-c15879eb40bd	
+ ed362be8-54d4-4532-9d4a-ad760592aef1		d57d3254-d8f3-4ca2-8b31-790d3ac9a63d	
+ c7014407-f794-4174-bf47-38a2745c06b8		92252560-5984-41f6-a4b5-a3aa8654c0c8	
+ 92b13aa2-eb12-433b-a744-c6f7d1d1e690		e90ab72a-4bbb-4c37-b48a-8a1a85d79d04	
+ 30eed465-db39-4e44-8663-e25e7d2dfe01		3ba3d23d-67e2-4f38-9951-f5cfa1131f9f	
+ 17d98e3b-65f0-4395-8fdd-11ce4ccfc917		8631bb5e-6d08-4c20-a85e-cb84f5dac290	
+ f4eca61d-ecdb-483b-bfe1-b1dfd5db648b		7ce45134-5b1f-4ea7-ace9-7e463b034a43	
+ 3ab86bdb-3bc5-4a9e-a968-afb8b9633679		21a29827-7896-436d-ab52-e7edfc91e7d0	
+ 5f0e1221-01d3-44dc-a762-2084b3a42cc1		cd113dc4-915a-47d2-bce0-9dba915a9d29	
+ e30e3059-aeee-4637-94d2-78520add854e		7dc62c0f-b82d-417f-89a7-4cb984a9d304	
+ 5aff2614-4c95-4b26-85c4-4f0a97991d56		f3ec5bf3-97ae-4033-91a6-084a1aa152a4	
+ 0a313eac-afe7-4317-ae67-a2eba7cd821f		0fb599ce-5e10-4571-8160-4f5160791a3f	
+ ea11e1b5-ed5c-47f0-a320-9b8bffa66a4d		6ef0fc2d-f274-4253-bec5-6dbd55953d76	
+ ffdfc835-b6f2-4369-9f20-0c2b094020d0		7d0c6960-710f-42c7-889e-c3a7d4a30b3c	
+ 1ed46a80-9603-434b-a495-3b5698dd9be9		bb8e6886-edc7-4127-a85b-c4f3769b6681	
+ eae221e0-1a67-4302-a04a-10195507d23b		dc20ecf0-2807-4675-a7fd-8ead1cee7ea0	
+ 8190fde9-3acf-40d4-90c8-2344c571c55e		a5c77ab6-6e98-4a3d-81c8-f3d5fabd31d2	
+ 488dd6cb-687e-4246-bd35-d45f3c5fadf1		9a05aa6d-6215-4584-90fc-09a0371a19ed	
+ caacdc42-537a-470f-b215-c0727d083e42		adbf5bda-e2dc-4b25-8fb9-96d89093f77d	
+ ad22411c-0db0-4ad6-8c80-4134cc51e7ed		0d498226-e22a-44a4-9ef8-1da8e83fa55b	
+ d8733559-f04a-4325-b92b-4508013a853b		03c66cf8-bc68-4ee1-a322-689a29b72262	
+ 517cb9af-54ec-4a7e-b093-16081dcfa7e1		931b549f-b9f2-4e8d-83ed-ff663671883c	
+ 2821a5f1-f23f-467c-aa21-b9a0f8d623d8		0c459149-0dfe-4206-b50b-db79180ebb57	
+ 38029fed-8935-4482-a4e6-d0be1258b2e0		7d0c6960-710f-42c7-889e-c3a7d4a30b3c	
+ ec655621-f470-4bca-ad72-e570cd3c3a42		4434864a-8a0d-488e-b9a7-6749719663e5	
+ eda129be-4306-443e-a904-e4d5d91c9eb7		58c27028-f37c-4cf1-b134-bd9aec9bf170	
+ 521257bd-e4e2-4c76-8154-e87abb022203		bfb973eb-d42d-4900-a606-a381d2317555	
+ b1106f74-3476-405d-93ad-b718d7f393bc		38a2b705-d8a4-45ca-8bcd-96dbf93d8e4d	
+ e10b6bea-f2b0-4473-be35-709908f6f57b		f6040682-4999-4d71-abc2-354b473c6980	
+ 30cbe211-6ed8-49bd-b2da-428fd8c90f37		42fa9774-9471-4707-8f6f-8041b34c49e4	
+ a8ff080c-59c0-40d6-b8b1-4480719d7d17		75a7afb5-66d5-47e3-8a8a-3e3a1e749a96	
+ 7c56bd41-657a-4710-a03e-7fd4e035847b		f3e93819-a8f5-4d15-a416-3edd42aa52d1	
+ 02ca7fd5-cd78-4345-bbbf-2b803c6bdc01		a3cd3599-7c18-491d-be09-6fc7e526c9b1	
+ 316ecb66-2802-4972-9bdc-f11fd7f67801		e1c3d1bd-cf8f-4fa4-ac8e-bf9e54f7aad4	
+ d8b6ecad-0b33-446c-b7f5-6ad7a95ca260		bcc94953-ce79-428e-99c1-632e42c1b9bc	
+ 2c120cb6-8347-4d01-a96c-ff638871d08d		494a8495-8d10-4a8f-8664-f68ac339c889	
+ 800eb17e-206d-461a-8dad-15d3a09dfb9a		554a7381-46fd-4301-b91b-5af7f173c350	
+ f07d2982-6313-4e21-a0a1-cf713daff114		00f7f9d3-7a34-4a5b-9d19-38810dcabbba	
+ bbf7010e-343e-4a33-bf1f-91e5fa93eb6b		610603d0-43fb-4a4e-b368-d143e6c61802	
+ 1ff17ff8-6ebe-4775-bc2a-07db1eadb340		8dc53431-44ab-485e-b4e6-c3d06509506d	
+ b3c65fbf-e781-4a0c-b76d-8a6c4535ccef		18e79a01-07a2-4cd5-b700-71d41724e041	
+ 16d78baa-531a-4ec3-a6fa-d68143626080		3971a2f0-7263-4cda-aa01-9a2ebb2c2ff2	
+ 0c32797e-d804-4cab-a0c1-2aebeed8f037		9b5d36b2-8b46-48a4-afa7-0e1936f2d315	
+ 577739c4-abfc-466f-9bce-1bbb1f35040b		4fdc9f5a-7ba1-4f80-b3db-2b7cbe505217	
+ d441d979-16c2-4638-a963-550f1bffd4e8		ae3a0c92-148d-4f1c-8563-06ac1050f53e	
+ cf3e0850-c21c-4739-8085-7e278dded3cc		000d566c-96c7-4f1c-b36e-fa2222467983	
+ c3644dc8-4a3a-4db5-868a-ac65f2772be0		610603d0-43fb-4a4e-b368-d143e6c61802	
+ f6fc7ff0-f510-4b66-b422-4e9a5c0552d6		5b12458b-f5d7-41de-a4e1-26d39dca9b17	
+ 0108ed61-8918-4ab9-b932-05cfd43ab22e		7466d120-6a6e-40a0-96d3-4979816d6278	
+ eabee59a-01ca-476c-970c-72f69b24f6f1		fd1aa612-df86-4d48-892d-2acebd76ea96	
+ 41815e8f-0332-4826-90c9-ee944f3887a0		907b64d6-a26a-4092-a247-ac9af444d1c7	
+ 99d703ae-a5d1-4dd9-a97a-8122c6a58b25		1583aea0-5d69-4165-9bef-d5bfdddf3a65	
+ 86ff7f1d-b776-4a67-9927-4071226f30f4		b6f54bdc-9b1b-4465-a6e3-f0524885e10e	
+ 5d4f8ba6-7ff3-40ec-af29-7b3450f813a2		490e84ed-3c02-4593-990e-ade5c109df44	
+ 1b6bdf28-2065-413f-b851-d6834173d5f0		270447ca-19ee-45a2-982e-032325dab05f	
+ cd75bca3-514a-46d7-9c45-64d7da925e78		444e78f7-1221-4882-ade2-7e45d828ea2a	
+ d0a01318-edcd-41e8-8be5-95fbc01e1e7e		deceb7df-6edc-41f0-99aa-c4ac7e764074	
+ 84029535-3038-490b-b904-910d79fce5c8		4e76de8e-cb0d-4b83-8ab4-53bc67a7a9d3	
+ 9221a776-a241-48a2-b486-98902a8628f8		181c6d37-9d8d-4ffa-827b-e3785450ff88	
+ 769e2ac9-a121-4b2a-a0fd-5f755b579811		6845076e-e940-4437-8618-81db4a447544	
+ d32f41fb-0744-4a62-81f6-0260c4920049		4fe004e5-49f9-4336-a690-6ebad512c813	
+ 2f8846f4-bd22-447a-b4c3-4fc9049b5a21		8a5f2d7f-835c-4726-b238-f82d6a7f25bd	
+ 99d7021e-f0da-44fb-8f6c-5bcd2c433a0e		30fa311b-05a2-43e4-9edc-02b327898132	
+ 7f00368f-9274-4a6d-a253-193feaac3ced		9938c4ad-748c-4086-9081-fac0aefad440	
+ 0ec36148-fac7-4583-b63e-6e055faa5d8c		929837f9-297a-47c0-ac9a-a142eef620d3	
+ 3b55bcae-8653-48b8-b552-b0368b47bac2		56df9de6-613d-44ce-8827-9213cc6c8b56	
+ 58fd9726-f7b9-4e5a-8e51-73a8971a1317		49197847-cc83-4ce1-8397-d09cea4c4928	
+ ac97df1b-05e5-4a00-a8b6-62d758397f3b		00f0f7dd-71de-4e4f-b4b5-df860324f2e8	
+ e5a23b9d-18a0-4cb4-8743-3d53fc3c45b4		1122fa92-0073-4f59-9880-3f1a34620758	
+ 2833ed55-763d-4ebc-a89b-3b4e255adbc1		9e48644f-d498-42b0-871b-d11f676241e2	
+ 97bc618f-218f-4eb3-a7f9-ad32524a0be0		b751083d-be6d-45da-be97-a6d41d8ebe97	
+ 4f907297-ae7b-4418-8f9c-44dec3b16e05		a7045324-cb44-4b37-bbaf-641642c1d903	
+ 4fd1a675-838a-423e-99c4-71af79e6b48e		1940166e-aedc-4dc5-90a5-609871f9f7da	
+ b68c5ec2-0875-4d77-b4b7-738d2b2f313c		be5411dc-3caa-4b25-9b94-ce463e8e52b4	
+ 8a89d72e-a967-40b5-a8eb-0d4ccd8615ce		922e5166-85f5-4365-9c09-f8bdc1722da6	
+ 18514ecc-f430-455b-8ee0-b9f5aff63989		e27bc39b-54f1-47b5-ac8f-3245dce690f4	
+ 10813632-d72a-449d-a4a1-0d0811d48ec5		91c0d161-2b59-4b7a-8c19-6d26dea31849	
+ e4ae4cc7-3295-4d4c-a51b-d65f5ad626d6		abeb0894-862f-4035-a6d9-fe0ba61630a9	
+ cec2fc20-36ef-4bd5-9496-d19a0ff4b6e1		69174712-af41-422d-952a-d8d0d16d7182	
+ ea3d3e0f-ff85-4f89-99b5-375033ec614a		91c0d161-2b59-4b7a-8c19-6d26dea31849	
+ c9650173-3de9-42ae-9cb3-0cc866860256		084ac674-f4cf-4a4a-a6a2-687c05c272ea	
+ 7b498228-7d17-4b2e-b815-123ebfe1f366		f82d53b1-3df8-4249-a615-464c9f4e0a32	
+ 2903d109-d1bb-4545-a90a-81a3d8d62406		28689d40-03e5-4e17-aba1-f2d571535eed	
+ 6a006949-56b7-4774-9768-6f384207ff48		e377f873-c0d1-4810-9f3d-e551723858e1	
+ e1e7d94f-1962-4438-b722-3d6d003eb6ea		436b242c-ad5f-432e-a684-27bba4c1c8a2	
+ 942d7fa6-03b5-4661-9806-b535058fed63		53c43d14-2310-41e9-ac43-3cc298404338	
+ 79d05b35-8616-4147-af78-8bf33fa45499		fb447e0f-7cf0-49bf-8b15-aae932f8094d	
+ bdb0244b-1099-46e0-857e-35d6ae983c53		8bfac5b9-fa2b-4b6e-9537-e9d8a2f0d1dc	
+ b2e1507b-1fa5-4368-a706-2eee5e98d006		73d4e806-2c15-4c9e-a978-106fb9494e82	
+ dfa92bb2-8190-4e63-a29b-ede8b316a0cb		21a29827-7896-436d-ab52-e7edfc91e7d0	
+ 98899bed-24c3-494b-83c6-27e994e986c1		f211f7a9-cf3b-432c-9ea0-1172cce14e9d	
+ 957baedd-a3e5-4cc3-84bc-d96a98047c96		942f1788-d977-4ac0-a177-659f9d4cd077	
+ 7a5f0491-82d8-49de-8420-fa14d8185bdc		4fdc9f5a-7ba1-4f80-b3db-2b7cbe505217	
+ ba2e9eb3-d530-49c4-ae78-d3069862fc71		17c0ce0f-8227-4119-9b39-ea8db18f5f4b	
+ 5d8deeb6-3e5f-422d-b7ff-d35db9198e0d		6755c231-355f-4cc3-85f1-6306c7f5d44b	
+ 68b542b2-f763-47c4-9df4-3f92060c8495		9b015929-99eb-4e74-8fbf-6b2e6d7f08e4	
+ e3e7e02b-0f70-4574-8d1c-63fd5b15d3bd		b8fbfe87-e92c-4d54-a620-17b2dcde6d53	
+ e0965003-39bc-46d9-83a7-7df655bdbf56		f16ce517-d51d-499a-a4c4-a6844fefa52c	
+ 0892efc4-b6f5-47e3-befe-b685ebb7d359		aa8b99fd-973f-465d-ae24-3421fe784687	
+ 62240b66-a483-4a6a-a55c-06b9734d523a		48f36fbe-356a-40af-b81f-8ea0b1369bab	
+ 166a3681-aabe-4ffd-ae66-5ceee10893bf		f06c1ef4-bedd-4025-abf8-06f5e9c0821a	
+ a9a3cde7-512a-4a9a-ba0c-3f630f015fb3		7c398299-d789-4185-adfa-194817877947	
+ ecd9e666-76cf-4984-a6b7-01764f387579		ce2b7e17-424e-4954-8a68-19d7f98d2e7e	
+ 365931c6-7328-42e9-919f-3b96847af1cc		f228ef91-ecfb-4d1e-8e6a-b43d2185270e	
+ 379f2694-a7e1-4f6f-98c1-aabaa42f883c		73d4e806-2c15-4c9e-a978-106fb9494e82	
+ ab4e6321-19ec-44d9-aa53-2391911d92d0		12d2b93e-a033-4b36-ae81-c15879eb40bd	
+ f73b4226-3788-4704-acae-67420da417dd		00f7f9d3-7a34-4a5b-9d19-38810dcabbba	
+ 71bae8ec-736d-4d84-8645-fbbd122caeec		79601d90-b198-4b94-b60f-4cff329c7a10	
+ 29a06cd9-5e37-41b7-954f-173a2ab44179		962dd3d5-8501-4658-8cb9-2424b476124c	
+ ac6a47f6-a38c-4f94-bac9-81fb034fb62d		5089a8d2-a353-4150-8a6b-6478c5bb29bb	
+ 03842b93-be03-4e34-a1c4-c29aa2f3a1ec		dcf383d5-b25a-4ea9-a3f4-4d7ea5ddd9ef	
+ 2e51da70-984c-491f-a9eb-1bbb34f01a49		6641a298-1dbd-445d-a4ab-95ceb98e1427	
+ 087237e9-564b-46b8-8f1d-8de3406314b1		f16ce517-d51d-499a-a4c4-a6844fefa52c	
+ 5c810244-da67-425d-8315-da8c34d6a16f		df7bbd9c-0b35-4855-acde-46f4956f4df1	
+ 86a0580e-36fc-4afd-ae47-966d6b1dc108		3fc9e3b4-8bc5-4bf8-bff6-dd90346b83a1	
+ ba24c391-5c1e-47ed-a058-142c8e1feeee		a3cd3599-7c18-491d-be09-6fc7e526c9b1	
+ d2f45990-6e87-46f9-893c-8db4e8eec983		f9f136a5-3ccb-42b3-ba60-c667fbb0846d	
+ 00d07ccd-92c1-4e36-9ccc-4dae23baa878		208a75b3-407c-4c5a-8938-3691547b6887	
+ 74e478ae-4fd2-454f-a0d1-0d2d37527fb8		cf70909e-5143-47ae-b8ca-c3ae6ace7be2	
+ 45a165ad-d560-4ed7-87ac-056436c3d192		827caf2c-a94b-4eee-86b3-1155a16daf4a	
+ d15683ba-3e40-4447-bca8-760f87c6c438		75d22d59-dec8-4f59-86c8-36b5e9f4fb0d	
+ f7dc706c-fd50-4f2b-8b98-db4e3e844012		929837f9-297a-47c0-ac9a-a142eef620d3	
+ 0b87ca7d-24d1-4192-8562-96b302bb907f		7ce45134-5b1f-4ea7-ace9-7e463b034a43	
+ c66f09bd-db15-4633-aeba-4f579345c6d0		2b5ef82d-e137-43f6-bfef-b202f20ee187	
+ 10812a81-93f3-4eb6-967f-b415d2263f0e		6394e00a-1f6f-4ea2-b885-373bbb59def9	
+ 01ba16d8-9bb6-47e4-a32c-887197f7b36d		ab540819-9531-4e99-868a-751649f25e6a	
+ d76bd858-d1bd-40a1-9abf-4015860fd89b		7c398299-d789-4185-adfa-194817877947	
+ 8630a7bf-bde9-4726-ac4d-8641b8365de9		fcbd7b29-12da-44c8-b241-1388d1b15684	
+ dd83711f-fea0-42e2-93ca-58faed54db89		5a92ec4c-36ee-4588-aca2-e3303f29c7ad	
+ b82d7dc1-f6b3-4474-93bd-9bfbefe30139		ce3585d3-7388-4d05-84c8-64e0883003b3	
+ 5d9192ed-c94c-472c-b614-fc31cc044d3b		105e12bf-4f39-4d7a-870f-fbc329ee210a	
+ cf6e6dd2-52d7-488b-8552-3e174d19744f		30f623a3-dae7-41da-ab10-8786d094209e	
+ 0d12cfa6-26d0-40cd-9278-2fc8f1f81f08		39a5aebe-acad-4141-aa5a-66228c4049f8	
+ a4f80437-b585-4146-b6e0-9e8e44fef3da		df4a7caa-6289-4157-8cb4-6ce8784e7506	
+ e8c4b6f6-86d6-48a2-bbfb-7b8da1493669		5a790086-4887-4d2b-9c28-0fdd5dd1f1fb	
+ bd4e531f-404d-4daa-8842-9718b657a281		c3fd52fe-bdc2-4cca-91c7-590a192f80ed	
+ a5c0313c-ca6b-401e-b90c-7d321d458a31		b7b61392-c085-4e28-892f-e9b6fe6ece41	
+ 6a9df8aa-9487-4bf5-b8a5-a16e2f28eaaf		89afdebe-456e-4128-8902-1001876a2106	
+ e6bd9212-3027-4fd0-a68c-8eba98159fa7		007f9081-5093-4323-b4f8-cd510bf20705	
+ 97303517-3824-482e-b245-cd3da03be6f1		2eccaabe-0783-4596-b674-d59846373a1d	
+ 34e9198a-0d9e-4624-9f78-4b09ec5f2a6c		2d70eacc-d0c3-4121-bd1a-a47d68ecede5	
+ 0d562f3c-4786-477f-9073-26c5f8413d52		daa9292e-8012-4aa2-8221-ad65fb1c7b78	
+ 61396ff0-5975-4cf6-9142-ce0349096ebc		351239db-52d3-4ab5-bd4f-8feaa6701ba1	
+ fac8ffea-e7f8-41d3-889f-dd24cf5dcd64		2dee4bd8-b00e-4f8a-bfea-5d8d1a068202	
+ 26e0ebbb-acc0-42da-8ba0-893de310f978		93cf60a7-1d61-4c1c-8dce-221289800b0c	
+ a5b84007-f6ea-43a8-92a8-cf0172b85790		0b5ed938-6ab8-4e76-8558-1d86f3a90dfa	
+ 2e17d22b-df41-4ea2-afd3-edce529c9a20		629855ea-551e-456c-b421-83b9a4eb3269	
+ 792c5d3f-768a-4630-9cb3-6fbbacf5e964		06c9eb11-6018-4015-9fbe-b46886b2c3e0	
+ c3e0e54f-67a2-4cc7-9b98-51cd1fc1c318		7eea6fd7-733c-44eb-b4b7-50bb3a2628a0	
+ 5ee5825f-1688-49df-a83b-26ca8288c2a4		3e290dc6-aba3-4135-b844-3e8c4cc8a25f	
+ 574a6e8b-f27d-4fe5-8d21-6d0857077ac5		ead15a1b-726a-46aa-9005-a22f4b89d011	
+ 64835121-88ee-417e-b978-5e0eafc615b8		2d350c73-2a0b-4a3c-8d30-c6fcf6c3ffba	
+ 18fadec2-995f-42b3-9f32-ac72d2670608		eb715348-7c5c-4e95-bac8-05604bdda2da	
+ 293f781c-c2c7-479b-b1a6-5f951a2c5e5a		23e56e08-e11d-4e83-88a8-1254675b3af8	
+ 8a62da06-7d92-47d9-86fe-07676e6ac836		159b47b2-dc7d-4856-9a00-454e27301e23	
+ 463bc174-d782-4e0f-b8ab-e424b330c7f7		dec99f86-622b-477f-a26a-98c954fb1f17	
+ fc3cdabd-8915-4d8e-99f6-84a7fa9bd27a		c024c4b6-0143-4071-9175-7435f1eaac58	
+ 8994a220-e271-46ea-b68f-28388545c317		716eb429-d7af-4d4f-bd8d-afcff1a323ee	
+ aca8551c-6477-4cd2-a7d0-72b093c56a69		eb80244a-5f20-49a8-8f73-e92c14395895	
+ 678b42ec-7932-47a8-98df-39f5d25b7562		ca076cfd-c628-4af2-837c-37617429adb9	
+ 28436e84-7985-4676-a36c-4b18f064db9a		eec48399-5660-4b25-8d34-191b54315c72	
+ d4a89263-a535-44dc-b2d4-86405c5a3191		a5c77ab6-6e98-4a3d-81c8-f3d5fabd31d2	
+ 8bc5e0ab-5177-49f7-8b17-e7782996202d		969399cd-47b6-4c0f-8939-3860be3014f9	
+ f07e44d4-d773-4542-abd8-921540b147bb		cccdd4a2-ebf0-482d-b71c-9fe44414eec6	
+ 50b1e243-b45a-42a1-8692-b7ae5d51250f		261c3d74-706e-4751-bd15-8f3c1a402ff0	
+ fb1f3dbb-8353-4bfc-b0eb-5da03492262e		42b7d14f-09e5-4d91-bb98-5fe35907a6a9	
+ 7f1ca00a-84ba-4b26-a1a5-4d83c363ac69		10fbe481-f111-4f88-ae45-4d67cb265567	
+ 609e8c56-485a-4a1d-aa5d-ab4781c39cc7		ff49e0f9-4007-4761-845e-b676b0fc9646	
+ 23c4ade3-dc70-4bd0-95f0-c7be9eec4d99		c46022f8-b122-4367-836b-ec1ae641a87d	
+ 845e0bb4-122b-47a9-b106-a8e658bec473		f0f637b5-de40-4853-b54b-08468d45b195	
+ c58837d2-3931-4d77-87bd-24dbb7517c19		f3e93819-a8f5-4d15-a416-3edd42aa52d1	
+ 7ff2571a-0e33-4ec6-aba7-e9a5843005b6		e0dfc37a-4a2e-4353-9673-241b100b3467	
+ fb32ee2b-3ed2-4a8b-a7ed-89ef4bef7661		4048c139-1329-4e6a-8d2f-c0aa104a68ee	
+ c8746255-e8ec-4692-8a09-0a6438f5efa6		c506fae4-7c0a-4705-8e80-5bcc122a8a32	
+ f8799b1d-3e1e-4d2a-ac5c-63509cd01c8b		d07d20f4-dd65-4ffc-add4-01f350ca7b65	
+ 23c04493-58ff-4af4-a2df-9dbdd52d4e48		8bfac5b9-fa2b-4b6e-9537-e9d8a2f0d1dc	
+ 9815ad1d-4855-4da4-839c-ffcf705347d3		33283111-9a2f-4d5e-92a5-3435846404f7	
+ fde485ee-fc50-4398-a1f7-06e84028479a		9357e8eb-1ce5-4c0f-a668-e5e7f3031d6c	
+ 362152fc-c864-446f-b73d-3bd9926755b8		d843996c-0f17-4482-8466-9f6144981b8a	
+ a8d17ab3-05e9-4f09-a76b-c5740ee14f41		f00b4a22-c327-4fbb-a9a3-4418c13e2a48	
+ 90d86eaa-de07-46a6-aa08-8906f255ae65		9044098b-415d-4893-a682-3636f6b2b2db	
+ f337b49f-54b4-4a3f-9b2e-075249ea8f13		105e12bf-4f39-4d7a-870f-fbc329ee210a	
+ b8efa698-2592-447e-b038-3b4da4ebf6de		854a481b-71a2-4f23-80aa-e91e9f4069b1	
+ a57c0f87-eec2-4a38-998d-294959df3d34		d6974db6-2bd3-4082-b48e-9c60f7fe3a1f	
+ b4db6bb2-71f8-44d8-a00f-6d87d1deb7ba		5277f041-f9fb-47c2-83f3-65ad230dd40a	
+ 6660b8f2-95ae-4689-a6e0-ed2edba45ccf		2eccaabe-0783-4596-b674-d59846373a1d	
+ 8340e524-5498-4243-b80f-416915f3604c		bea84d33-3286-44e2-9595-893c34a01f58	
+ 9b2182a4-8ac1-4d66-be12-cdd906a100a2		2def2a53-d2e8-46f0-8b07-f32dbf1833a4	
+ 68e09db6-a35c-43fc-ac1f-c5b66bb3ae2b		c4c1b5be-a0e7-4968-92de-7f34c71207fb	
+ bb8583d6-621a-4f59-87af-0a72dd30e1a6		aae0fca8-99e9-4fde-a2e9-b0ea500737f8	
+ 434c8d21-e732-4485-a382-84e8abf8bdb5		717c0fd3-527b-4d5e-a9ab-0f141fcc84e8	
+ df551c39-d578-49ea-8e80-24c14dbb340d		ea953ce5-7082-41ff-8e38-760fe4100414	
+ 1a1706aa-9a73-4b24-b51d-56d3764ea665		25d70934-01a5-45a2-9960-68d3058b6965	
+ 51db8439-c35f-472e-baf0-8e6e22833c39		ac67d0df-7dc0-4a1a-8b47-beec9b94de86	
+ 2ef588a2-879b-49c7-b880-227f72467804		181c6d37-9d8d-4ffa-827b-e3785450ff88	
+ 50f0645a-3e19-4a87-b182-a77e3ca3eab6		9357e8eb-1ce5-4c0f-a668-e5e7f3031d6c	
+ 4ca66d58-c6b9-4c71-b209-aa0a52690c09		aa405b5f-f75d-486a-96f3-1df7add18193	
+ f1e42f84-82bb-4e9a-9093-d8dc73dc6653		89a297be-ebb5-4b9f-8eda-0e548d14ad91	
+ dd8c6e47-fb57-4114-ab7a-9c49e5ff0613		1d2c5f72-cdca-4cc8-8a96-2abe10207356	
+ 9dce7b79-9898-4034-bf5a-463e3eba9f39		9a8caef5-6543-4391-8a55-4999035693c5	
+ 96a30919-cafe-43b9-9f46-226a8a38d246		618272c0-c2ed-4bfb-bb4b-404f0987f822	
+ 5d447810-0a8c-4047-90aa-835f4f42134d		c506fae4-7c0a-4705-8e80-5bcc122a8a32	
+ 812bc9a9-75fc-4ab0-99d7-8e2d45c17f4c		12f225d0-cbff-44eb-9183-bacc7f33b090	
+ 37744749-dd3a-43dc-b690-4270748f7885		d4dc7c5c-45b3-4741-b0c1-fee477da2ef4	
+ b436546f-99a3-4f71-b1aa-8653fe9471ec		0af98331-9305-41e9-af55-30390016d65e	
+ 14a14273-2596-4f11-82ef-cdfa397cb9a3		305b0b57-5952-43c7-9063-7bcd954eb44d	
+ 5fb0dad4-c9d6-4c38-9d1e-ee258dc133cb		13ce70a8-785c-4b59-b073-41922cb201f9	
+ 94207d64-f627-4ce4-b463-6ea128d2ad79		1170f449-dfb5-417a-a89b-b2229a2785db	
+ 447d759f-3770-49ac-8ff4-80ede8b435cd		6ef0fc2d-f274-4253-bec5-6dbd55953d76	
+ da45f3a1-439a-45b0-8e3d-9761899018a9		f8b98552-ae2a-4609-9929-7864485b3c51	
+ 58fdfbae-715d-4b84-9c40-5f5823a79bef		a8d81122-3f2a-43f4-bdc1-479cab37a19d	
+ 8df8a2b1-72de-4a9c-a20d-f659cefe1ed4		db2779f6-8fe2-48c3-988b-81db1815a678	
+ 4f11c4f9-f9a5-424a-b0cb-8bf2f444e04a		969399cd-47b6-4c0f-8939-3860be3014f9	
+ 59cd7fc8-c912-417b-9d55-f0b4918823bb		86b82965-b19b-4285-b1a5-51a5d5267103	
+ b63f37c1-b80c-44ba-9d98-1e621ee926d9		3f3128c9-1072-443c-b6ae-8b63166fa9a4	
+ f10cbfd4-a508-4061-a2b0-767db51dc211		5dd69c3e-9a3d-450c-9f10-10b4d6daeeba	
+ 3c1be2ab-1f84-46dc-b166-4d703d0e8ffa		b3bf57d4-e31a-4740-b438-fa826fb79550	
+ efe07af2-72d9-48b9-885c-8e7ca3760457		06c9eb11-6018-4015-9fbe-b46886b2c3e0	
+ 9f5e6063-d19e-4f56-b3f9-5c2260d3bfc9		e5e4d3b6-8e58-4dcf-8f67-a00e656a8e27	
+ 757ae720-46cc-4388-a24f-5c8ab52e12f4		a608bf0e-a932-4541-8439-2ffb9f6294b0	
+ 80182c4a-c41d-454a-bd5a-62ba971b8050		f4f81316-c99a-4a88-aa6c-e66fc5d60c53	
+ 4c074125-47a4-4533-a8f6-a96d06f5e5b7		5a4d8694-947d-45e9-9a21-6de0f63837f0	
+ 5e0102ae-f348-417d-b442-b660a411fd1a		12f225d0-cbff-44eb-9183-bacc7f33b090	
+ 9e26e7c1-58ba-4e1d-b9bc-bdac163f4834		db4793dc-cd45-4b81-93ce-8322031c2aa3	
+ 9b13b9bb-48e7-4bb4-81d0-3ce62ee0e536		cfcf057a-00fe-4603-a720-586712b75803	
+ 924c20dd-38c1-48a7-83c6-fd1bdffda680		dee02265-d8dd-4379-ae08-72d72b03a570	
+ 5fd313ed-de0b-435e-864c-1169b729acaf		24d7d4d8-f5c1-4d71-80e0-72a429fc9dbd	
+ 5a1f1c7e-8d3b-4323-a37d-767b65089dbf		3de1a86b-aaeb-4f0d-9f32-1fda924198d7	
+ 4756e8c9-7e46-469b-9b86-7683252186f5		eb715348-7c5c-4e95-bac8-05604bdda2da	
+ cd23f776-bd81-4c83-b0a2-6657ac9fd76d		e8f39c9e-0f1a-401c-9055-762b52bc77c7	
+ c1021edb-96b3-4849-9d2f-23a76cf0dd31		b2bcc97f-03a6-409a-8b91-78221cb10d7f	
+ 82e2c88f-f5dd-441d-8a01-80d89c3f693d		56829c8d-7bb7-4aac-999f-b1353db4915d	
+ a12577d4-bd62-4861-8ff9-5a105aefd37d		d7e22af5-88aa-4a83-985c-1d346dff652d	
+ 291dc91d-9f58-4a35-8a15-ebbc601c6bdb		69174712-af41-422d-952a-d8d0d16d7182	
+ c93901da-ca45-4879-a901-09753461f051		daa9292e-8012-4aa2-8221-ad65fb1c7b78	
+ b8daddf3-4dbc-47b1-b5bf-777c46131bb8		79ec7468-9aaf-4bb0-94c7-72be4f497868	
+ 737965eb-4771-4559-b50a-0a8a12278942		e6cbf99d-4a10-4c11-9ac2-eb26ef57331f	
+ e77da017-5dc6-4e32-9568-755e4ee9b533		23e56e08-e11d-4e83-88a8-1254675b3af8	
+ 87c4609d-4743-435b-8e1c-b5187a750224		ecf9f8be-7830-4626-8617-694c68ef4074	
+ a6bcbcc8-3e2b-454f-933d-cf8a793858c6		13ce70a8-785c-4b59-b073-41922cb201f9	
+ 764d600c-bbe7-4996-8f5d-4ec9a3adc6af		eec48399-5660-4b25-8d34-191b54315c72	
+ 0c6efb93-b45f-4607-a8cf-c8b24859ad5d		25d70934-01a5-45a2-9960-68d3058b6965	
+ c0472d02-3ce9-46a1-a7af-29b75e27cb95		9b59ed95-e97f-4356-b976-e3fa0e9eee02	
+ 8f375497-1993-42be-aae3-0c55638053e7		53c43d14-2310-41e9-ac43-3cc298404338	
+ 11afac2e-9d8e-455c-8276-8cb5bdce0537		2c7ec330-261e-49c7-9424-6d83641dba6d	
+ e0bbf450-eb07-4a04-bfb5-5d1a5e885209		897a2af4-55af-4245-8629-1a71b622c17e	
+ 45c03982-3401-4737-b89c-b3a16aa6a7f4		d7763066-fb06-4519-9188-5de7dd12fdb7	
+ de2a74cb-41dc-42b1-831b-160074fee3b9		56c88739-c076-42cc-a2cb-fd613ab567b5	
+ 597e4011-ea99-4356-b1d9-8cfe35db7c3b		da5b0169-e4f4-4674-b348-220af03ff4b5	
+ e92edf41-954e-46d6-b1ec-63e2d070f16f		f4e17ba1-f14f-480e-8fe3-415909fc320a	
+ fc787cb2-b174-4f58-b4db-22eb3d987661		e82a04cf-e81e-43c6-9cd9-0e29fa0f00ae	
+ 93783be5-df68-4487-ac57-940bf725cbbd		fd50ff41-ec9d-4db1-a673-36ba0ca1eac8	
+ dfd72dae-c8b6-4f2c-aedc-173dff182937		aca312ab-6dbd-4183-8b22-8f37834f3426	
+ 5b812ff8-df95-4cb8-994f-3781ffaa7283		5e2ff1e6-87bc-4b91-a959-f0f553af4e27	
+ 05c383c1-ef34-477c-b518-2b48a62f2443		c28f931f-5ab2-4899-9fe9-54024f082d92	
+ 14d30fae-711c-4b77-a452-4fd8eb1c039c		c03ae0f2-dde3-47e8-a046-ce85c86dd77d	
+ d84f00dc-8c0d-4a2a-99e3-836a59aba5b7		a8396f6d-53e2-4664-a3e2-df061d022108	
+ d3e100b0-9027-432d-9ab6-2690e7753289		93e78f4c-e74b-4675-8d2c-d641fa25d8f2	
+ 1bd30acf-01c3-4c96-a016-63e8dce66217		e1c3d1bd-cf8f-4fa4-ac8e-bf9e54f7aad4	
+ 89d2e3cb-1a54-4f5b-93e9-e2ce8cb8074c		a186c956-6756-4339-9793-494fe9b80c94	
+ 955bd0b6-b0f9-4092-9509-d09a7c632fd1		f97fed28-fdf3-4c82-8b6d-1015848b80dc	
+ 3953b74a-6ac2-443c-9c61-be6894c76d92		554a7381-46fd-4301-b91b-5af7f173c350	
+ a537ec83-4cbe-4ddc-9116-39468c6bd4bb		07ccb4e9-a2a9-4bfd-97bd-13873b01977a	
+ 1f4dae7e-36da-4014-a9df-9907ad1f7af8		42b7d14f-09e5-4d91-bb98-5fe35907a6a9	
+ 456a9fb1-804b-413e-ab74-dd30d4e6954e		4ef24cca-976b-4c2f-8810-4339967da570	
+ c17cad55-fb48-4813-8f26-083d3ece8ffa		8631bb5e-6d08-4c20-a85e-cb84f5dac290	
+ 110f12ed-ca50-4832-bba5-acdccedd3746		03c15d06-b81e-433c-9de4-906cba91539f	
+ da75b98c-dc27-4169-b36b-136c6fbd2afe		a08fd0a6-a89a-4adb-b641-d4c1238abb71	
+ d31caea4-427d-4b58-8a66-08aa09f6d2ea		9f802576-1e98-496c-bda4-4b1dd2e411c8	
+ 581be6cf-9778-49c3-9c77-1316eaa78929		18e79a01-07a2-4cd5-b700-71d41724e041	
+ 0c0aa301-47a5-4e4f-bba7-2d4928ad174f		b2bcc97f-03a6-409a-8b91-78221cb10d7f	
+ 66199aec-eed9-46c6-bbb4-e5048ee23e00		0b5ed938-6ab8-4e76-8558-1d86f3a90dfa	
+ 64b492d0-73c0-4de0-bad1-5ef62275b035		ae3a0c92-148d-4f1c-8563-06ac1050f53e	
+ d7ad26f0-ee2d-4a35-9f25-c860af727cbd		bdd4fefa-512a-4720-9f9e-11eb3892fe3c	
+ d47e6a60-b436-4ee5-b201-819ac01c600b		7315bb0a-96a1-45ab-a704-b084d237cf5c	
+ 818ac005-a711-4c39-a06c-d103c59def26		3fa83688-1724-42cb-a600-472e4c500e89	
+ 292347c6-bf93-4cea-a220-25a1054e259c		6433f001-db5c-476b-83c7-23f4c5397ae9	
+ b4f0563c-2660-42eb-aa93-bbe35d095334		88705b03-aa27-45c5-bef0-bb697799f9df	
+ ecef180f-ebad-4421-8489-69ff5a12d716		db2779f6-8fe2-48c3-988b-81db1815a678	
+ 637ce92c-479a-4333-a272-a3bc97468267		d843996c-0f17-4482-8466-9f6144981b8a	
+ 81a818c2-0b58-46fa-a0a7-6f7cf020ba45		1ea3b879-5451-49fb-b930-16e9b5627f18	
+ 71680fa7-bf45-4381-828f-0cc1f73a13c6		1170f449-dfb5-417a-a89b-b2229a2785db	
+ a1af817f-0d34-41c4-95e5-d61b174e3c6a		f4e9a9f9-263c-4ced-a8fb-6cb0fb088983	
+ 9e9272d1-8ef5-42c5-933e-c466a8f22479		89a297be-ebb5-4b9f-8eda-0e548d14ad91	
+ 6f555699-002c-43d7-b5ef-22deebbae2a5		629855ea-551e-456c-b421-83b9a4eb3269	
+ 12feb794-20b1-44b1-9c4f-fc995dad737f		c7912ca7-11e1-4cb8-902a-9d6cb23fd344	
+ 53b1cab7-43d1-4643-ac22-c93696c913ee		942f1788-d977-4ac0-a177-659f9d4cd077	
+ fe227d04-2285-41ff-b5b8-421a317a61c7		e82a04cf-e81e-43c6-9cd9-0e29fa0f00ae	
+ 5b85059c-7e9e-4d42-a942-12cd919eea93		10271d9c-9b9c-4b5f-a845-a0f1bd03af51	
+ c5de444a-73e7-4ab5-a966-7865d0d139ec		f98366df-9616-41c0-a6b8-ec92dca7177a	
+ 7756bd88-7802-41a3-abcb-aed3b0481164		1ea3b879-5451-49fb-b930-16e9b5627f18	
+ 1befde85-bf60-46a5-88b0-f6319b14a2fe		92f45022-ee76-418d-8f9e-c3509efda0c0	
+ 9b4b6723-8e0e-4e98-a726-c023723e08b1		214884ef-a932-4fc3-b6ff-16ce5164da3e	
+ ac89aa0d-1731-4467-9eb3-57726a089b7f		92f45022-ee76-418d-8f9e-c3509efda0c0	
+ fc6d5463-8229-4c14-b625-910f36daf247		08f11bdd-d665-45ab-b1a2-5485d91922c2	
+ 65e172e5-0c3a-46a6-9a66-78f0c77d8f7f		73b7d4bc-6b56-4ae8-be7f-074745563bee	
+ 90b319c1-a436-4ade-bade-62393163aeaf		159b47b2-dc7d-4856-9a00-454e27301e23	
+ 7fb84b2b-2982-40fd-81c4-64892a963f04		df7bbd9c-0b35-4855-acde-46f4956f4df1	
+ 8522e5d6-2758-432a-a023-6e6dc07e9893		9a8e27c9-614b-491f-913d-429dfc4e2c4d	
+ 36aca1a7-bdad-4b88-88b7-6c6f7bd62490		f7fc3f2e-c70e-460d-b34d-bb2ea423a0ae	
+ b4a3672a-baa0-4d94-aad4-c88dfc3d357f		07ccb4e9-a2a9-4bfd-97bd-13873b01977a	
+ 52d06f71-3337-45f9-9f4b-ffc975c73870		f16ce517-d51d-499a-a4c4-a6844fefa52c	
+ bc4c0fab-2cb2-4203-a0ed-c5fef2446f5e		eb80244a-5f20-49a8-8f73-e92c14395895	
+ 5281e78d-70d2-4c86-9c6f-9f73b6a45b9e		13a63fd0-6c8c-4707-9135-8052f454d1ac	
+ 9586dcd1-086c-4204-b6f8-2fd2965f1c22		a08fd0a6-a89a-4adb-b641-d4c1238abb71	
+ da36622f-b6d4-427f-b233-ed97fc76abc5		67cd72e2-a4cf-48e4-943e-406c252f056a	
+ 13b7e087-b8c9-4aca-82d5-bad335e8c8ac		deb57bd8-545f-477a-9a86-6bc6db257270	
+ e4ea4c81-9106-43af-b2ce-2352d6fd4978		8990ce28-c671-4487-8dda-864f0675bbb3	
+ 4734b728-d63b-4669-988d-eca6c1abb0f6		a3a4a518-2dac-4846-9476-1aa7e0c1fb5e	
+ 6773ad95-6d11-4f51-8b2b-5cc5ef4057ea		89c150cf-f60c-4f11-8f3e-384b0e0902f9	
+ a6cf8216-0d6d-4835-b09e-04ee0ae4841c		186d7f36-4e93-4ab2-bc23-95d5cd296656	
+ 61f27ebd-983d-453c-973f-2a30696c9729		d4ffafdc-ee83-43df-aa3b-7326503c6438	
+ b784d464-ed48-4b7e-ae31-b3fe20d63594		f97fed28-fdf3-4c82-8b6d-1015848b80dc	
+ da5750e6-fb1c-4bd9-9fc7-fa93504b0690		aa8b99fd-973f-465d-ae24-3421fe784687	
+ fd4e4ca0-0447-4148-8ee3-323010c60f2b		5a4d8694-947d-45e9-9a21-6de0f63837f0	
+ 61d23977-669f-4308-8e10-682b9c3c969d		7466d120-6a6e-40a0-96d3-4979816d6278	
+ 087a7f17-690b-460f-a9ce-ab90d316a64c		4b9aa301-d2e3-47f3-b724-a34f420b2b6b	
+ d1e9fad6-a37e-4dd5-8011-6cff3fa8fd57		6a5af80e-07ad-4cd3-aaab-5db1090835d9	
+ a73d17ac-6872-4b3d-a945-212f2a20d843		dc20ecf0-2807-4675-a7fd-8ead1cee7ea0	
+ 344706a8-f56a-4d3b-b7f9-97eb0aa3924d		39a5aebe-acad-4141-aa5a-66228c4049f8	
+ 1161c64b-4a41-4fce-a9d4-73d4f091c044		338fe754-fc4a-4294-ba15-42d4c7c9ac10	
+ 71f9ca33-4f59-47fa-98b2-6074451c14a4		d44d4bcb-beb1-4464-acd2-9972751f5018	
+ 4aeba7a2-387f-41b0-ba7d-24d6c0c96b22		adbf5bda-e2dc-4b25-8fb9-96d89093f77d	
+ c6995bd6-51d1-4786-9c0a-e4aebe984d5f		28689d40-03e5-4e17-aba1-f2d571535eed	
+ dcaa1a41-14fc-43fa-b8d5-fe4b38c53b26		f7238e82-a394-4a7c-8514-6241d0aa17e3	
+ 15291a8d-12a8-4092-914c-995dbb9b607b		0afa0e02-daae-47e6-9ccb-9de8e4feb73c	
+ 3dfed002-b5bd-4fb8-abad-1fcd74db1b68		00b16434-0b3a-4194-8714-74dccbebe06c	
+ 4992a5df-2ae7-4480-99ab-b908b3cdf96e		ecade538-f882-4f29-a363-7acb89fd0576	
+ 7f3b9e81-6a08-4d69-9cfa-8a6b2debb441		bf462e14-f9e8-4531-905d-1fb59d9088cb	
+ a4d93fb9-005b-4fc2-9c1d-409da6817ba8		256f5bcf-10a9-47be-b265-cfa707d24097	
+ 9a7279b2-607d-41b8-bee0-226b1ae34c08		70c6c3a0-b422-4541-a60f-355356a9a340	
+ 9c46bdf0-625f-4d00-ae75-b9e83d2fe3ea		d1b31524-8034-4fce-b14e-1cef33c26ca5	
+ 880022c4-45e7-4c49-92a2-231924b36310		931feb14-3f69-41c1-8435-5fd4fb775bdf	
+ 6ee4d1f0-da1d-4650-9d06-7f1bc0b11407		c606918f-e8c0-4019-ad6f-47d5cd7615c4	
+ 5b3c1e73-475c-4b3b-a49a-0f11810c5223		f6c61a22-a711-416d-9e65-6a1b957e5b2e	
+ b5f978ce-bc06-49da-99f3-b9064fdbe024		e833ad67-2cb3-414c-b15e-28f49479e2ef	
+ ccf76f57-aae5-4baf-a1cc-56a0a59c143b		ed7084f8-060c-4780-8b35-a03a5eab9684	
+ 8d1a3e2a-d051-4c36-89a2-dcf617cc1ea3		5d66ac77-1543-488b-a68f-665811bec67a	
+ 05ab92d0-9cba-4cd0-9f18-31dd0ef37394		6e3154d4-2ef6-403d-9de1-7b6233c4d505	
+ dbd87a78-31e4-4495-bd8c-2ac34aea261e		083cc988-19a5-49b4-97c0-4e7bcc5d5c08	
+ 89d60af8-dd60-4b74-88f5-779f6e026865		26eefaa1-1666-4ce1-8cf4-f6fabff81fd2	
+ ae7020ae-a05c-4600-8e4f-566529e96967		00dda860-53c3-4ab2-8294-73e291adf9d2	
+ 5c27050c-aef0-4f06-b6c3-fedca13d658a		58c27028-f37c-4cf1-b134-bd9aec9bf170	
+ 3b8bec14-e3b8-4447-a11a-96144843d4c1		aaeb1d59-d6ce-4422-9639-f1e83c002d84	
+ 5f6e7113-43b8-499c-bbaf-652990f11d43		083cc988-19a5-49b4-97c0-4e7bcc5d5c08	
+ b340dd39-ff48-4c98-82af-93c100df68eb		f0f637b5-de40-4853-b54b-08468d45b195	
+ 1f35d13e-3184-4b59-a41b-85912d6c2749		7efc26b2-eff9-4f1e-9f4b-f26af072c84a	
+ defe4c4d-743a-4352-8020-f614ba5bfe2d		2a51e1c2-8a8f-4df3-bcc6-7df94a47d94d	
+ 8c34b0c6-72f2-4a77-a188-e4148283941d		bcc94953-ce79-428e-99c1-632e42c1b9bc	
+ 9a41f5ef-4649-44de-883f-c7c0c4ee5de4		d07d20f4-dd65-4ffc-add4-01f350ca7b65	
+ 4a1b4f8f-a455-4055-bc01-504f65df35b8		cec1d2ff-36e6-497e-892c-b329724b4722	
+ bf511245-3f97-49f0-9422-c646fa25dba0		da5b0169-e4f4-4674-b348-220af03ff4b5	
+ 1237363b-46ba-4359-9af8-bd84098f47c1		91e249a6-b0b0-487e-9fad-0e9f5798dcae	
+ ab318624-db9d-41d8-b7b8-34712434f28f		59207bcd-f127-481f-b576-8716da7d7d97	
+ c2f36eb3-3972-4616-84d6-c570b24881f2		dc16f348-a49f-4958-a3ff-bc40e18df2bd	
+ 906935a6-9e29-4146-a7a0-d60f2507e774		c3a509c6-35a6-4d17-a9fd-0aa8884b33a0	
+ e71e87aa-f13b-4617-9571-e24be01192e1		ae739a4a-e319-4d87-8330-14f2fbc8839d	
+ 46642782-ebe5-4fd1-8991-d0ee682f5ab5		e0ff90e5-e6c3-4fb5-9512-6f09a891378b	
+ aa7b8960-9246-483f-a43b-9366501ee804		8e1ff72b-f1db-4bf9-a8d3-f422e25a65e1	
+ 18ee8074-9dce-4718-bedf-7f58f009bffb		b1bdaf2d-7d84-4409-9427-5390150bb96d	
+ b4377528-6017-41d2-ae39-1f280a2294ad		2b35c119-cdc1-49e2-8229-ca5cde9e63d0	
+ f79ad5e5-cf51-49cb-aafb-2c6ab3448ecc		8990ce28-c671-4487-8dda-864f0675bbb3	
+ 0caf5af2-ae80-4f39-ac6f-c2dbc2e8b820		c3a509c6-35a6-4d17-a9fd-0aa8884b33a0	
+ 48663fd9-664b-4ba1-a992-df8b0bc460e8		17916c4e-febe-48c6-b475-ad29397425e8	
+ feca02f5-4ac6-4bff-8de2-4256809ab640		0af98331-9305-41e9-af55-30390016d65e	
+ 18346a75-5c68-44ad-94d2-2c935cb2b87a		3a6e0fd1-6e06-4002-9d1a-88edf7944567	
+ d75f9a49-dfc3-493b-b9dd-4940d9803cfd		3acd8328-76f7-4f43-9660-394b95748c3d	
+ 993b5404-5434-45a7-8e8b-e099c11884bd		4f9f1fce-d96e-407b-a873-56129985aece	
+ 8a20984a-dea3-4ed4-a100-2b1d193eb825		2f231b79-84bc-4256-bf26-7ce64083d438	
+ 600ca654-1eb6-4434-bba1-210e230b973a		d4ff9f1a-1d35-4ad6-9a36-059547081c7e	
+ 67324969-d5d7-4ae7-b8f7-26b11d6c0439		c606918f-e8c0-4019-ad6f-47d5cd7615c4	
+ f54442d1-80fa-4678-ac94-c3ad03bc37fb		87959988-bb25-47ee-afc1-9af92592bbe7	
+ b330d9da-504a-4dfe-b696-ceebe0369ede		4bc71292-60bb-4b63-86c1-0fe021083804	
+ 4bfa7723-1fe3-42f2-8575-70305679ac12		93d10d8b-5f98-4d2c-8af3-11471385d4d4	
+ fa166681-7b67-4137-822c-f90e30c628f9		9519be01-d78d-462c-8a95-34149538afeb	
+ 7e2e1f2f-9929-485e-8b8f-cb092a7e3b1c		108dee1e-b27d-4056-a167-261725f548c1	
+ d96380bd-80d2-4c64-ae3f-6f886936204e		3e290dc6-aba3-4135-b844-3e8c4cc8a25f	
+ 2c4f634f-c147-49c3-b5d3-77175dc269cb		68fc3693-0910-4ee8-8997-99c6333b65f4	
+ f7be9369-def7-4cc9-8caa-9d546dc7c0df		607fd22b-f281-431b-848e-ae01e69567e2	
+ 12e7e0e3-0619-4659-ac66-f999415ad396		f6381367-142c-45d0-92b3-c1727d1813ce	
+ ba42b097-f2e5-46f4-b7fe-1209b3d5af9b		4f9f1fce-d96e-407b-a873-56129985aece	
+ 21e0de1c-8cdc-4b26-ba3f-e13f863af312		5d66ac77-1543-488b-a68f-665811bec67a	
+ 470a25cd-eea8-4ca6-b91c-86e36397135a		b5268f49-2710-4d17-a78b-4a05412e8375	
+ bab99ce8-a7bc-4637-9322-032ea79b8c23		6845076e-e940-4437-8618-81db4a447544	
+ ef3312fd-0ef1-4d54-9cea-4bf59a6ebf85		fb447e0f-7cf0-49bf-8b15-aae932f8094d	
+ 090a3fe0-0591-40bd-80fc-485baf11cc56		9d499039-37ca-4300-ae95-04bbe007c0d2	
