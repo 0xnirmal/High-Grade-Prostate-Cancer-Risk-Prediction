@@ -22,10 +22,8 @@ with open(map_path, 'r') as file:
 		uuid =  raw[2]
 		entity_id_to_uuid[entity_id] = uuid
 
-print(entity_id_to_uuid)
-sys.exit(-1)
-
 # Determining the UUID and Gleason scores of our clinical data
+uuid_to_gleason = {}
 for subdir, dirs, files in os.walk(clinical_path):
 	for file in files:
 		path = subdir + "/" + file
@@ -33,11 +31,20 @@ for subdir, dirs, files in os.walk(clinical_path):
 		if isXML:
 			tree = ET.parse(path)
 			root = tree.getroot()
+			uuid = None
+			gleason = None 
 			for neighbor in root.iter():
 				if neighbor.tag == "{http://tcga.nci/bcr/xml/shared/2.7}bcr_patient_uuid":
-					uuid = neighbor.text
-					print(uuid)
+					uuid = neighbor.text.lower()
 				if neighbor.tag == "{http://tcga.nci/bcr/xml/clinical/shared/stage/2.7}gleason_score":
 					gleason = neighbor.text
-					print(gleason)
+			uuid_to_gleason[uuid] = gleason
+
+entity_id_to_gleason = {}
+
+# Populating entity id to gleason map 
+for entity_id in entity_id_to_uuid.keys():
+	entity_id_to_gleason[entity_id] = (uuid_to_gleason[entity_id_to_uuid[entity_id]])
+
+
 					
