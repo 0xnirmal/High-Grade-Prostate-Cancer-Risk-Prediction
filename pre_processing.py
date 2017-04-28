@@ -51,7 +51,12 @@ for subdir, dirs, files in os.walk(snv_path):
 		path = subdir + "/" + file
 		isMAF = ((file[len(file) - 3:]) == "maf")
 		if isMAF:
-		# TO DO 
+		# TO DO for Emily 
+		# try this package http://biopython.org/wiki/Multiple_Alignment_Format
+
+	
+
+		
 			# with open(path, 'r') as maf_file:
 			# 	for line in maf_file:
 			# 		print(line)
