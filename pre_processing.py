@@ -46,5 +46,13 @@ entity_id_to_gleason = {}
 for entity_id in entity_id_to_uuid.keys():
 	entity_id_to_gleason[entity_id] = (uuid_to_gleason[entity_id_to_uuid[entity_id]])
 
-
+for subdir, dirs, files in os.walk(snv_path):
+	for file in files:
+		path = subdir + "/" + file
+		isMAF = ((file[len(file) - 3:]) == "maf")
+		if isMAF:
+		# TO DO 
+			# with open(path, 'r') as maf_file:
+			# 	for line in maf_file:
+			# 		print(line)
 					

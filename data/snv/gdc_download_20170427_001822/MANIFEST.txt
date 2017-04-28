@@ -1,2 +1,0 @@
-id	filename	md5	size	state
-a87f6f43-ec67-4f4d-a5e1-997b58eede9a	a87f6f43-ec67-4f4d-a5e1-997b58eede9a/TCGA.PRAD.muse.a87f6f43-ec67-4f4d-a5e1-997b58eede9a.somatic.maf.gz	206005d178dfc7aa0d204ca966b50197	3050255	live
