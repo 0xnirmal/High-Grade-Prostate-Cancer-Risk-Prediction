@@ -5,6 +5,14 @@ In this project, we are proposing a genome-wide associate study (GWAS) to determ
 For a detailed understanding of the study, see the proposal attached to this repo.
 
 ## Things To Do ##
-- [ ] Establish Data Pipeline
-
+- [X] Parse gleason labels
+- [X] Tie gleason labels to entity IDs in .maf file
+- [ ] Parse SNP data
+- [ ] Tie SNP data to gleason labels
+- [ ] Implement GWAS
+- [ ] Implement Cross Validation
+- [ ] Implement base-line (logistic regression)
+- [ ] Implement and evaluate Neural Network
+- [ ] Write final paper
+- [ ] Write powerpoint
 
