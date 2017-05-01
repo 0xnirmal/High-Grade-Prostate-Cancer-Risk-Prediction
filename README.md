@@ -7,7 +7,7 @@ For a detailed understanding of the study, see the proposal attached to this rep
 ## Things To Do ##
 - [X] Parse gleason labels
 - [X] Tie gleason labels to entity IDs in .maf file
-- [ ] Parse SNP data
+- [X] Parse SNP data
 - [ ] Tie SNP data to gleason labels
 - [ ] Implement GWAS
 - [ ] Implement Cross Validation

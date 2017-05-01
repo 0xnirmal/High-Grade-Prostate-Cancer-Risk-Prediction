@@ -2,18 +2,19 @@ import numpy as np
 import sys
 import os 
 import xml.etree.ElementTree as ET
-from Bio import AlignIO
 from sets import Set
 
 try:
 	data = sys.argv[1]
+	results = sys.argv[2]
 except BaseException:
-	print("\nError: This script should be run with the following (valid) flags:\n python pre_processing.py data\n")
+	print("\nError: This script should be run with the following (valid) flags:\n python pre_processing.py data/ results/\n")
 	sys.exit(-1)
 
 map_path = os.getcwd() + "/" + data + "/entity_id_to_uuid.txt" 
 snv_path = os.getcwd() + "/" + data + "/snv"
 clinical_path = os.getcwd() + "/" + data + "/clinical"
+results_path = os.getcwd() + "/" + results
 
 # creating a map from the entity id (in our snv data) to our patient uuid (in our clinical id)
 entity_id_to_uuid = {}
@@ -40,15 +41,15 @@ for subdir, dirs, files in os.walk(clinical_path):
 					uuid = neighbor.text.lower()
 				if neighbor.tag == "{http://tcga.nci/bcr/xml/clinical/shared/stage/2.7}gleason_score":
 					gleason = neighbor.text
-			uuid_to_gleason[uuid] = gleason
+			uuid_to_gleason[uuid] = int(gleason)
 
 entity_id_to_gleason = {}
-
-
 
 # Populating entity id to gleason map 
 for entity_id in entity_id_to_uuid.keys():
 	entity_id_to_gleason[entity_id] = (uuid_to_gleason[entity_id_to_uuid[entity_id]])
+
+label_list = []
 
 #get sorted list of every entity ID
 entity_ids = entity_id_to_gleason.keys()
@@ -70,6 +71,7 @@ feature_set = Set()
 data_matrix = []
 entity_id_to_features = {}
 
+# gathering feature set now
 for subdir, dirs, files in os.walk(snv_path):
 	for file in files:
 		path = subdir + "/" + file
@@ -121,4 +123,20 @@ for subdir, dirs, files in os.walk(snv_path):
 					row = entity_ids_to_row[entity_id]
 					column = feature_id_to_column[feature_id]
 					data_matrix[row][column] = feature_value
+				
+
+for entity_id in entity_ids:
+	gleason = entity_id_to_gleason[entity_id]
+	if gleason >= 8:
+		label_list.append(entity_id + ": " + str(1))
+	else:
+		label_list.append(entity_id + ": " + str(0))
+
+output = open(results_path + "/labels.txt", 'w')
+output.write('This is a test\n')
+output.close()
+print(label_list)	
+
+
+
 					
