@@ -2,6 +2,8 @@ import numpy as np
 import sys
 import os 
 import xml.etree.ElementTree as ET
+from Bio import AlignIO
+from sets import Set
 
 try:
 	data = sys.argv[1]
@@ -9,7 +11,7 @@ except BaseException:
 	print("\nError: This script should be run with the following (valid) flags:\n python pre_processing.py data\n")
 	sys.exit(-1)
 
-map_path = os.getcwd() + "/" + data + "entity_id_to_uuid.txt" 
+map_path = os.getcwd() + "/" + data + "/entity_id_to_uuid.txt" 
 snv_path = os.getcwd() + "/" + data + "/snv"
 clinical_path = os.getcwd() + "/" + data + "/clinical"
 
@@ -42,22 +44,81 @@ for subdir, dirs, files in os.walk(clinical_path):
 
 entity_id_to_gleason = {}
 
+
+
 # Populating entity id to gleason map 
 for entity_id in entity_id_to_uuid.keys():
 	entity_id_to_gleason[entity_id] = (uuid_to_gleason[entity_id_to_uuid[entity_id]])
+
+#get sorted list of every entity ID
+entity_ids = entity_id_to_gleason.keys()
+entity_ids.sort()
+entity_ids_to_row = {}
+
+for i in range (0, len(entity_ids)):
+	entity_ids_to_row[entity_ids[i]] = i
+
+#column numbers from file
+id_column = 32
+reference_column = 10
+allele_one_column = 11
+allele_two_column = 12
+start_position_column = 5
+end_position_column = 6
+
+feature_set = Set()
+data_matrix = []
+entity_id_to_features = {}
 
 for subdir, dirs, files in os.walk(snv_path):
 	for file in files:
 		path = subdir + "/" + file
 		isMAF = ((file[len(file) - 3:]) == "maf")
 		if isMAF:
-		# TO DO for Emily 
-		# try this package http://biopython.org/wiki/Multiple_Alignment_Format
+			snv_data = np.genfromtxt(path,dtype='str', delimiter='\t')
 
-	
+			for i in range(1, len(snv_data)):
+				#skip onto next item
+				if snv_data[i][start_position_column] != snv_data[i][end_position_column]:
+					continue
 
-		
-			# with open(path, 'r') as maf_file:
-			# 	for line in maf_file:
-			# 		print(line)
+				entity_id = snv_data[i][id_column]
+
+				if not(entity_id in entity_id_to_features):
+					entity_id_to_features[entity_id] = []
+
+				feature_id = snv_data[i][start_position_column]
+
+				#want to leave this sparse 
+				if snv_data[i][reference_column] == snv_data[i][allele_one_column] and snv_data[i][reference_column] == snv_data[i][allele_two_column]:
+					continue
+				if snv_data[i][reference_column] == '-' or snv_data[i][allele_one_column] == '-' or snv_data[i][allele_two_column] == '-':
+					continue
+				elif snv_data[i][reference_column] != snv_data[i][allele_one_column] and snv_data[i][reference_column] == snv_data[i][allele_two_column]:
+					next_feature = [feature_id, 1]
+				elif snv_data[i][reference_column] == snv_data[i][allele_one_column] and snv_data[i][reference_column] != snv_data[i][allele_two_column]:
+					next_feature = [feature_id, 1]
+				else:
+					next_feature = [feature_id, 2]
+
+				feature_set.add(feature_id)
+				entity_id_to_features[entity_id].append(next_feature)
+
+			feature_set = list(feature_set)
+			feature_set.sort()
+			feature_id_to_column = {}
+
+			for i in range(0, len(feature_set)):
+				feature_id_to_column[feature_set[i]] = i
+
+			data_matrix = np.zeros((len(entity_ids), len(feature_set)))
+
+			for entity_id in entity_id_to_features:
+				for i in range(0, len(entity_id_to_features[entity_id])):
+					feature_vector = entity_id_to_features[entity_id][i]
+					feature_id = feature_vector[0]
+					feature_value = feature_vector[1]
+					row = entity_ids_to_row[entity_id]
+					column = feature_id_to_column[feature_id]
+					data_matrix[row][column] = feature_value
 					
