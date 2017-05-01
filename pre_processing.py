@@ -123,14 +123,31 @@ for subdir, dirs, files in os.walk(snv_path):
 					row = entity_ids_to_row[entity_id]
 					column = feature_id_to_column[feature_id]
 					data_matrix[row][column] = feature_value
-				
+	
 
-for entity_id in entity_ids:
-	gleason = entity_id_to_gleason[entity_id]
-	if gleason >= 8:
-		label_list.append(entity_id + ": " + str(1))
-	else:
-		label_list.append(entity_id + ": " + str(0))
+# for entity_id in entity_ids:
+# 	gleason = entity_id_to_gleason[entity_id]
+# 	if gleason >= 8:
+# 		label_list.append(entity_id + ": " + str(1))
+# 	else:
+# 		label_list.append(entity_id + ": " + str(0))
+
+output = open(results_path + "/train_matrix.csv", 'w')
+headers = 'id,'
+for i in range (0, len(feature_set)):
+	headers += feature_set[i] + ','
+headers += '\n'
+output.write(headers)
+
+
+for i in range(0, len(entity_ids)):
+	row = entity_ids[i] + ','
+	for j in range (0, len(feature_set)):
+		row += str(data_matrix[i][j]) + ','
+	row += '\n'
+	output.write(row)
+
+output.close()
 
 output = open(results_path + "/labels.txt", 'w')
 output.write('This is a test\n')
