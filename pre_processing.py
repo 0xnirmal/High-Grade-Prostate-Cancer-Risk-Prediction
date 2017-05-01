@@ -139,7 +139,6 @@ for i in range (0, len(feature_set)):
 headers += '\n'
 output.write(headers)
 
-
 for i in range(0, len(entity_ids)):
 	row = entity_ids[i] + ','
 	for j in range (0, len(feature_set)):
