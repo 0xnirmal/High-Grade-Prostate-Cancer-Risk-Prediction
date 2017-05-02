@@ -32,6 +32,17 @@ log_reg = pickle.load(open(log_reg_path, "rb" ) )
 raw_data_matrix = np.genfromtxt(data_path, skip_header=1, delimiter=',')
 labels = np.genfromtxt(labels_path, delimiter=',', usecols=1)
 
+total = len(labels)
+zeros = 0
+ones = 1
+for label in (labels):
+	if label == 0:
+		zeros += 1
+	else:
+		ones += 1
+print(float(zeros) / total)
+print(float(ones) / total)
+
 print("Normalizing Data...")
 means = np.mean(raw_data_matrix, axis=0)
 stds = np.std(raw_data_matrix, axis=0, ddof=1)	
@@ -45,18 +56,22 @@ for i in range(raw_data_matrix.shape[0]):
 
 raw_data_matrix = std_data_matrix
 reduced_dim = pca.transform(raw_data_matrix)
+print(labels)
 print("Accuracy on Training Set:")
 
 label_predict = nn.predict(reduced_dim)
 print("Neural Network (125, 100) and Relu Activation Function")
 print(accuracy_score(labels, label_predict))
+print(label_predict)
 
 label_predict = poly_svm.predict(reduced_dim)
 print("Poly SVM, degree=4, c=1")
 print(accuracy_score(labels, label_predict))
+print(label_predict)
 
 label_predict = log_reg.predict(reduced_dim)
 print("Logistic Regression w/ L1 Penalty")
 print(accuracy_score(labels, label_predict))
+print(label_predict)
 
 
