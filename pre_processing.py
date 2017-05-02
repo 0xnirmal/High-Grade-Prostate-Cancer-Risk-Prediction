@@ -140,9 +140,8 @@ for entry in label_list:
 	output.write(entry)
 	output.write("\n")
 output.close()
-print(len(label_list))
 
-output = open(results_path + "/train_matrix.csv", 'w')
+output = open(results_path + "/data_matrix.csv", 'w')
 headers = 'id,'
 for i in range (0, len(feature_set)):
 	headers += feature_set[i] + ','
@@ -157,9 +156,3 @@ for i in range(0, len(entity_ids)):
 	output.write(row)
 
 output.close()
-
-
-
-
-
-					
