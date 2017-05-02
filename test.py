@@ -24,6 +24,8 @@ pca_path = os.getcwd() + "/" + data + "/pca_object"
 pca = pickle.load(open(pca_path, "rb" ) ) 
 nn_path = os.getcwd() + "/" + data + "/nn_object_relu_125_100"
 nn = pickle.load(open(nn_path, "rb" ) ) 
+poly_2_svm_path = os.getcwd() + "/" + data + "/svm_object_degree_2"
+poly_2_svm = pickle.load(open(poly_2_svm_path, "rb" ) ) 
 poly_svm_path = os.getcwd() + "/" + data + "/svm_object_degree_4"
 poly_svm = pickle.load(open(poly_svm_path, "rb" ) ) 
 log_reg_path = os.getcwd() + "/" + data + "/logreg_object_l1"
@@ -61,6 +63,11 @@ print("Accuracy on Training Set:")
 
 label_predict = nn.predict(reduced_dim)
 print("Neural Network (125, 100) and Relu Activation Function")
+print(accuracy_score(labels, label_predict))
+print(label_predict)
+
+label_predict = poly_2_svm.predict(reduced_dim)
+print("Poly SVM, degree=2, c=1")
 print(accuracy_score(labels, label_predict))
 print(label_predict)
 

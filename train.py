@@ -76,6 +76,8 @@ clf = svm.SVC(kernel='poly', C=1, degree=2)
 scores = cross_val_score(clf, reduced_dim, labels, cv=5)
 print("Poly SVM, degree=2, w/ C = 1")
 print(sum(scores)/len(scores))
+clf.fit(reduced_dim, labels)
+pickle.dump(clf, open(results_path + "svm_object_degree_2", "wb" ) )
 
 clf = svm.SVC(kernel='poly', C=1, degree=4)
 scores = cross_val_score(clf, reduced_dim, labels, cv=5)
@@ -105,73 +107,3 @@ model = linear_model.LogisticRegression(C=1e86, penalty="l2", fit_intercept=True
 scores = cross_val_score(model, reduced_dim, labels, cv=5)
 print("Logistic Regression w/ L2 Penalty")
 print(sum(scores)/len(scores))
-
-# clf = LinearDiscriminantAnalysis()
-# scores = cross_val_score(clf, raw_data_matrix, labels, cv=5)
-# print("LDA w/ no DR")
-# print(sum(scores)/len(scores))
-
-# clf = LinearDiscriminantAnalysis(n_components=10000)
-# scores = cross_val_score(clf, raw_data_matrix, labels, cv=5)
-# print("LDA w/ DR=10000")
-# print(sum(scores)/len(scores))
-
-# clf = LinearDiscriminantAnalysis(n_components=1000)
-# scores = cross_val_score(clf, raw_data_matrix, labels, cv=5)
-# print("LDA w/ DR=1000")
-# print(sum(scores)/len(scores))
-
-# clf = LinearDiscriminantAnalysis(n_components=100)
-# scores = cross_val_score(clf, raw_data_matrix, labels, cv=5)
-# print("LDA w/ DR=100")
-# print(sum(scores)/len(scores))
-
-# clf = svm.SVC(kernel='linear', C=1)
-# scores = cross_val_score(clf, raw_data_matrix, labels, cv=5)
-# print("RBF Linear w/ C = 1")
-# print(sum(scores)/len(scores))
-
-# clf = svm.SVC(kernel='rbf', C=1)
-# scores = cross_val_score(clf, raw_data_matrix, labels, cv=5)
-# print("RBF Kernel w/ C = 1")
-# print(sum(scores)/len(scores))
-
-# model = linear_model.LogisticRegression(C=1e86, penalty="l1", fit_intercept=True) 
-# scores = cross_val_score(model, raw_data_matrix, labels, cv=5)
-# print("Logistic Regression w/ L1 Penalty")
-# print(sum(scores)/len(scores))
-
-# model = linear_model.LogisticRegression(C=1e86, penalty="l2", fit_intercept=True) 
-# scores = cross_val_score(model, raw_data_matrix, labels, cv=5)
-# print("Logistic Regression w/ L2 Penalty")
-# print(sum(scores)/len(scores))
-
-# clf = MLPClassifier(hidden_layer_sizes=(50, 50, 50, 50), random_state=1, activation='logistic', max_iter=10000)
-# scores = cross_val_score(clf, raw_data_matrix, labels, cv=5)
-# print("Neural Network (50, 50, 50, 50) and Logistic Activation Function")
-# print(sum(scores)/len(scores))
-
-# clf = MLPClassifier(hidden_layer_sizes=(1000, 1000), random_state=1, activation='logistic', max_iter=10000)
-# scores = cross_val_score(clf, raw_data_matrix, labels, cv=5)
-# print("Neural Network (1000, 1000) and Logistic Activation Function")
-# print(sum(scores)/len(scores))
-
-# clf = MLPClassifier(hidden_layer_sizes=(10000, 5000, 1000, 100), random_state=1, activation='logistic', max_iter=10000)
-# scores = cross_val_score(clf, raw_data_matrix, labels, cv=5)
-# print("Neural Network (10000, 5000, 1000, 100) and Logistic Activation Function")
-# print(sum(scores)/len(scores))
-
-# clf = MLPClassifier(hidden_layer_sizes=(50, 50, 50, 50), random_state=1, activation='relu', max_iter=10000)
-# scores = cross_val_score(clf, raw_data_matrix, labels, cv=5)
-# print("Neural Network (50, 50, 50, 50) and Relu Activation Function")
-# print(sum(scores)/len(scores))
-
-# clf = MLPClassifier(hidden_layer_sizes=(1000, 1000), random_state=1, activation='relu', max_iter=10000)
-# scores = cross_val_score(clf, raw_data_matrix, labels, cv=5)
-# print("Neural Network (1000, 1000) and Relu Activation Function")
-# print(sum(scores)/len(scores))
-
-# clf = MLPClassifier(hidden_layer_sizes=(10000, 5000, 1000, 100), random_state=1, activation='relu', max_iter=10000)
-# scores = cross_val_score(clf, raw_data_matrix, labels, cv=5)
-# print("Neural Network (10000, 5000, 1000, 100) and Relu Activation Function")
-# print(sum(scores)/len(scores))
