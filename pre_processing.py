@@ -3,6 +3,7 @@ import sys
 import os 
 import xml.etree.ElementTree as ET
 from sets import Set
+from sklearn.model_selection import train_test_split
 
 try:
 	data = sys.argv[1]
@@ -50,10 +51,6 @@ for entity_id in entity_id_to_uuid.keys():
 	entity_id_to_gleason[entity_id] = (uuid_to_gleason[entity_id_to_uuid[entity_id]])
 
 label_list = []
-
-
-
-
 
 #column numbers from file
 id_column = 32
@@ -135,24 +132,85 @@ for entity_id in entity_ids:
 	else:
 		label_list.append(entity_id + "," + str(0))
 
-output = open(results_path + "/labels.csv", 'w')
-for entry in label_list:
+X_train, X_test, y_train, y_test = train_test_split(data_matrix, label_list, test_size=0.2, random_state=0)
+
+output = open(results_path + "/train_labels.csv", 'w')
+for entry in y_train:
 	output.write(entry)
 	output.write("\n")
 output.close()
 
-output = open(results_path + "/data_matrix.csv", 'w')
-headers = 'id,'
+output = open(results_path + "/test_labels.csv", 'w')
+for entry in y_test:
+	output.write(entry)
+	output.write("\n")
+output.close()
+
+output = open(results_path + "/train_data_matrix.csv", 'w')
+# headers = 'id,'
+headers = ''
 for i in range (0, len(feature_set)):
 	headers += feature_set[i] + ','
 headers += '\n'
 output.write(headers)
 
-for i in range(0, len(entity_ids)):
-	row = entity_ids[i] + ','
+for i in range(0, X_train.shape[0]):
+	# row = entity_ids[i] + ','
+	row = ''
 	for j in range (0, len(feature_set)):
-		row += str(data_matrix[i][j]) + ','
+		if j == len(feature_set) -1:
+			row += str(X_train[i][j])
+		else:
+			row += str(X_train[i][j]) + ','
 	row += '\n'
 	output.write(row)
-
 output.close()
+
+output = open(results_path + "/test_data_matrix.csv", 'w')
+# headers = 'id,'
+headers = ''
+for i in range (0, len(feature_set)):
+	headers += feature_set[i] + ','
+headers += '\n'
+output.write(headers)
+
+for i in range(0, X_test.shape[0]):
+	# row = entity_ids[i] + ','
+	row = ''
+	for j in range (0, len(feature_set)):
+		if j == len(feature_set) -1:
+			row += str(X_test[i][j])
+		else:
+			row += str(X_test[i][j]) + ','
+	row += '\n'
+	output.write(row)
+output.close()
+
+# output = open(results_path + "/labels.csv", 'w')
+# for entry in label_list:
+# 	output.write(entry)
+# 	output.write("\n")
+# output.close()
+
+# output = open(results_path + "/labels.csv", 'w')
+# for entry in label_list:
+# 	output.write(entry)
+# 	output.write("\n")
+# output.close()
+
+# output = open(results_path + "/data_matrix.csv", 'w')
+# headers = 'id,'
+# for i in range (0, len(feature_set)):
+# 	headers += feature_set[i] + ','
+# headers += '\n'
+# output.write(headers)
+
+# for i in range(0, len(entity_ids)):
+# 	row = entity_ids[i] + ','
+# 	for j in range (0, len(feature_set)):
+# 		row += str(data_matrix[i][j]) + ','
+# 	row += '\n'
+# 	output.write(row)
+
+# output.close()
+
