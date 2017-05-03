@@ -10,7 +10,7 @@ For a detailed understanding of the study, see the proposal attached to this rep
 - [X] Parse SNP data
 - [X] Tie SNP data to gleason labels
 - [X] Implement Cross Validation
-- [ ] Evaluate performance of different methods 
+- [X] Evaluate performance of different methods 
 - [ ] Write final paper
 - [ ] Write powerpoint
 
