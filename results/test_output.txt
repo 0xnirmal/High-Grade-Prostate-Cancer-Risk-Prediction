@@ -1,7 +1,0 @@
-Accuracy on Training Set:
-Neural Network (125, 100) w/ Relu Activation Function
-0.56
-Poly SVM, degree=2, C=1
-0.55
-Logistic Regression w/ L1 Penalty
-0.55
