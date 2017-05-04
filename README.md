@@ -1,8 +1,8 @@
 # Computational Genomics Final Project #
 
-In this project, we are proposing a classification engine using single-nucleotide polymorphisms (SNPs) to predict patients who are significantly at risk of developing HGPCa. 
+In this project, we are proposing a classification engine using somatic single-nucleotide polymorphisms (SNPs) to predict patients who are significantly at risk of developing HGPCa. 
 
-For a detailed understanding of the study, see the proposal attached to this repo.
+For a detailed understanding of the study, see the writeup attached to this repo.
 
 ## Things To Do ##
 - [X] Setup data pipeline
