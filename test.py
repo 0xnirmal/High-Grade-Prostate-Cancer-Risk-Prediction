@@ -19,6 +19,8 @@ except BaseException:
 
 data_path = os.getcwd() + "/" + data + "/test_data_matrix.csv" 
 labels_path = os.getcwd() + "/" + data + "/test_labels.csv"
+results_path = os.getcwd() + "/" + results
+output = open(results_path + "/test_output.txt", 'w')
 
 pca_path = os.getcwd() + "/" + data + "/pca_object"
 pca = pickle.load(open(pca_path, "rb" ) ) 
@@ -26,26 +28,12 @@ nn_path = os.getcwd() + "/" + data + "/nn_object_relu_125_100"
 nn = pickle.load(open(nn_path, "rb" ) ) 
 poly_2_svm_path = os.getcwd() + "/" + data + "/svm_object_degree_2"
 poly_2_svm = pickle.load(open(poly_2_svm_path, "rb" ) ) 
-poly_svm_path = os.getcwd() + "/" + data + "/svm_object_degree_4"
-poly_svm = pickle.load(open(poly_svm_path, "rb" ) ) 
 log_reg_path = os.getcwd() + "/" + data + "/logreg_object_l1"
 log_reg = pickle.load(open(log_reg_path, "rb" ) ) 
 
 raw_data_matrix = np.genfromtxt(data_path, skip_header=1, delimiter=',')
 labels = np.genfromtxt(labels_path, delimiter=',', usecols=1)
 
-total = len(labels)
-zeros = 0
-ones = 1
-for label in (labels):
-	if label == 0:
-		zeros += 1
-	else:
-		ones += 1
-print(float(zeros) / total)
-print(float(ones) / total)
-
-print("Normalizing Data...")
 means = np.mean(raw_data_matrix, axis=0)
 stds = np.std(raw_data_matrix, axis=0, ddof=1)	
 std_data_matrix = np.zeros(raw_data_matrix.shape)
@@ -58,27 +46,19 @@ for i in range(raw_data_matrix.shape[0]):
 
 raw_data_matrix = std_data_matrix
 reduced_dim = pca.transform(raw_data_matrix)
-print(labels)
-print("Accuracy on Training Set:")
+output.write("Accuracy on Training Set:\n")
 
 label_predict = nn.predict(reduced_dim)
-print("Neural Network (125, 100) and Relu Activation Function")
-print(accuracy_score(labels, label_predict))
-print(label_predict)
+output.write("Neural Network (125, 100) w/ Relu Activation Function\n")
+output.write(str(accuracy_score(labels, label_predict)))
 
 label_predict = poly_2_svm.predict(reduced_dim)
-print("Poly SVM, degree=2, c=1")
-print(accuracy_score(labels, label_predict))
-print(label_predict)
-
-label_predict = poly_svm.predict(reduced_dim)
-print("Poly SVM, degree=4, c=1")
-print(accuracy_score(labels, label_predict))
-print(label_predict)
+output.write("\nPoly SVM, degree=2, C=1\n")
+output.write(str(accuracy_score(labels, label_predict)))
 
 label_predict = log_reg.predict(reduced_dim)
-print("Logistic Regression w/ L1 Penalty")
-print(accuracy_score(labels, label_predict))
-print(label_predict)
+output.write("\nLogistic Regression w/ L1 Penalty\n")
+output.write(str(accuracy_score(labels, label_predict)))
 
+output.close()
 

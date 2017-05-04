@@ -147,7 +147,6 @@ for entry in y_test:
 output.close()
 
 output = open(results_path + "/train_data_matrix.csv", 'w')
-# headers = 'id,'
 headers = ''
 for i in range (0, len(feature_set)):
 	headers += feature_set[i] + ','
@@ -155,7 +154,6 @@ headers += '\n'
 output.write(headers)
 
 for i in range(0, X_train.shape[0]):
-	# row = entity_ids[i] + ','
 	row = ''
 	for j in range (0, len(feature_set)):
 		if j == len(feature_set) -1:
@@ -167,7 +165,6 @@ for i in range(0, X_train.shape[0]):
 output.close()
 
 output = open(results_path + "/test_data_matrix.csv", 'w')
-# headers = 'id,'
 headers = ''
 for i in range (0, len(feature_set)):
 	headers += feature_set[i] + ','
@@ -175,7 +172,6 @@ headers += '\n'
 output.write(headers)
 
 for i in range(0, X_test.shape[0]):
-	# row = entity_ids[i] + ','
 	row = ''
 	for j in range (0, len(feature_set)):
 		if j == len(feature_set) -1:
@@ -185,32 +181,4 @@ for i in range(0, X_test.shape[0]):
 	row += '\n'
 	output.write(row)
 output.close()
-
-# output = open(results_path + "/labels.csv", 'w')
-# for entry in label_list:
-# 	output.write(entry)
-# 	output.write("\n")
-# output.close()
-
-# output = open(results_path + "/labels.csv", 'w')
-# for entry in label_list:
-# 	output.write(entry)
-# 	output.write("\n")
-# output.close()
-
-# output = open(results_path + "/data_matrix.csv", 'w')
-# headers = 'id,'
-# for i in range (0, len(feature_set)):
-# 	headers += feature_set[i] + ','
-# headers += '\n'
-# output.write(headers)
-
-# for i in range(0, len(entity_ids)):
-# 	row = entity_ids[i] + ','
-# 	for j in range (0, len(feature_set)):
-# 		row += str(data_matrix[i][j]) + ','
-# 	row += '\n'
-# 	output.write(row)
-
-# output.close()
 
