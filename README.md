@@ -6,8 +6,8 @@ For a detailed understanding of the study, see the writeup attached to this repo
 
 ## Running Instructions ##
 ```
-data_directory='/your/data/directory'
-results_directory='/your/results/directory'
+data_directory='/data'
+results_directory='/results'
 sh process_data.sh $data_directory $results_directory
 sh train_model.sh $data_directory $results_directory
 sh test_model.sh $data_directory $results_directory
